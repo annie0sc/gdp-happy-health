@@ -23,14 +23,26 @@ As day by day customers' expectations increase continuously, product groups need
 - Product Designer - Annie Chandolu
 - UX Architect
 - Interaction Designer - Vineetha Yenugula
+<<<<<<< HEAD
 - Visual Designer - Navya Devineni
 - UX/UI Developer
+=======
+- Visual Designer
+- UX/UI Developer - Sindhu Rani Goli
+>>>>>>> 60a1472553908c8dfcc76123c00d6b70f8441217
 
 The above list is a basic summary of the roles available, but there are of course shared roles, and over-arcing positions that cover most bases.
 
 # Project Timeline
 # Deliverables
 # Time, Cost and Schedule Management
+## Time 
+The schedule for the project to reach completion.
+## Cost
+The financial constraints of a project, also known as the project budget.
+## Schedule Management: 
+Includes the procedures necessary to guarantee that the project is finished on schedule.
+
 # Testing and Maintainance
 # Assumptions
 
