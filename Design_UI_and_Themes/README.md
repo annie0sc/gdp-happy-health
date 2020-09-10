@@ -21,7 +21,7 @@ As day by day customers' expectations increase continuously, product groups need
 # Roles In Industrial Design
 
 - Product Designer - Annie Chandolu
-- UX Architect
+- UX Architect - Soujanya janapatla
 - Interaction Designer - Vineetha Yenugula
 - Visual Designer
 - UX/UI Developer - Sindhu Rani Goli
@@ -30,6 +30,13 @@ The above list is a basic summary of the roles available, but there are of cours
 
 # Project Timeline
 # Deliverables
+## Action Items for Friday, /0911/2020
+- Descriptions for Fonts, Icons and CSS Frameworks identified
+- Research on the prototying tool and principles
+- Start the implementations using the CSS Framework
+- Research on browser compatibility and know more on Web Accessability standards
+- Identify the challanges that come along with Mobile(iOS and Android) and Web platforms
+
 # Time, Cost and Schedule Management
 ## Time 
 The schedule for the project to reach completion.
