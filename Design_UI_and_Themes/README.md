@@ -8,6 +8,7 @@ This article is a technical onboarding document that can help you write your own
 A UX/UI roadmap is a significant level review of the plans and objectives identifying with an item's user experience, user interface, and user research. Product/item groups utilize these roadmaps to keep convenience a main concern at each phase of advancement. 
 
 - Why to create a roadmap ?
+
 As day by day customers' expectations increase continuously, product groups need to consider the user's experience into account in all of their product decisions.
 
 - Benefits :
@@ -35,6 +36,7 @@ The above list is a basic summary of the roles available, but there are of cours
 
 who will be your designers?  
 What responsive libraries will you use? 
+
 Material Design Bootstrap is an excellent choice, but there are others.  It must be responsive.  
 Draft key elements - the layout, fonts, icons, work closely with your client to address their preferences. 
 Can you list the screens needed for each user story? 
