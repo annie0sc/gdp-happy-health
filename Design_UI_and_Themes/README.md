@@ -31,9 +31,12 @@ The above list is a basic summary of the roles available, but there are of cours
 # Project Timeline
 # Deliverables
 # Time, Cost and Schedule Management
-## Time: The schedule for the project to reach completion.
-## Cost: The financial constraints of a project, also known as the project budget.
-## Schedule Management: Includes the procedures necessary to guarantee that the project is finished on schedule.
+## Time 
+The schedule for the project to reach completion.
+## Cost
+The financial constraints of a project, also known as the project budget.
+## Schedule Management: 
+Includes the procedures necessary to guarantee that the project is finished on schedule.
 
 # Testing and Maintainance
 # Assumptions
