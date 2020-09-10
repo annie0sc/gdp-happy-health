@@ -10,6 +10,8 @@
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/jira%20ids.png?raw=true)
 
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/jira2.png?raw=true)
+
 
 1. How do we(sprint planning group) know on what basis/idea we should start creating stories?
   - <ins>Action</ins> : We discussed in the call and finally everyone agreed that all groups will add their own ideas and feedbacks received from client into the readme file of       common repository.Based on that we will finalize a common idea in the next meeting and proceed creating stories as backlogs.
