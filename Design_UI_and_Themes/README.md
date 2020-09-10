@@ -30,7 +30,7 @@ The above list is a basic summary of the roles available, but there are of cours
 
 # Project Timeline
 # Deliverables
-## Action Items for Friday, /0911/2020
+## Action Items for Friday, 09/11/2020
 - Descriptions for Fonts, Icons and CSS Frameworks identified
 - Research on the prototying tool and principles
 - Start the implementations using the CSS Framework
@@ -48,13 +48,7 @@ Includes the procedures necessary to guarantee that the project is finished on s
 # Testing and Maintainance
 # Assumptions
 
-who will be your designers?  
-What responsive libraries will you use? 
 
-Material Design Bootstrap is an excellent choice, but there are others.  It must be responsive.  
-Draft key elements - the layout, fonts, icons, work closely with your client to address their preferences. 
-Can you list the screens needed for each user story? 
-Draft each and add them to the associated Jira entry. 
 
 
 
