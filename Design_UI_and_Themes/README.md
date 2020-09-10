@@ -23,13 +23,8 @@ As day by day customers' expectations increase continuously, product groups need
 - Product Designer - Annie Chandolu
 - UX Architect
 - Interaction Designer - Vineetha Yenugula
-<<<<<<< HEAD
 - Visual Designer - Navya Devineni
-- UX/UI Developer
-=======
-- Visual Designer
 - UX/UI Developer - Sindhu Rani Goli
->>>>>>> 60a1472553908c8dfcc76123c00d6b70f8441217
 
 The above list is a basic summary of the roles available, but there are of course shared roles, and over-arcing positions that cover most bases.
 
