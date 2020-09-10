@@ -21,7 +21,7 @@ As day by day customers' expectations increase continuously, product groups need
 # Roles In Industrial Design
 
 - Product Designer - Annie Chandolu
-- UX Architect - Soujanya janapatla
+- UX Architect - Soujanya Janapatla
 - Interaction Designer - Vineetha Yenugula
 - Visual Designer - Navya Devineni
 - UX/UI Developer - Sindhu Rani Goli
