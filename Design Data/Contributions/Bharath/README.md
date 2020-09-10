@@ -1,1 +1,2 @@
-
+1. I have spent 1 hour in class on wednesday hosted by Dr.Badami.Then i have noted a brief notes regarding the class and got an overview of the module2. Our team design Data held a meeting regarding the class, ER diagrams and also about the meeting of unit leaders from UI,Data,Sprint and Design/Architecture teams.We had a long meeting where we also discussed about the respective roles of each teach member. I accepted a github invitation link for the application and one of our team mate created a Design data folder in the repository,here we can have our individual contributions as well as total work.
+Github Design Data folder:
