@@ -7,3 +7,6 @@ Design data complies with the app requirements to facilitate secure data transac
 - Swaroopa Tirumalareddy
 - Bharath kumar Gandhasiri
 - Naga Anshitha Velagapudi
+
+## ER diagram:  
+![image](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/ERdiagrams/ERD-Healthify.png)
