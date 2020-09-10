@@ -16,13 +16,12 @@
   
 2. We will be adding all 22 members into the jira under same team?
   - <ins>Action</ins> : Everyone agreed that the unit leader from each team would be sending all their team member jira Ids.We also made sure that everyone should create jira         account using their northwest user id's.
+3. what are the Functional requirements of the project?
+  - <ins>Action</ins>: Based on the request for proposal we need to include all the requirements in ER Diagram. Explained the role of Administrators and users in the App.
+4. Can you brief me on the flow of the project?
+- <ins>Action</ins>: We from the sprint planning group have explained to everyone that the sprint starts from Module 3 and currently we are    working on creating product   backlog.
   
-3. what are Functional requirements of the project ? 
- - <ins>Action</ins> : Based on the request for proposal we need to include all the reqirements in ER Diagram. Explained the role of Administrators and user in the App.
- 
-4. Can you breif me the flow of the project ?
- - <ins>Action</ins> : We from sprint planning group has explained to everyone that the sprint starts from Modeule 3 and currently we are working on creating product backlog.
- 
+
 5. How we are going to keep a track of our code changes or versions ?
 - <ins>Action</ins> : Discussed on creating a single Repo for all team members(i.e 22) and all changes will be controlled under this Repo. Such that we will keep a track of every change happeing in the project
 
