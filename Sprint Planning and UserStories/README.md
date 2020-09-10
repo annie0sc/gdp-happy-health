@@ -26,3 +26,6 @@
 5. How we are going to keep a track of our code changes or versions ?
 - <ins>Action</ins> : Discussed on creating a single Repo for all team members(i.e 22) and all changes will be controlled under this Repo. Such that we will keep a track of every change happeing in the project
 
+6. Who is responsible in co ordinating the tasks?
+- <ins>Action</ins>: We created a team with sprint planners and discussed to assign a central task to each and every unit leaders and with the inputs given by them we further assign sub tasks to the rest of that team. 
+
