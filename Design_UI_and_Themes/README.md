@@ -19,7 +19,7 @@ As day by day customers' expectations increase continuously, product groups need
 # Scope Of Work for UX Design Services
 # Roles In Industrial Design
 
-- Product Designer
+- Product Designer - Annie Chandolu
 - UX Architect
 - Interaction Designer
 - Visual Designer
