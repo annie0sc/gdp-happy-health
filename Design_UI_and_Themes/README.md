@@ -4,6 +4,9 @@ UI / UX is a fast growing field that is quickly expanding across organizations a
 This article is a technical onboarding document that can help you write your own UX Plan. It captures the detailed structure and syntax that we use.
 # Project Overview
 # Roadmap
+
+A UX/UI roadmap is a significant level review of the plans and objectives identifying with an item's user experience, user interface, and user research. Product/item groups utilize these roadmaps to keep convenience a main concern at each phase of advancement.
+
 # Scope Of Work for UX Design Services
 # Roles In Industrial Design
 
