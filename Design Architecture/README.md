@@ -13,6 +13,7 @@
 # Discussion:
 
 - what back end languages, platforms will you test? 
+  we have decided to use java Script as back end language and frame work as express.js.
 - Who will create an initial project with A&A (Authentication and Authorization) to test drive this stack? 
 - What formatters (e.g prettier (Links to an external site.)), what linters (e.g. ESLint (Links to an external site.) for JavaScript), 
 - what devops tools (e.g. Husky (Links to an external site.) for GitHub) do you want to use? 
