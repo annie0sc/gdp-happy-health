@@ -22,7 +22,7 @@ As day by day customers' expectations increase continuously, product groups need
 
 - Product Designer - Annie Chandolu
 - UX Architect
-- Interaction Designer
+- Interaction Designer - Vineetha Yenugula
 - Visual Designer
 - UX/UI Developer
 
