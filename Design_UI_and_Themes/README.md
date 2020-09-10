@@ -5,7 +5,7 @@ This article is a technical onboarding document that can help you write your own
 # Project Overview
 # Roadmap
 
-A UX/UI roadmap is a significant level review of the plans and objectives identifying with an item's user experience, user interface, and user research. Product/item groups utilize these roadmaps to keep convenience a main concern at each phase of advancement.
+A UX/UI roadmap is a significant level review of the plans and objectives identifying with an item's user experience, user interface, and user research. Product/item groups utilize these roadmaps to keep convenience a main concern at each phase of advancement. 
 
 # Scope Of Work for UX Design Services
 # Roles In Industrial Design
