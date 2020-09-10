@@ -10,7 +10,7 @@
 - Neelesh Saladi
 
 
-# Queries:
+# Discussion:
 
 - what back end languages, platforms will you test? 
 - Who will create an initial project with A&A (Authentication and Authorization) to test drive this stack? 
