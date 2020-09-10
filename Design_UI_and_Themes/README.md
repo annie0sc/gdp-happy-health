@@ -14,7 +14,7 @@ As day by day customers' expectations increase continuously, product groups need
 
 1. Helps to prioritize the user experience at every stage of the development.
 1. Helps to check the updates.
-1. Helps in reinforcing the importance of design and usability.
+1. Helps in reinforcing the importance of design and usability. 
 
 # Scope Of Work for UX Design Services
 # Roles In Industrial Design
