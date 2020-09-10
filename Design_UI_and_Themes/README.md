@@ -10,7 +10,7 @@ A UX/UI roadmap is a significant level review of the plans and objectives identi
 # Scope Of Work for UX Design Services
 # Roles In Industrial Design
 
-- Product Designer
+- Product Designer - Annie Chandolu
 - UX Architect
 - Interaction Designer
 - Visual Designer
