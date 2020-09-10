@@ -24,7 +24,7 @@ As day by day customers' expectations increase continuously, product groups need
 - UX Architect
 - Interaction Designer - Vineetha Yenugula
 - Visual Designer
-- UX/UI Developer
+- UX/UI Developer - Sindhu Rani Goli
 
 The above list is a basic summary of the roles available, but there are of course shared roles, and over-arcing positions that cover most bases.
 
