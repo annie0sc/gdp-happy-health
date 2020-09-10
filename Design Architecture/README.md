@@ -1,7 +1,7 @@
 ## Introduction to Design Architecture
 
 ## Team Members
-- Mohan Krishna Alvala
+- Mohan Krishna Alavala
 - Sindhuja Valeti
 - Harish Thadka
 - Tejaswi Reddy Kandula
