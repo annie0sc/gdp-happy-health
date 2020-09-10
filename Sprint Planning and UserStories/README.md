@@ -6,5 +6,7 @@ Today we have conducted a zoom meeting and discussed on how we will be moving fo
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/Meet_Sprint_Planning.PNG?raw=true)
 1. How do we(sprint planning group) know on what basis/idea we should start creating stories?
   - <ins>Action</ins> : We discussed in the call and finally everyone agreed that all groups will add their own ideas and feedbacks received from client into the readme file of       common repository.Based on that we will finalize a common idea in the next meeting and proceed creating stories as backlogs.
-2. Will we be adding all 22 members into the jira under same team?
+2. We will be adding all 22 members into the jira under same team?
   - <ins>Action</ins> : Everyone agreed that the unit leader from each team would be sending all their team member jira Ids.We also made sure that everyone should create jira         account using their northwest user id's.
+3.what are Functional requirements of the project ? 
+ - <ins>Action</ins> : Based on the request for proposal we need to include all the reqirements in ER Diagram. Explained the role of Administrators and user in the App.
