@@ -9,3 +9,13 @@ Module 2: Work Planning
 - On Friday, I will be dealing with defining and reviewing the entities of ER and also discuss modifying the ER diagram if needed do the required changes as our group member has already added a basic ER diagram to the repo.
 
 https://github.com/annie0sc/gdp_health_app/tree/master/Design%20Data/ERdiagrams
+
+# Module 2: Individual-1
+
+Naga Anshitha Velagapudi
+
+We have classes on every alternate day, I have attended only for few classes and the schedule is below.
+Class Dates	Attended
+09/07/2020	Paid Leave
+09/09/2020	In-person
+09/11/2020	Online
