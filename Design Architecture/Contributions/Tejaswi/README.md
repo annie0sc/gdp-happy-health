@@ -43,6 +43,13 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - I have Updated the Introduction to the Design Architecture.[Commit](https://github.com/annie0sc/gdp_health_app/commit/c51bb464f5b47c9b1120b2291815f81f8d490fb0)
 - I have Updated Team Members names to the Design Architecture.[Commit](https://github.com/annie0sc/gdp_health_app/commit/e398a7d3ef962db83470edc495b8eedbf8d7c0f9)
 
+## Half Day 3
+
+Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
+
+- On the third Half Day,We attended a zoom meeting scheduled by Dr. Badami and our team lead gave an update on how the tasks are shared among us and updated about the technologies to be used in Design Architecture.
+- We Team members joined a zoom meeting at 3PM on 09/11/2020 our teamlead assigned tasks to each of team member.![Meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md) 
+
 
 
 
