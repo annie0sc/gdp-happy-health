@@ -19,3 +19,4 @@
 we gonna use prettier in visual studio and JSLint for javaScript
 - what devops tools (e.g. Husky (Links to an external site.) for GitHub) do you want to use? 
 - What datastores will you test? Who will try each possible option?   You must have at least one industry standard implementation. (Java, C#, or Node on the back-end) - work with data team.
+- In order to keep up with the current technology pace what should we learn and practice with more languages, technologies, libraries and platforms, not to mention the planning, architect, development, deploy and maintain an entire application and the stack it run by the whole project team be planned in making the architecture.
