@@ -18,3 +18,5 @@ Design data group Zoom Meeting;
 2. On Friday, We have a scheduled zoom meeting on firday where we will be discussing about individual tasks to be done by each team member and also i will be collecting the sample data for our design data group.
 
 3. There were many merge conflicts and jira issues while working with the other teams together.
+### Friday Hours:
+On Friday we had a zoom session with Dr. Badami and discussed about what we did in this week and what we are going to do in upcoming week 
