@@ -15,7 +15,10 @@ https://github.com/annie0sc/gdp_health_app/tree/master/Design%20Data/ERdiagrams
 Naga Anshitha Velagapudi
 
 We have classes on every alternate day, I have attended only for few classes and the schedule is below.
-Class Dates	Attended
-09/07/2020	Paid Leave
-09/09/2020	In-person
-09/11/2020	Online
+| Class Dates | Attended | 
+|----------|-------------|
+| 09/07/2020 | Paid leave |
+| 09/09/2020 | In-person |
+| 09/11/2020 | Online |
+
+
