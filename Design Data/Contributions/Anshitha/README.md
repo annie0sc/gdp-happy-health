@@ -28,5 +28,11 @@ We have classes on every alternate day, I have attended only for few classes and
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I attended class on this day and professor discussed about the project and the work which needs to be divided among the students.
+- I accepted git invitation of our project which was sent by Annie.
 - Our "Design Data" group held a [zoom meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Zoom_Meeting.png) to discuss about the roles of each person and also the work which needed to be completed on friday.
 - We also discussed about the points which are mentioned in "Sprint Planning" team.
+
+## 3. Half day-3(300 Points)
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- I had attended zoom session conducted by Dr. Badami and leader from every group had discussed about what they had done previously and what they will do today.
+
