@@ -22,7 +22,7 @@ We have classes on every alternate day, I have attended only for few classes and
 
 ## 1. Half day-1(300 Points)
 
-- Today is paid leave.
+- This day(09/07/2020) is paid leave.
 
 ## 2. Half day-2(300 Points)
 
