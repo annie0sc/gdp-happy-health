@@ -6,4 +6,5 @@ Discussion:
 - About work plans
 - About Tools & Technolgies to use
 - About Formatters & Linter to use
+Image:![Meeting1](/Meeting Images/Meeting-1.png)
 
