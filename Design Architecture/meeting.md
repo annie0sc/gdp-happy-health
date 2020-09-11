@@ -6,5 +6,5 @@ Discussion:
 - About work plans
 - About Tools & Technolgies to use
 - About Formatters & Linter to use
-Image:![Meeting1](/Meeting Images/Meeting-1.png)
+Image:![Meeting1](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meeting%20Images/Meeting-1.png)
 
