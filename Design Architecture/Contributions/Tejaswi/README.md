@@ -1,4 +1,4 @@
-# Module 2 Individual 1
+# Module-2 Individual 1
 
 ## Attendance
 - Worth 200 points
