@@ -14,9 +14,17 @@ We discussed among the team and agreed on the point that, this project is better
 - Tejaswi Reddy Kandula - Junior Architect
 - Neelesh Saladi        - Junior Architect
 
-## Tasks we did as part of Agile : 
+## Tasks we did as part of Agile
 
+### Understanding the requirements :
+ 
+ - We read RFP, understood and analyzed the requirements clearly to formulate the design of the application. Also we identified
+ the stakeholders required to implement the project.
+ 
+### Formulating the design :
 
+- We discussed on creating better solution which meets all the client requirements. Also we discussed on tools and technologies
+to be used which delivers most reliable and cost efficient project.
 
 ## Discussion on Tools and Technologies :
 
