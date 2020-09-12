@@ -41,8 +41,6 @@ The days I attended GDP - 1 classses are :
 </table>
 
 2. ## Half day 1 :
-   
-    Time allotted : 4hours = 1hour in class + 3hours out of the class 
 
     This day was considered as a paid leave.
 
