@@ -37,4 +37,5 @@ Date    Mode of class
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Team%20meeting.png
 3.  I have joined in a zoom meeting at 6:50 PM with sprint team to discuss about user stories and tasks.
 - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG
-4. After Discussion, Scrum team assigned task to me
+4. After Discussion, Scrum team assigned task to me  
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Contributions/Harish/scrum%20team%20task.PNG)
