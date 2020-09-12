@@ -23,7 +23,6 @@ Software prototyping is much the same as prototyping in the border product desig
 
 It’s similar to the border term prototyping, a way for the manufacturer to get know what the final product will look like, so to evaluate how much additional resources could cost.
 
-
 The basic software stage including:
 - Idea Generation
 - Demand Generation
