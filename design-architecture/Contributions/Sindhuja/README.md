@@ -16,7 +16,7 @@ Paid Leave
 
 - Joined Scrum meeting where all the design units shared each others views. As design architects, we participated in discussing the technologis and tools required for implementing the project.
 
- ![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Scrum%20meeting.png?raw=true)
+ ![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting.png?raw=true)
 
 - We created 'design architecture' folder in the common repo to document all the discussions and work we did. Here is the link to our team folder :
 
@@ -43,7 +43,7 @@ Commit documenting the devops tools required :
 
 - Joined zoom meeting with Sprint planning team and updated them with the user tasks they can assign to architect team in Jira.
 
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG?raw=true)
+![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG?raw=true)
 
 
 ## Planned Tasks
