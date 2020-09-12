@@ -15,10 +15,13 @@ Class Dates Mode Of Attendance
 - Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 - On Wednesday, I joined a zoom meeting with the sprint team at 9.00 PM and discussed how to share a common idea and their views on implementation.
 - I have conducted a Zoom meeting with my team at 10.00 PM and discussed the tools we will use.
-
+- Assigned tasks to our team members
 
 
 ## Half Day 3
 - Time allotted : 4hours = 1hour in Zoom Session + 3hours out of the class = Worth 300 points
 - Cnducted a Zoom meetin with my team to finalize the technogies.
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting-1.png?raw=true)
 - Joined in a Zoom meeting with the sprint team to share the user stories with them.
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Scrum%20Meeting%20011.PNG?raw=true)
+- Reviewed the tasks of team members and gave suggestions to them.
