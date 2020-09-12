@@ -26,6 +26,8 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 - On second day, I have attended the GDP-1 class in-person and engaged with the new teams that we formed. 
 - I understood the purpose and requirements that Dr.Badami mentioned for indivudial groups.
+- I have joined the repo which annie created.
+Git link: https://github.com/annie0sc/gdp_health_app
 - I have attended Zoom meeting conducted by sprint planning team and discussed the work flow of each team for abut an hour.
 
 ![zoom](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/zoom%20team%20lead.PNG)
