@@ -11,7 +11,7 @@
 <th>No of hours</th>
 </tr>
 <tr>
-<td>09/07/2020d>
+<td>09/07/2020</td>
 <td>paid leave</td>
 <td>4 hours</td>
 </tr>
@@ -21,7 +21,7 @@
 <td> 4 hours</td>  
 </tr>
 <tr>
-<td>09/11/2020td>
+<td>09/11/2020</td>
 <td>Joined Zoom Session</td>
 <td> 4 hours</td>
 </tr>
