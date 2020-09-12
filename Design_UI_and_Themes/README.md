@@ -30,6 +30,24 @@ The basic software stage including:
 - Prototyping Stage
 - PRD (replaced by prototyping for most occasions)
 
+### Several aspects to consider:
+- Cost: How much will you spend?
+- Compatibility: Is the tool for Mac or Windows or both?
+- Key features: What can it do?
+- Learning Curve: How long it takes you to get started?
+- Usage pattern: Are you prototyping websites, mobile apps, desktop apps, or all of the above?
+- Speed: How quick can you finish design on the prototyping tool?
+- Fidelity: What is the requirement of your prototypes fidelity? Wireframes or low-fidelity or high-fidelity?
+- Sharing: Collaboration is key when it comes to design. A must consideration.
+- User’s feedback: See what others say.
+
+### Key features:
+- Fast Interaction
+- Fast Design
+- Learning curve: The shortest
+
+### Compatibility: Mac, Window, Android, IOS
+
 # Roles In Industrial Design
 
 - Product Designer - Annie Chandolu
