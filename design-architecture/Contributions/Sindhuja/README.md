@@ -20,7 +20,7 @@ Paid Leave
 
 - We created 'design architecture' folder in the common repo to document all the discussions and work we did. Here is the link to our team folder :
 
-  https://github.com/annie0sc/gdp_health_app/tree/master/Design%20Architecture
+  https://github.com/annie0sc/gdp_health_app/tree/master/design-architecture
 
 - I have initiated zoom meeting among our team members for work planning. We discussed the tasks we need to do as part of agile architect design. Here are the commits i did, documenting the discussion :
 
