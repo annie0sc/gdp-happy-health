@@ -47,5 +47,5 @@ Worth 300 points
 https://github.com/annie0sc/gdp_health_app/commit/bc2dfdcda18efdeef7eb2031048a927afc36f4d4
 - I have been assigned Data Design queries task in Jira, I have updated the work.
 https://github.com/annie0sc/gdp_health_app/commit/02b8ac4be3049a2be653e5b5f15a138f7dccb603
-- We as a team conducted zoom meeting for 30 minutes to discuss about workflow such as sample data and other requirements
+- We as a team conducted zoom meeting for 30 minutes to discuss about workflow such as sample data and other requirements  
 ![zoomday2](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Zoom%20Meeting%209-11.png)
