@@ -7,4 +7,4 @@ Discussion:
 - About Tools & Technolgies to use
 - About Formatters & Linter to use
 
-![Meeting with team](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting-1.png?raw=true)
+![Meeting with team](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Team%20meeting.png?raw=true)
