@@ -11,8 +11,11 @@ We have discussed our views and points on work flow to approach further for deve
 #Attendance (200 Points)
 
 09/07/2020 - Paid Leave
+
 09/09/2020 - In-Person
+
 09/11/2020 - Zoom Session
+
 
 # Half Day 1
 
@@ -21,28 +24,30 @@ First day was a paid leave
 # Half Day 2
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
-On second day, I have attended the GDP-1 class in-person and engaged with the new teams that we formed. 
-I understood the purpose and requirements that Dr.Badami mentioned for indivudial groups.
-I have attended Zoom meeting conducted by sprint planning team and discussed the work flow of each team for abut an hour.
+- On second day, I have attended the GDP-1 class in-person and engaged with the new teams that we formed. 
+- I understood the purpose and requirements that Dr.Badami mentioned for indivudial groups.
+- I have attended Zoom meeting conducted by sprint planning team and discussed the work flow of each team for abut an hour.
 
 ![zoom](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/zoom%20team%20lead.PNG)
 
-Then, Our UI / Theme design team had a conference call for 40 minutes. We have discussed about the individual roles and tasks need to be assigned.
-I have updated readme.md and assigned my role 
+- Then, Our UI / Theme design team had a conference call for 40 minutes. We have discussed about the individual roles and tasks need to be assigned.
+- I have updated readme.md and assigned my role 
 
 https://github.com/annie0sc/gdp_health_app/commit/60a1472553908c8dfcc76123c00d6b70f8441217
-I have added few descriptions to readme.md 
+
+- I have updated readme.md by adding few descriptions
 
 https://github.com/annie0sc/gdp_health_app/commit/833dca9976bda191a6ac95147747eb8edc2aaa8d
 
 # Half Day 3
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
-On third day, I have attended the zoom session hosted by Dr.Badami. 
-Our team leader gave an update of the workflow and mentioned the tools and technologies that will be used in UI /Theme designing.
-Our team had a group call and discussed about web compatibility, web accessibility and wireframes.
-I was assigned tasks in jira and I have started working on them.
+- On third day, I have attended the zoom session hosted by Dr.Badami. 
+- Our team leader gave an update of the workflow and mentioned the tools and technologies that will be used in UI /Theme designing.
+- Our team had a group call and discussed about web compatibility, web accessibility and wireframes.
+- I was assigned tasks in jira and I have started working on them.
 ![jiraIssues](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/issues.PNG)
+
 jira Link: http://cs04.nwmissouri.edu/browse/FIT-18?filter=-1
 
 
