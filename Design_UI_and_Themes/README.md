@@ -30,7 +30,7 @@ The basic software stage including:
 - Prototyping Stage
 - PRD (replaced by prototyping for most occasions)
 
-### Several aspects to consider
+### Several aspects to consider:
 - Cost: How much will you spend?
 - Compatibility: Is the tool for Mac or Windows or both?
 - Key features: What can it do?
