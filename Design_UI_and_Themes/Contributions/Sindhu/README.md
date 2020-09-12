@@ -42,7 +42,7 @@ On third day, I have attended the zoom session hosted by Dr.Badami.
 Our team leader gave an update of the workflow and mentioned the tools and technologies that will be used in UI /Theme designing.
 Our team had a group call and discussed about web compatibility, web accessibility and wireframes.
 I was assigned tasks in jira and I have started working on them.
-![jiraIssues]()
+![jiraIssues](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/issues.PNG)
 jira Link: http://cs04.nwmissouri.edu/browse/FIT-18?filter=-1
 
 
