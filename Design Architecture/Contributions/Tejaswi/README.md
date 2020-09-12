@@ -51,7 +51,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - We Team members joined a zoom meeting at 3PM on 09/11/2020 our teamlead assigned tasks to each of team member.![Meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meeting%20Images/Meeting-1.png) 
 - Jira task assigned by Scrum Team.![Link](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Contributions/Tejaswi/Jiratask.PNG)
 - I created Contributions folder for all my Team members where they can update individual tasks done on 3 Half Days.[Commit](https://github.com/annie0sc/gdp_health_app/tree/master/Design%20Architecture/Contributions)
-- We Team members attended Zoom meeting with scrum team on 09/11/2020 at 6:50 PM to give the update about today's tasks.![Link](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meeting%20Images/Scrum%20Meeting%20011.PNG)
+- We Team members attended Zoom meeting with scrum team on 09/11/2020 at 6:50 PM to give the update about today's tasks.![Link](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Scrum%20Meeting%20011.PNG)
 
 
 
