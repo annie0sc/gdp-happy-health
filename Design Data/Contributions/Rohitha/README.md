@@ -38,7 +38,7 @@ https://github.com/annie0sc/gdp_health_app/commit/3ea9513a2ba2b0aea7469b8d31da23
 - Accepted the git invitation from spokesperson(Annie).
 https://github.com/annie0sc/gdp_health_app/commit/2014986f242aad203db3e501f902669e4ac2ce06
 - We as a team conducted a zoom session  on 09/09/2020 and discussed about the work to be done on friday. We have also discussed about how work to be done.  
-![image](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Contributions/Rohitha/Module2.PNG)
+![zoom](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Contributions/Rohitha/Module2.PNG)
 
 ## Half Day 3
 Worth 300 points
@@ -48,4 +48,4 @@ https://github.com/annie0sc/gdp_health_app/commit/bc2dfdcda18efdeef7eb2031048a92
 - I have been assigned Data Design queries task in Jira, I have updated the work.
 https://github.com/annie0sc/gdp_health_app/commit/02b8ac4be3049a2be653e5b5f15a138f7dccb603
 - We as a team conducted zoom meeting for 30 minutes to discuss about workflow such as sample data and other requirements
-![image](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Zoom%20Meeting%209-11.png)
+![zoomday2](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Zoom%20Meeting%209-11.png)
