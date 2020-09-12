@@ -41,3 +41,9 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - On Friday we had a zoom session with Dr. Badami and discussed about what we did in this week and what we are going to do in upcoming week 
 - Our team had a https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Zoom%20Meeting%209-11.png and discussed about the work which had some changes.
 - I assigned myself a task in jira and started working on it 
+
+### 9/12/2020
+- Started working on this issue, as a part of this I am going to mention the type of vegetables and calories of it. So that it is easy to monitor the calories consumed
+- provided all the information on excel sheet 
+- http://cs04.nwmissouri.edu/browse/FIT-42
+
