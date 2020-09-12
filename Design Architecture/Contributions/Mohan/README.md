@@ -29,3 +29,4 @@ Class Dates Mode Of Attendance
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG?raw=true)
 
 - Reviewed the tasks of team members and gave suggestions to them.
+
