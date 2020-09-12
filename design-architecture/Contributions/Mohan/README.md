@@ -21,7 +21,11 @@ Class Dates Mode Of Attendance
 ## Half Day 3
 - Time allotted : 4hours = 1hour in Zoom Session + 3hours out of the class = Worth 300 points
 - Cnducted a Zoom meetin with my team to finalize the technogies.
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting-1.png?raw=true)
+
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Team%20meeting.png?raw=true)
+
+
 - Joined in a Zoom meeting with the sprint team to share the user stories with them.
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Scrum%20Meeting%20011.PNG?raw=true)
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG?raw=true)
+
 - Reviewed the tasks of team members and gave suggestions to them.

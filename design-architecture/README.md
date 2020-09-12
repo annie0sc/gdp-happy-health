@@ -34,9 +34,9 @@ We planned to communicate our views to other designed units and ensure that ever
 
 ## Discussion on Tools and Technologies :
 
-### what back end languages, platforms will you test?  
+### what back end languages and platforms will you test?  
   
-  we have decided to use java Script as back end language and frame work as express.js.
+  we have decided to use java Script as back end language and the frame work as express.js.
 
 ### What formatters (e.g prettier (Links to an external site.)), what linters (e.g. ESLint (Links to an external site.) for JavaScript)?  
  
@@ -48,7 +48,7 @@ We planned to communicate our views to other designed units and ensure that ever
 
   For building or compiling the project, we can use Maven.
 
-  We can deploy the application using Apache TomCat web server.
+  We can deploy the application using Apache TomCat web server, which helps for implementation of the Java Servlet, JavaServer Pages, Java Expression.
 
 
 ### What datastores will you test? Who will try each possible option?   You must have at least one industry standard implementation. (Java, C#, or Node on the back-end) - work with data team.
