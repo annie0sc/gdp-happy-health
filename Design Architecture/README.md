@@ -24,12 +24,19 @@ We discussed among the team and agreed on the point that, this project is better
   
   we have decided to use java Script as back end language and frame work as express.js.
 
-- Who will create an initial project with A&A 
-(Authentication and Authorization) to test drive this stack? 
 - What formatters (e.g prettier (Links to an external site.)), what linters (e.g. ESLint (Links to an external site.) for JavaScript)?  
-we gonna use prettier in visual studio and JSLint for javaScript
+ 
+  we gonna use prettier in visual studio and JSLint for javaScript
+
 - what devops tools (e.g. Husky (Links to an external site.) for GitHub) do you want to use? 
+
+  We can implement the project using continuous integration and development tools like Jenkins for testing and packaging the application.
+
+  For building or compiling the project, we can use Maven.
+
+  We can deploy the application using Apache TomCat web server.
+
 
 - What datastores will you test? Who will try each possible option?   You must have at least one industry standard implementation. (Java, C#, or Node on the back-end) - work with data team.
 
-   In order to keep up with the current technology pace what should we learn and practice with more languages, technologies, libraries and platforms, not to mention the planning, architect, development, deploy and maintain an entire application and the stack it run by the whole project team be planned in making the architecture.
+   In order to keep up with the current technology pace we should learn and practice with more languages, technologies, libraries and platforms, not to mention the planning, architect, development, deploy and maintain an entire application and the stack it run by the whole project team be planned in making the architecture.
