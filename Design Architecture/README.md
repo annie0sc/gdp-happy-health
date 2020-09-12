@@ -1,3 +1,5 @@
+# Design Architecture
+
 ## Introduction
 
 As part of design architecture team, we are responsible for creating and maintaing the structure of the application and making sure that it meets the Client requirements.
@@ -12,8 +14,11 @@ We discussed among the team and agreed on the point that, this project is better
 - Tejaswi Reddy Kandula - Junior Architect
 - Neelesh Saladi        - Junior Architect
 
+## Tasks we did as part of Agile : 
 
-# Discussion on Tools and Technologies :
+
+
+## Discussion on Tools and Technologies :
 
 - what back end languages, platforms will you test?  
   
