@@ -18,6 +18,19 @@ As day by day customers' expectations increase continuously, product groups need
 1. Helps in reinforcing the importance of design and usability. 
 
 # Scope Of Work for UX Design Services
+## Prototyping
+Software prototyping is much the same as prototyping in the border product design field. It is a necessary step involved in daily software design. Normally, after doing enough UX research like gathering idea, data, information, demands, evaluation, then it’s time to build a prototyping.
+
+It’s similar to the border term prototyping, a way for the manufacturer to get know what the final product will look like, so to evaluate how much additional resources could cost.
+
+
+The basic software stage including:
+- Idea Generation
+- Demand Generation
+- Function and Structure
+- Prototyping Stage
+- PRD (replaced by prototyping for most occasions)
+
 # Roles In Industrial Design
 
 - Product Designer - Annie Chandolu
