@@ -8,7 +8,7 @@ We have discussed our views and points on work flow to approach further for deve
 
 # Module 2 - Individual 1
 
-#Attendance (200 Points)
+# Attendance (200 Points)
 
 09/07/2020 - Paid Leave
 
@@ -46,9 +46,12 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - Our team leader gave an update of the workflow and mentioned the tools and technologies that will be used in UI /Theme designing.
 - Our team had a group call and discussed about web compatibility, web accessibility and wireframes.
 - I was assigned tasks in jira and I have started working on them.
-![jiraIssues](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/issues.PNG)
 
 jira Link: http://cs04.nwmissouri.edu/browse/FIT-18?filter=-1
+
+![jiraIssues](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/issues.PNG)
+
+
 
 
 
