@@ -44,4 +44,4 @@
 4 What are the devops tools we are going to use?
 5 What datastores we are going to test?
 
-
+![](https://raw.githubusercontent.com/annie0sc/gdp_health_app/master/Sprint%20Planning%20and%20UserStories/DesingArchMeetings/Screenshot%20(22).png)
