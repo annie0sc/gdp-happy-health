@@ -36,7 +36,8 @@
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/gdp%20module2%20zoom.png?raw=true)
 
-## Attended a meeting with Design architecture team and discussed aboubt the following topics.
+## Meeting with Design architecture team 
+- We had a meeting with design architure team and discussed the following topics with them.
 1 Deciding which methodology to be used during software development life cycle.
 2 Testing backend languages suitable to develop the application
 3 Who will create an initial project with A&A (Authentication and Authorization) to test drive this stack?
