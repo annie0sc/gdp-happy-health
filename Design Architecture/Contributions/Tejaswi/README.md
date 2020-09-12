@@ -56,7 +56,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 
 ## Meetings:
 
-- Meetings scheduled.[Link](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md)
+- Meetings and discussions in our team are updated here.[Meetings](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Architecture/meeting.md)
 
 
 
