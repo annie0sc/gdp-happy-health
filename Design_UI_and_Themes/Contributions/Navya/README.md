@@ -42,8 +42,6 @@ The days I attended GDP - 1 classses are :
 
 2. ## Half day 1 :
    
-    Time allotted : 4hours = 1hour in class + 3hours out of the class 
-
     This day was considered as a paid leave.
 
    
@@ -69,6 +67,8 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - Scheduled a meeting and discussed about the roles and tasks to be done by the day.
 - Updated my [role](https://github.com/annie0sc/gdp_health_app/commit/6f7dea3e009bed4a3c1376900a973c6e1080f0c5) in the readme.md file.
 - Created a [contributions](https://github.com/annie0sc/gdp_health_app/commit/fdc213a1c4823bde0892b62e10d69f7e1bf6c5b0) folder in our group folder and assigned each one a readme.md file to update the file with their contributions.
+- Worked on designing prototypes and compared with different softwares like iOS, windows and also in web.
+
 
 
 
