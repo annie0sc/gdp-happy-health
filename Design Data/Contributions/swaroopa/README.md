@@ -43,7 +43,9 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - I assigned myself a task in jira and started working on it 
 
 ### 9/12/2020
-- Started working on this issue, as a part of this I am going to mention the type of vegetables and calories of it. So that it is easy to monitor the calories consumed
+- Started working on the issue, as a part of this I am going to mention the type of vegetables and calories of it. So that it is easy to monitor the calories consumed
 - provided all the information on excel sheet 
 - http://cs04.nwmissouri.edu/browse/FIT-42
-
+### 9/13/2020
+- Added some more data to vegetable serving
+- Started working on the issue, As a part of it I added excel files sample data to my contribution 
