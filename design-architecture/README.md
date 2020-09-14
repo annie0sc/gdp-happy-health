@@ -14,6 +14,10 @@ We discussed among the team and agreed on the point that, this project is better
 - Tejaswi Reddy Kandula - Junior Architect
 - Neelesh Saladi        - Junior Architect
 
+## Team Meetings:
+
+- https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
+
 ## Tasks we did as part of Agile
 
 ## Understanding the requirements :
