@@ -8,5 +8,7 @@
 - ANS: Based on Fruit intake,vegetables intake we are going to calculate the calories.Step count will be calculated by the app automatically.
 6. Client was happy that the colors are consistent.
 
-
-
+## Client Feedback (Healthify Team/ Module 1 Group 1)
+1. We have changed app title from Healthify-NWMSU to Healthify
+2. We then changed colour combination landing and remaining pages of the application.
+3. We have removed a coloum of Wellness center of NWMSU
