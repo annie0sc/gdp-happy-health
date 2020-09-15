@@ -63,13 +63,13 @@
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/Screenshot%20(37).png?raw=true)
 
-## Meeting with Design architecture team 
+## Meeting with Design architecture team(09/15/2020)
 - We had a meeting with design architure team and discussed the following topics with them.
-1. Deciding which methodology to be used during software development life cycle.
-2. Testing backend languages suitable to develop the application
-3. Who will create an initial project with A&A (Authentication and Authorization) to test drive this stack?
-4. What are the devops tools we are going to use?
-5. What databases we are going to test?
+1. We as a sprint planning team talked about collecting the clients feedback given in module 1 ?
+2. Suggestion on App name ?
+3. Database connection to framework ?
+4. Testing tools to be used in project ?
+5. Tools compatibility with database ?
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/DesingArchMeetings/DesignArch0914.png)
 
