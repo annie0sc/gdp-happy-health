@@ -54,3 +54,7 @@
 - Ans : We discussed on the complexity of prototype creation and according to that we thought of creating the tasks and distributing among them.
 2. What other teams are thinking on App name?
 - Ans : We discussed and thought that every team contibution/suggestion is required for App name so we created task for each group for propsing a suitable app name so that we can finalize a apt one.
+3. Few people asked about the other teams client Feedback ?
+- Ans: So we assigned a task to the team members update the readme with client Pros and Cons mentioned in the feedback.
+4. One of the member in the UI team asked about Specific name for the App?
+- Ans: I explained UI team members app name should be unique and The application name must not be in the play store or App store.
