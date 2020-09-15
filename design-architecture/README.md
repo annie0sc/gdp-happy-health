@@ -63,6 +63,13 @@ Reference: https://expressjs.com/
 3. [ESLint](https://eslint.org/)
 4. [TypeScript](https://www.typescriptlang.org/)
 
+### Proposed names for Application:
+
+1. Fitryse
+2. Fitrilizer
+3. Fitnos
+4. Athleticor
+
 ## General Queries:
 
 ### what back end languages and platforms will you test?  
