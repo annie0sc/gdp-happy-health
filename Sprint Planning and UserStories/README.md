@@ -58,3 +58,8 @@
 - Ans: So we assigned a task to the team members update the readme with client Pros and Cons mentioned in the feedback.
 4. One of the member in the UI team asked about Specific name for the App?
 - Ans: I explained UI team members app name should be unique and The application name must not be in the play store or App store.
+## E-Mailed to the professor regarding the healthify App Name
+- The healthify name already exists in the Android App store as well as the IOS App Store so i mailed to the professor.So After communicate with the client, Professor is going to do any changes about the app name.
+
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/Screenshot%20(37).png?raw=true)
+
