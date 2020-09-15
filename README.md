@@ -11,4 +11,5 @@
 ## Client Feedback (Healthify Team/ Module 1 Group 1)
 1. We have changed app title from Healthify-NWMSU to Healthify
 2. We then changed colour combination landing and remaining pages of the application.
-3. We have removed a coloum of Wellness center of NWMSU
+3. We have removed a column of Wellness center of NWMSU.
+4. Updated text field from Liters to ounces, KM to miles and also Hydration to water.
