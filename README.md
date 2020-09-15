@@ -1,1 +1,5 @@
 # gdp_health_app
+## Client FeedBack (WalkTracker Team/Modeul 1 Group 3)
+1. We have proposed market tab in the app so that users who gain points through step count can redeem their points in the market tab to but university products like t-shirts.But the feedback we received from the client was,to retain the points but asked to change the market tab insted give some badges to users based on reward points.
+2. Client asked us to not use the work Hydration level,instead use Water Intake of user.
+3. Client was happy with the overall look and color of the app.
