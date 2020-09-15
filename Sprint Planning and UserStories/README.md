@@ -45,3 +45,12 @@
 5. What databases we are going to test?
 
 ![](https://raw.githubusercontent.com/annie0sc/gdp_health_app/master/Sprint%20Planning%20and%20UserStories/DesingArchMeetings/Screenshot%20(22).png)
+
+## Meeting with UI Team (09/14/2020)
+- Today we had a meeting with UI team discussing on priority task that is creating a UI prototype or mock for presenting to client on 09/16/2020.We discussed about the task distribution between them based on the complexity of task.
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/UI_Meeting_09142020.PNG?raw=true)
+## Minutes of Meeting
+1. How complex is the UI prototype?
+- Ans : We discussed on the complexity of prototype creation and according to that we thought of creating the tasks and distributing among them.
+2. What other teams are thinking on App name?
+- Ans : We discussed and thought that every team contibution/suggestion is required for App name so we created task for each group for propsing a suitable app name so that we can finalize a apt one.
