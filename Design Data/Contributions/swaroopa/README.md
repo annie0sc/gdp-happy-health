@@ -49,3 +49,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 ### 9/13/2020
 - Added some more data to vegetable serving
 - Started working on the issue, As a part of it I added excel files sample data to my contribution 
+### 9/14/2020
+- Attedned inperson class with Dr Badami and discussed about our work plan and tasks that we need to complete
+- We had a zoom session with Sprint gruop
+- https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Discussion%20with%20Sprint%20team.JPG
