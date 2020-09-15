@@ -61,11 +61,13 @@ The above list is a basic summary of the roles available, but there are of cours
 # Project Timeline
 # Deliverables
 ## Action Items for Friday, 09/11/2020
-- Descriptions for Fonts, Icons and CSS Frameworks identified
-- Research on the prototying tool and principles
-- Start the implementations using the CSS Framework
-- Research on browser compatibility and know more on Web Accessability standards
-- Identify the challanges that come along with Mobile(iOS and Android) and Web platforms
+- Logo for the project/application (Soujanya)
+- Wireframes for the launch page, login, signup and dashboard/home page (Navya)
+- Descriptions for Fonts, Icons and CSS Frameworks identified (Vineetha)
+- Research on the prototying tool and principles (Soujanya)
+- Start the implementations using the CSS Framework (Vineetha)
+- Research on browser compatibility and know more on Web Accessability standards (Annie and Sindhu)
+- Identify the challanges that come along with Mobile(iOS and Android) and Web platforms (Soujanya)
 
 # Time, Cost and Schedule Management
 ## Time 
