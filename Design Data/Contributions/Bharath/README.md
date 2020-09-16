@@ -7,3 +7,12 @@ Zoom meeting: ![Zoom](https://github.com/annie0sc/gdp_health_app/blob/master/Des
 2. On friday, i need to work on some issues related to my jira account.Our team has a scheduled zoom meeting on friday so that we can discuss about individual teammate roles and the further steps of our design data group.
 
 3. I am confused as we are interlinked to other team members, we have to wait for our tasks and also we have several issues with Jira as well as Github merge conflicts.
+### 9/14/2020
+- Attended inperson class and shared our work plan to DR.Badami
+- We had a zoom session with Sprint group, where we had discussed tasks and issues 
+- zoom : https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Discussion%20with%20Sprint%20team.JPG
+- I have also statrted wroking on my jira issues assigned by sprint gorups 
+### 9/15/2020
+- Today i have cotinuing working on collecting sample data for total calories 
+- And today we had a zoom session with all the other teams 
+- https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/15th%20sept%20zoom%20with%20sprint%20group.png
