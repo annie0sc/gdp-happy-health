@@ -48,6 +48,12 @@ The basic software stage including:
 
 ### Compatibility: Mac, Window, Android, IOS
 
+### Wireframes :
+
+- [Web UI](https://xd.adobe.com/view/1dfb8c5e-6714-428e-6813-ceed7f8de535-6bca/?fullscreen)
+
+- [iOS UI](https://xd.adobe.com/view/64cbfb4c-2c05-40eb-5c30-bae44fa3b9d4-12fa/?fullscreen)
+
 # Roles In Industrial Design
 
 - Product Designer - Annie Chandolu
