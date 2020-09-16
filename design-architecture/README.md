@@ -69,6 +69,7 @@ Reference: https://expressjs.com/
 2. Fitrilizer
 3. Fitnos
 4. Athleticor
+5. FitGalactica
 
 ## General Queries:
 
