@@ -34,7 +34,7 @@ Paid leave
 ## Half Day 2
 Worth 300 points
 - On Wednesday morning, I have attended the class and listened to the discussion held by Dr. Badami about Module 2 and noted the inputs given by him for our team. I have attended a zoom meeting scheduled by Sprint planning team on 09/09/2020 and discussed about the workflow to be done. We as a team of Design data conducted a zoom session on 09/09/2020 and planned about the tasks to be done by each individual. As a part of module 2 on 09/09/2020 I have attended a zoom meeting scheduled by Sprint planning team and we have discussed about common idea which will be flexible to all teams.  
-https://github.com/annie0sc/gdp_health_app/commit/3ea9513a2ba2b0aea7469b8d31da23592e2ae8f1
+https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Contributions/Rohitha/Sprintplanning.PNG
 - Accepted the git invitation from spokesperson(Annie).  
 https://github.com/annie0sc/gdp_health_app/commit/2014986f242aad203db3e501f902669e4ac2ce06
 - We as a team conducted a zoom session  on 09/09/2020 and discussed about the work to be done on friday. We have also discussed about how work to be done.  
