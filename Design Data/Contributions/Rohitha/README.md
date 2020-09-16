@@ -48,4 +48,4 @@ https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/UseCasediag
 - I have been assigned Data Design queries task in Jira, I have updated the work.  
 https://github.com/annie0sc/gdp_health_app/commit/02b8ac4be3049a2be653e5b5f15a138f7dccb603
 - We as a team conducted zoom meeting for 30 minutes to discuss about workflow such as sample data and other requirements  
-![zoomday2](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Zoom%20Meeting%209-11.png)
+![zoomday2](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Zoom%20Meeting%209-11.png)
