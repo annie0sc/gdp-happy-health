@@ -78,6 +78,7 @@ The above list is a basic summary of the roles available, but there are of cours
 # Web Accessibility
 - Web Accessibility ensures that websites, tools and technologies are planned and built so that they can be accessed by individuals.
 - More specifically, people can perceive, understand, navigate, and interact with the Web and contribute to the Web.
+- People who use cell phones, smart watches , smart TVs and other small screen computers, with various input types can access the app.
 
 
 # Time, Cost and Schedule Management
