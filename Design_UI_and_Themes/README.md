@@ -75,6 +75,11 @@ The above list is a basic summary of the roles available, but there are of cours
 - Research on browser compatibility and know more on Web Accessability standards (Annie and Sindhu)
 - Identify the challanges that come along with Mobile(iOS and Android) and Web platforms (Soujanya)
 
+# Web Accessibility
+- Web Accessibility ensures that websites, tools and technologies are planned and built so that they can be accessed by individuals.
+- More specifically, people can perceive, understand, navigate, and interact with the Web and contribute to the Web.
+
+
 # Time, Cost and Schedule Management
 ## Time 
 The schedule for the project to reach completion.
