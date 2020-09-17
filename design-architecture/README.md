@@ -50,6 +50,15 @@ Reference: https://expressjs.com/
 
 - https://expressjs.com/en/guide/database-integration.html
 
+### Heroku - Cloud Platform:  
+
+**Advantages of Heroku**
+- Free dyno: The free cloud instance is not always on, and you’ll have to turn it back on after 30 minutes of inactivity. This limits its functionality to situations like code and app presentations, as its availability can’t be counted on.
+- Easy to use: Using Heroku’s sleek user interface, dynos and any other extras can be easily and immediately added. Heroku lets you focus on the actual development, taking most of the infrastructure responsibility off your back.
+- Buildpacks: Heroku lets you immediately deploy development environments for PHP, Node.js, Python, and many other languages, pre-configured with all necessary settings and dependencies.
+- Add-ons: Many add-ons are available to install on your cloud account, some for free and others for a low monthly cost. Add-ons like Heroku Redis, Timber.io, and Mailgun all offer a free plan.  
+Source: https://www.websiteplanet.com/blog/best-free-cloud-hosting-services/
+
 ### Testing Tools:
 
 1. [Cypress](https://www.cypress.io/)
