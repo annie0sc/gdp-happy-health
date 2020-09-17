@@ -9,10 +9,10 @@ We discussed among the team and agreed on the point that, this project is better
 ## Team Members 
 
 - Mohan Krishna Alavala - Team Lead
-- Sindhuja Valeti       - Senior Architect
-- Harish Thadka         - Senior Architect
-- Tejaswi Reddy Kandula - Junior Architect
-- Neelesh Saladi        - Junior Architect
+- Sindhuja Valeti       - Tester
+- Harish Thadka         - Backend developer
+- Tejaswi Reddy Kandula - Backend developer
+- Neelesh Saladi        - Database developer
 
 ## Team Meetings:
 
