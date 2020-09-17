@@ -56,6 +56,7 @@ Source: https://expressjs.com/
 - Facebook Api: https://developers.facebook.com/docs/facebook-login/web/
 - Distance Travel Api: https://docs.microsoft.com/en-us/bingmaps/rest-services/routes/calculate-a-route?redirectedfrom=MSDN
 - TravelTime API http://docs.traveltimeplatform.com/reference/time-filter/ 
+- Kintone API: https://developer.kintone.io/hc/en-us/articles/360019245194-Get-Records
 - Source: https://gis.stackexchange.com/questions/15199/looking-for-free-web-service-that-calculates-driving-distance-between-2-addresse
 
 ### Heroku - Cloud Platform:  
