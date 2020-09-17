@@ -6,5 +6,8 @@
 
 ## Frameworks and Language(s) :
 
-- We are Using Express framework
+We are Using Express framework for this application and it also fulfill all the Functional requirements that are given in the RFP.
+
+- For the Progressive web application we are creating Express Framework provides a quick and a simple web framework.
+
 
