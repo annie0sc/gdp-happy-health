@@ -63,8 +63,8 @@ Source: https://www.websiteplanet.com/blog/best-free-cloud-hosting-services/
 
 1. [Cypress](https://www.cypress.io/)
 - Advantages of Cypress: https://dzone.com/articles/why-should-you-switch-to-cypress-for-modern-web-te
-•	https://docs.cypress.io/guides/overview/why-cypress.html#Cypress-ecosystem
-•	Tech Radar: https://www.thoughtworks.com/radar/tools/cypress 
+-	https://docs.cypress.io/guides/overview/why-cypress.html#Cypress-ecosystem  
+-	Tech Radar: https://www.thoughtworks.com/radar/tools/cypress 
 2. [Mochajs](https://mochajs.org/)
 
 ### Formatter & Linters:
@@ -116,5 +116,6 @@ Source: https://www.websiteplanet.com/blog/best-free-cloud-hosting-services/
 ### What datastores will you test? Who will try each possible option?   You must have at least one industry standard implementation. (Java, C#, or Node on the back-end) - work with data team.
 
    In order to keep up with the current technology pace we should learn and practice with more languages, technologies, libraries and platforms, not to mention the planning, architect, development, deploy and maintain an entire application and the stack it run by the whole project team be planned in making the architecture
+ 
 
   
