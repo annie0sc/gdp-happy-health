@@ -44,11 +44,19 @@ We planned to communicate our views to other designed units and ensure that ever
 - Great routing API
 - Availability of large number of plugins for use
 - Offers numerous HTTP utility methods to build dynamic and perceptive APIs  
-Reference: https://expressjs.com/
+Source: https://expressjs.com/
 
 ### Connecting to different databases from express framework:
 
 - https://expressjs.com/en/guide/database-integration.html
+
+### Appliation programming interfaces(API's):
+- Google Api:https://developers.google.com/identity/sign-in/web/sign-in
+- https://www.youtube.com/watch?v=KwOmVpd1DUA
+- Facebook Api: https://developers.facebook.com/docs/facebook-login/web/
+- Distance Travel Api: https://docs.microsoft.com/en-us/bingmaps/rest-services/routes/calculate-a-route?redirectedfrom=MSDN
+- TravelTime API http://docs.traveltimeplatform.com/reference/time-filter/ 
+- Source: https://gis.stackexchange.com/questions/15199/looking-for-free-web-service-that-calculates-driving-distance-between-2-addresse
 
 ### Heroku - Cloud Platform:  
 
