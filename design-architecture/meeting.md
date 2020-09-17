@@ -33,4 +33,5 @@ Discusion:
 - Needs to work on authentication and authorization.
 - Update more info about testing tools.
 - Needs to conduct meeting with design team to finalize tools, languages and frameworks
+- Needs to check free cloud platforms 
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep16.png
