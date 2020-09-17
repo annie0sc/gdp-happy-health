@@ -54,6 +54,8 @@ Reference: https://expressjs.com/
 
 1. [Cypress](https://www.cypress.io/)
 - Advantages of Cypress: https://dzone.com/articles/why-should-you-switch-to-cypress-for-modern-web-te
+•	https://docs.cypress.io/guides/overview/why-cypress.html#Cypress-ecosystem
+•	Tech Radar: https://www.thoughtworks.com/radar/tools/cypress 
 2. [Mochajs](https://mochajs.org/)
 
 ### Formatter & Linters:
