@@ -1,1 +1,10 @@
+#"Design Architecture"
+
+##Show how the requirements of the RFP are represented by your chosen framework(s) and language(s).
+
+- As stated in the RFP for the continous development of the project, We discussed among the team and agreed on the point that, this project is better delivered if we use agile methodology which follows continuous development and testing. Agile allows changes in development requirements which is an added advantage if we want to implement new changes in future.
+
+## Frameworks and Language(s) :
+
+- We are Using Express framework
 
