@@ -51,7 +51,7 @@ We have classes on every alternate day, I have attended only for few classes and
 
 ## 1. Half day-1(300 Points)
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
-- I worked online on this day and had a meeting with one of my team members as I didn't attended class online and discussed about the data we have to collect, test the sample data, and also initializing that data with SQL queries.
+- I worked online on this day and had a meeting with one of my team members as I didn't attended class and discussed about the data we have to collect, test the sample data, and also initializing that data with SQL queries.
 - Our team had a [zoom meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Discussion%20with%20Sprint%20team.JPG) with sprint team to discuss about the tasks we are going to do this week.
 - I started working on collecting data for water intake, hours of sleep in daily level entity.
 
@@ -60,7 +60,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I worked on adding data for [water intake](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Water%20Intake%20and%20hours%20of%20sleep.xlsx) and also updated [USER entity](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Sample%20Data%20For%20User%20Entity.xlsx)
 - I worked on collecting and adding data for [Group entity](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Group.xlsx) and also for [Hours of sleep](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Water%20Intake%20and%20hours%20of%20sleep.xlsx)
-- We had a [zoom meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Zoom%20Meeting%209-17.png) on 9/17/2020 on which I [invited]() and discussed on what work is remaining and also updated jira with done for hours of sleep, water intake, username, email tasks.
+- We had a [zoom meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Zoom%20Meeting%209-17.png) on 9/17/2020 on which I [invited](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Contributions/Anshitha/Zoom%20meeting%2017.png) and discussed on what work is remaining and also updated jira with done for hours of sleep, water intake, username, email tasks.
 
 ## 3. Half day-3(300 Points)
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
