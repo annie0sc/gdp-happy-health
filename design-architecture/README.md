@@ -9,7 +9,7 @@ We discussed among the team and agreed on the point that, this project is better
 ## Team Members 
 
 - Mohan Krishna Alavala - Team Lead
-- Sindhuja Valeti       - Tester
+- Sindhuja Valeti       -  Architect
 - Harish Thadka         - Backend developer
 - Tejaswi Reddy Kandula - Backend developer
 - Neelesh Saladi        - Database developer
