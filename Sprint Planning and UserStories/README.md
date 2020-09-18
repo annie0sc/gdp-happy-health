@@ -85,7 +85,8 @@
 
 ### Few suggestions are given to the Design architecture team:
 
-1. Make sure you have enough to represent all functionality, as well as all dependencies (primary and foreign key matchups.
+1. Make sure you have enough to represent all functionality.
+2. Make sure all the dependencies are mention correctly (primary and foreign key matchups). 
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/15thzoomwithunitleader.png?raw=true)
 
