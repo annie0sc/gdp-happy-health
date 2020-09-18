@@ -102,6 +102,7 @@
 
 ### Minutes of Meeting (MOM)
 1.Mockup for mobile and web version should be exactly similar except the dimensions change so elements will adjust acordingly.
+
 2.fixing a deadline for the mockup completion as this has to be approved by the client before sprint 1 starts.
 
 
