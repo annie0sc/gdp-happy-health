@@ -9,6 +9,17 @@
 We are Using Express framework for this application and it also fulfill all the Functional requirements that are given in the RFP.
 
 - For the Progressive web application we are creating Express Framework provides a quick and a simple web framework.
+- Offers numerous HTTP utility methods to build dynamic and perceptive APIs.
+- It has a Great API routing.
+- The number of plugins that are avilable to use in the Express Framework are very high.
+
+We are using JavaScript as the backend language for this project.
+
+- As we are thinking to make a Progressive web application, we can benefit from the much wider web environment, plugins and community and the relative ease of deployment and maintenance of a website. 
+- The JavaScript is the most famous Language that is used in the present web applications.
+- JavaScript is a text-based programming language that helps us to render web pages interactive, using both the client side and the server side.
+- JavaScript is a flexible programming language, It is one of the main web development technologies which can be used both on the front-end and back-end.
+
 
 ## Are there certain API's that are particularly useful for this project (i.e. built-in authentication and authorization functionality, database connections, etc.)?
 
