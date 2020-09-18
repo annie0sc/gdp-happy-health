@@ -73,3 +73,19 @@
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/DesingArchMeetings/DesignArch0914.png)
 
+## Meeting with All Unit Leaders(09/15/2020)
+
+## Minutes of Meeting(MOM):
+
+### Few suggestions are given to the Design architecture team:
+
+1. The entire Flow of App and description, Functionality need to be clearly mentioned
+
+2. Discuss with the data team and finalize the entities and relationships.
+
+### Few suggestions are given to the Design architecture team:
+
+1. Make sure you have enough to represent all functionality, as well as all dependencies (primary and foreign key matchups.
+
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/15thzoomwithunitleader.png?raw=true)
+
