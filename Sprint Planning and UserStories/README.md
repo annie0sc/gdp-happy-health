@@ -63,7 +63,7 @@
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/Screenshot%20(37).png?raw=true)
 
-## Meeting with Design architecture team(09/15/2020)
+## Meeting with Design architecture team(09/14/2020)
 - We had a meeting with design architure team and discussed the following topics with them.
 1. We as a sprint planning team talked about collecting the clients feedback given in module 1 ?
 2. Suggestion on App name ?
