@@ -9,10 +9,10 @@ We discussed among the team and agreed on the point that, this project is better
 ## Team Members 
 
 - Mohan Krishna Alavala - Team Lead
-- Sindhuja Valeti       - Senior Architect
-- Harish Thadka         - Senior Architect
-- Tejaswi Reddy Kandula - Junior Architect
-- Neelesh Saladi        - Junior Architect
+- Sindhuja Valeti       - Tester
+- Harish Thadka         - Backend developer
+- Tejaswi Reddy Kandula - Backend developer
+- Neelesh Saladi        - Database developer
 
 ## Team Meetings:
 
@@ -44,16 +44,36 @@ We planned to communicate our views to other designed units and ensure that ever
 - Great routing API
 - Availability of large number of plugins for use
 - Offers numerous HTTP utility methods to build dynamic and perceptive APIs  
-Reference: https://expressjs.com/
+Source: https://expressjs.com/
 
 ### Connecting to different databases from express framework:
 
 - https://expressjs.com/en/guide/database-integration.html
 
+### Appliation programming interfaces(API's):
+- Google Api:https://developers.google.com/identity/sign-in/web/sign-in
+- https://www.youtube.com/watch?v=KwOmVpd1DUA
+- Facebook Api: https://developers.facebook.com/docs/facebook-login/web/
+- Distance Travel Api: https://docs.microsoft.com/en-us/bingmaps/rest-services/routes/calculate-a-route?redirectedfrom=MSDN
+- TravelTime API http://docs.traveltimeplatform.com/reference/time-filter/ 
+- Kintone API: https://developer.kintone.io/hc/en-us/articles/360019245194-Get-Records
+- Source: https://gis.stackexchange.com/questions/15199/looking-for-free-web-service-that-calculates-driving-distance-between-2-addresse
+
+### Heroku - Cloud Platform:  
+
+**Advantages of Heroku**
+- Free dyno: The free cloud instance is not always on, and you’ll have to turn it back on after 30 minutes of inactivity. This limits its functionality to situations like code and app presentations, as its availability can’t be counted on.
+- Easy to use: Using Heroku’s sleek user interface, dynos and any other extras can be easily and immediately added. Heroku lets you focus on the actual development, taking most of the infrastructure responsibility off your back.
+- Buildpacks: Heroku lets you immediately deploy development environments for PHP, Node.js, Python, and many other languages, pre-configured with all necessary settings and dependencies.
+- Add-ons: Many add-ons are available to install on your cloud account, some for free and others for a low monthly cost. Add-ons like Heroku Redis, Timber.io, and Mailgun all offer a free plan.  
+Source: https://www.websiteplanet.com/blog/best-free-cloud-hosting-services/
+
 ### Testing Tools:
 
 1. [Cypress](https://www.cypress.io/)
 - Advantages of Cypress: https://dzone.com/articles/why-should-you-switch-to-cypress-for-modern-web-te
+-	https://docs.cypress.io/guides/overview/why-cypress.html#Cypress-ecosystem  
+-	Tech Radar: https://www.thoughtworks.com/radar/tools/cypress 
 2. [Mochajs](https://mochajs.org/)
 
 ### Formatter & Linters:
@@ -69,6 +89,7 @@ Reference: https://expressjs.com/
 2. Fitrilizer
 3. Fitnos
 4. Athleticor
+5. FitGalactica
 
 ## General Queries:
 
@@ -104,5 +125,6 @@ Reference: https://expressjs.com/
 ### What datastores will you test? Who will try each possible option?   You must have at least one industry standard implementation. (Java, C#, or Node on the back-end) - work with data team.
 
    In order to keep up with the current technology pace we should learn and practice with more languages, technologies, libraries and platforms, not to mention the planning, architect, development, deploy and maintain an entire application and the stack it run by the whole project team be planned in making the architecture
+ 
 
   
