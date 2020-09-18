@@ -13,17 +13,18 @@ Class Dates Mode Of Attendance
 - Joined in a Zoom meeting with the scrum team and asked them to assign tasks.
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png?raw=true)
 - Please find my contributions 
-https://github.com/annie0sc/gdp_health_app/tree/master/design-architecture/Contributions/Mohan
+https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contributions/Mohan/README2.md
 
 
 ## Half Day 2
 - Time allotted : 4hours = 4 hours out of the class = Worth 300 points
 - I have conducted a team meeting at 3PM.
+-[](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep16.png?raw=true)
 - On Wednesday, I have worked on ticket assigned to me and closed that ticket.
 -[](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png?raw=true)
 - I have assigned task to Harish to work on API's for authentication and authorization.
 - Reviewed the work done by the Harish and approved from my side.
-- commit Link.
+- https://github.com/annie0sc/gdp_health_app/commit/1154de9c059e1fdf0244603fb6231f08975c1b99#diff-49ddf3459923b8ecce20e1c35b239d72 
 - Assigned architecture design task to Sindhuja and Harish and gave workflow to work on the task.
 
 
@@ -37,4 +38,5 @@ https://github.com/annie0sc/gdp_health_app/tree/master/design-architecture/Contr
 - Joined in a Zoom meeting with the sprint team to share the user stories with them.
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG?raw=true)
 
-- Reviewed the tasks of team members and gave suggestions to them.
+- Added all the members into github repository as contributors.
+- wroked on pending ticket in jira board and closed the tickets.
