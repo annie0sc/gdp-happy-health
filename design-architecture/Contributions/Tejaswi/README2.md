@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td>09/16/2020</td>
-<td>Zoom Session</td>
+<td>We Followed Videos</td>
 <td> 4 hours</td>  
 </tr>
 <tr>
