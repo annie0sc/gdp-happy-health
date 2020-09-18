@@ -6,6 +6,10 @@ As part of design architecture team, we are responsible for creating and maintai
 
 We discussed among the team and agreed on the point that, this project is better delivered if we use agile methodology which follows continuous development and testing. Agile allows changes in development requirements which is an added advantage if we want to implement new changes in future.
 
+
+## App Design Architecture:
+![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/App%20Design%20Architecture.PNG)
+
 ## Team Members 
 
 - Mohan Krishna Alavala - Team Lead
