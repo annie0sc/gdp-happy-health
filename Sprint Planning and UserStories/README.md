@@ -83,10 +83,16 @@
 
 2. Discuss with the data team and finalize the entities and relationships.
 
-### Few suggestions are given to the Design architecture team:
+### Few suggestions are given to the Design Data team:
 
 1. Make sure you have enough to represent all functionality.
 2. Make sure all the dependencies are mention correctly (primary and foreign key matchups). 
+
+### Few suggestions are given to the UI team:
+
+1.Make sure mockup is in sync with RFP document.
+2.All your fields in UI should be known to the Data team and design accordingly.
+
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/15thzoomwithunitleader.png?raw=true)
 
