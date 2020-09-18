@@ -38,3 +38,4 @@ https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contr
 - Added all the members into github repository as contributors.
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contributions/Mohan/MailforGitids.png?raw=true)
 - wroked on pending ticket in jira board and closed the tickets.
+![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contributions/Mohan/jiraboard.png?raw=true)
