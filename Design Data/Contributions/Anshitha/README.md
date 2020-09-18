@@ -38,3 +38,36 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - Our team had a [zoom meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Zoom%20Meeting%209-11.png) and discussed about the work which had some changes.
 - I assigned myself a task in [Jira](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Contributions/Anshitha/Jira.png).
 
+
+Naga Anshitha Velagapudi
+## Module 2: Individual 2
+## 1. Attendance(200 Points)
+We have classes on every alternate day, I have attended only for few classes and the schedule is below.
+| Class Dates | Attended | 
+|----------|-------------|
+| 09/14/2020 | Online |
+| 09/16/2020 | Online |
+| 09/18/2020 | Online(Zoom) |
+
+## 1. Half day-1(300 Points)
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- I worked online on this day and had a meeting with one of my team members as I didn't attended class online and discussed about the data we have to collect, test the sample data, and also initializing that data with SQL queries.
+- Our team had a [zoom meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Discussion%20with%20Sprint%20team.JPG) with sprint team to discuss about the tasks we are going to do this week.
+- I started working on collecting data for water intake, hours of sleep in daily level entity.
+
+## 2.  Half day-2(300 Points)
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- I worked on adding data for [water intake](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Water%20Intake%20and%20hours%20of%20sleep.xlsx) and also updated [USER entity](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Sample%20Data%20For%20User%20Entity.xlsx)
+- I worked on collecting and adding data for [Group entity](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Group.xlsx) and also for [Hours of sleep](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Water%20Intake%20and%20hours%20of%20sleep.xlsx)
+- We had a [zoom meeting](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Zoom%20Meeting%209-17.png) on 9/17/2020 on which I [invited]() and discussed on what work is remaining and also updated jira with done for hours of sleep, water intake, username, email tasks.
+
+## 3. Half day-3(300 Points)
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- Our team had a small discussion and agreed with app name as "Happy Health" and our team lead sent an [email](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Screenshot%20(1).png) to sprint team members.
+- I attended zoom session conducted by Dr. Badami and discussed about the sprint work going on with all team leads. Our team lead also explained how well we are going on with intial SQL. 
+- I worked on updating sample data of user entity and also done with group entity use case diagram.
+- I also updated jira tasks with done for Group entity and use case diagram.
+- I also started working on tasks assigned to me by sprint team and will also work on updating data as soon as we get any updates from Design UI and Themes team.
+
+
