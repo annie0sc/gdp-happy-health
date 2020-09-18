@@ -91,8 +91,18 @@
 ### Few suggestions are given to the UI team:
 
 1.Make sure mockup is in sync with RFP document.
+
 2.All your fields in UI should be known to the Data team and design accordingly.
 
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/15thzoomwithunitleader.png?raw=true)
+
+## Meeting with UI team (09/18/20)
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/UiTeamMeetin_09182020.jpeg?raw=true)
+
+### Minutes of Meeting (MOM)
+1.Mockup for mobile and web version should be exactly similar except the dimensions change so elements will adjust acordingly.
+2.fixing a deadline for the mockup completion as this has to be approved by the client before sprint 1 starts.
+
+
 
