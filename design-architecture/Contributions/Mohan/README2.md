@@ -32,11 +32,9 @@ https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contr
 - Time allotted : 4hours = 1hour in Zoom Session + 3hours out of the class = Worth 300 points
 - Architecture design has been comppleted and sent mail to the team leads.
 
-![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting.png?raw=true)
+![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contributions/Mohan/ArchitectureMail.png?raw=true)
 
-
-- Joined in a Zoom meeting with the sprint team to share the user stories with them.
-![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Meeting%20with%20sprint%20planning%20team.PNG?raw=true)
 
 - Added all the members into github repository as contributors.
+![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contributions/Mohan/MailforGitids.png?raw=true)
 - wroked on pending ticket in jira board and closed the tickets.
