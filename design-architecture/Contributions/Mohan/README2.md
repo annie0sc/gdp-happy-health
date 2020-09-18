@@ -19,7 +19,7 @@ https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Contr
 ## Half Day 2
 - Time allotted : 4hours = 4 hours out of the class = Worth 300 points
 - I have conducted a team meeting at 3PM.
--[](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep16.png?raw=true)
+![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep16.png?raw=true)
 - On Wednesday, I have worked on ticket assigned to me and closed that ticket.
 -[](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png?raw=true)
 - I have assigned task to Harish to work on API's for authentication and authorization.
