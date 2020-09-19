@@ -67,8 +67,8 @@ Time allotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points.
 
 I have attended the zoom meetings conducted by the sprint team. We have discussed about the tasks that were assigned.
 We have also discussed about the wireframe designs.
-Link for wireframes: [wireframes]()
-[zoom]()
+
+![zoom](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/uizoom.PNG)
  
 Later, I have attended the zoom meeting with our UI team. We have discussed about the tasks assigned. The meeting is about 30 minutes.
 Web accessibility was assigned to me and I have started researching on web accessibility and got an idea on it.
@@ -82,7 +82,7 @@ https://github.com/annie0sc/gdp_health_app/commit/41f8bfbb2ad8e27f503f5e387a6af6
 Time allotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points.
 
 I have attended the meeting with sprint and design architecture teams and discussed about the requirements for the screens.
-[zoom]()
+![zoom](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/zoom%20team%20lead.PNG)
 
 I have created an account on [moqups](https://moqups.com/) and have joined our team. We worked collaboratively on designing the pages for the application.
 I have worked on the tasks assigned in jira.
@@ -91,7 +91,7 @@ I have worked on the tasks assigned in jira.
 Time allotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points.
 
 I have attended the zoom meeting hosted by Dr.Badami. 
-[zoom]()
+![zoom](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/sept18zoom.PNG)
 
 Our team leader presented our tasks and we received feedback from professor. 
 I have worked on the issues in jira and helped my team to make changes as per our professor's feedback.
