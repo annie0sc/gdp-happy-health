@@ -19,7 +19,7 @@ Discusion:
 - conduct meeting with sprint planning and user Stories team.
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png
 
-# Team Meeting: 09/14/20
+# Scrum Meeting: 09/14/20
 Scheduled Zoom meeting on 09/14/20 at 9PM  
 Discusion:
 - Prppose name for app
