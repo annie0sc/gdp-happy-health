@@ -31,7 +31,7 @@ Discusion:
 # Team Meeting: 09/16/20
 Scheduled Zoom meeting on 09/16/20 at 3PM  
 Discusion:
-- Needs to work on authentication and authorization.
+- Needs to work on sign in API's such as google, facebook.
 - Update more info about testing tools.
 - Needs to conduct meeting with design team to finalize tools, languages and frameworks
 - Needs to check free cloud platforms 
