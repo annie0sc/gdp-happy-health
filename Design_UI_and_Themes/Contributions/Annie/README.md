@@ -73,30 +73,19 @@ https://github.com/annie0sc/gdp_health_app/tree/master/Design_UI_and_Themes (Lin
 
 | Date  | Meeting Length  |  Discussed About | Software Used  |
 |---|---|---|---|
-| 08/31/2020  |  30 minutes | Discussed in detail about the presentation ideas.  |  Zoom |
-| 09/02/2020  |  50 minutes |   Discussed the changes we need to make as per the feedback given after the presentation. |  Zoom |
-|  09/04/2020 | 45 minutes  |  Zoom class meeting with the mentor. |Zoom   |
+| 09/14/2020  |  30 minutes | Discussed in detail about the presentation ideas.  |  Zoom |
+| 09/16/2020  |  50 minutes |   Discussed the changes we need to make as per the feedback given after the presentation. |  Zoom |
+|  09/18/2020 | 45 minutes  |  Zoom class meeting with the mentor. |Zoom   |
 
 
-# Half-Day 1 (08/31/2020)
+# Half-Day 1 (09/14/2020)
 
-1. I had started by [creating a presentation file](https://github.com/annie0sc/gdp_group4/commit/653fbeb4f019fb069a67732a90f7adc0f5020388) in the common repository.
-2. I had [added a template](https://github.com/annie0sc/gdp_group4/commit/4b71927c84ce53ad06170074037daf810702d270) to this file.
-3. We had a group meeting and concluded using [Google slides](https://docs.google.com/presentation/d/1UyfTlU6NncRWTflP5YTVSA0VhP_OS3NgWkFcwm7ynw0/edit?usp=sharing) for making a rough draft of the presentation.
-4. I had [changed the font size](https://github.com/annie0sc/gdp_group4/commit/81439393a2928e8c3e60838f0d751b1f9b3a5aaf) of the presentation headings.
-5. Some errors had occurred during file sharing which was rectified. [Error correction](https://github.com/annie0sc/gdp_group4/commit/23c440d3998ef3944f9593a8acb8b6d6e502906c) was done.
-6. I had resolved [merge conflicts](https://github.com/annie0sc/gdp_group4/commit/7be364f94dd1e70dda60482a92d606ae40c4eeb4) that had occurred.
-7. The [final changes](https://github.com/annie0sc/gdp_group4/commit/65288caa6f0eb489ef3101dd8db0a7524d173400) for the presentation were done by me after further discussion.
+* I had attended in-person class meeting and were briefed about the work flow for the following week.
+* Later that evening, I was inided to attend a zoom mmeting with the sprint team to discuss about assigning the tasks and issues to our team.
 
-# Half-Day - 2 (09/02/2020)
+# Half-Day - 2 (09/16/2020)
 
-* **I was chosen as the speaker for our group presentation, hence, I made some changes for the presentation.** 
-1. I had made some [last-minute changes](https://github.com/annie0sc/gdp_group4/commit/e1bf1bdbefa85609e27bd72c08594030dc42925c) to the presentation as I had written a few more points and rectified the course code in the presentation.
-2. Added few more points in the [future work side](https://github.com/annie0sc/gdp_group4/commit/9284881541265b24e54dedfb74c2181283f9b0da) of the presentation.
-* **After the presentation, we had received some feedback from Dr. Beemer which we started to implement immediatly.**
-3. Uploaded [the slides for the presentation](https://github.com/annie0sc/gdp_group4/commit/6d59b7b6bb9a38e79c097753d756b1d901c42464) after  making changes to the color of the UI designs.
-4. Made a new Markdown file and [uploaded the images](https://github.com/annie0sc/gdp_group4/commit/e08114442e2b640a0e22ed46d87f920f7339cb6d) of the presentation to GitHub.
-5. Resolved some [merge conflicts](https://github.com/annie0sc/gdp_group4/commit/a6e5d820550b66eedefde2f5809f3e1f3485d1e2) in the repository.
+* I had worked on the 
 
 # Half-Day - 3 (09/18/2020)
 
@@ -104,7 +93,11 @@ https://github.com/annie0sc/gdp_health_app/tree/master/Design_UI_and_Themes (Lin
 * Which was then followed by making changes to the UI sketches as suggested.
 * I had emailed the final draft to the mentor for further revision.
 
+[](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(8).png)
 
-* We had also attended a zoom meeting with our mentor, Dr. Badami, and had discussed the upcoming tasks about module 2. I had also taken notes about the feedback that our mentor had given.
+* I had designed the mobile sign-in and sign-up pages for the user and for the admin which lead to the home page specific to the user.
 
-![zoom_class](https://github.com/annie0sc/gdp_group4/blob/master/Annie_screenshots/zoom_class.PNG?raw=20)
+A link to the moqup is given below:
+
+https://app.moqups.com/k6nkHjQMFS/view/page/ad64222d5
+
