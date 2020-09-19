@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>RS Logo Copy 4</title>
+    <g id="RS-Logo-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#EEEEEE" x="0" y="0" width="100" height="100"></rect>
+        <g id="Group-5" transform="translate(12.000000, 40.000000)">
+            <g id="Group-3" transform="translate(61.000000, 0.000000)" fill="#8FC642">
+                <rect id="Rectangle" x="0" y="0" width="3" height="20" rx="1.5"></rect>
+                <rect id="Rectangle-Copy-2" x="5" y="3" width="3" height="15" rx="1.5"></rect>
+                <rect id="Rectangle-Copy-3" x="10" y="9" width="5" height="3" rx="1.5"></rect>
+            </g>
+            <g id="Group-4" fill="#8FC642">
+                <rect id="Rectangle-Copy-6" transform="translate(15.500000, 10.000000) rotate(180.000000) translate(-15.500000, -10.000000) " x="14" y="0" width="3" height="20" rx="1.5"></rect>
+                <rect id="Rectangle-Copy-5" transform="translate(9.500000, 10.500000) rotate(180.000000) translate(-9.500000, -10.500000) " x="8" y="3" width="3" height="15" rx="1.5"></rect>
+                <rect id="Rectangle-Copy-4" transform="translate(2.500000, 10.500000) rotate(180.000000) translate(-2.500000, -10.500000) " x="0" y="9" width="5" height="3" rx="1.5"></rect>
+            </g>
+            <text id="BYE" font-family="Rubik-Bold, Rubik" font-size="4" font-weight="bold" fill="#000000">
+                <tspan x="34.916" y="5">BYE </tspan>
+            </text>
+            <text id="DEGREES" font-family="Rubik-Bold, Rubik" font-size="8" font-weight="bold" line-spacing="6" fill="#F47B19">
+                <tspan x="19" y="14">DEGREES </tspan>
+            </text>
+        </g>
+    </g>
+</svg>
