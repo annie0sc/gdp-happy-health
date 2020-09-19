@@ -39,7 +39,7 @@ Worked on the sql queries for group entity.
 Link to sql queries for group entity: https://github.com/annie0sc/gdp_health_app/commit/21ba0e582b4ddcc07bea371b457b19baeea9dc0f  
 Worked on the sql queries for group member entity.  
 Link to sql queries for group  member entity: https://github.com/annie0sc/gdp_health_app/commit/d83e7b7b187677ad0ecaf37829553505c64a29aa  
-We as ateam conducted zoom meeting to discuss about our workflow.  
+We as a team conducted zoom meeting to discuss about our workflow.  
 https://github.com/annie0sc/gdp_health_app/commit/fd0eaa04e550224e030bbeb48de95ae367eb1619
 
 ## Half Day3
