@@ -74,7 +74,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 # Individual-2 
 
 1. ## Attendance :
-The days I attended GDP - 1 classses in this week are :
+  The days I attended GDP - 1 classses in this week are :
     
 <table style="width:70%;border: 1px solid black;">
 <tr>
@@ -105,7 +105,7 @@ The days I attended GDP - 1 classses in this week are :
 
 2. ## Half day 1 :
 
-  Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+    Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
   - On the first half day, we had a Zoom meeting with the Sprint team and in that meeting we discussed about the prototype to be designed and the tasks to be assigned to each one in the team. 
   
@@ -153,8 +153,6 @@ The days I attended GDP - 1 classses in this week are :
 - Scheduled a meeting and discussed about the roles and tasks to be done by the day.
 
 - Designed a wireframe for user profile and submitted the link to our instructor and our instructor will forward that to the client. 
-
- ![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Navya/ZoomMeeting.PNG)
 
 
 - Worked on the issues in Jira and resolved them in this Sprint. Planned few tasks for the next Sprint which is to be continued from Monday.
