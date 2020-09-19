@@ -59,7 +59,9 @@ jira Link: http://cs04.nwmissouri.edu/browse/FIT-18?filter=-1
 # ATTENDANCE
 
 09/14/2020 - Worked from home
+
 09/16/2020 - Worked from home
+
 09/18/2020 - Zoom session
 
 # Half Day 1
