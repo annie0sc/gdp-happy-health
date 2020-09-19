@@ -9,7 +9,7 @@ Class Dates Mode Of Attendance
 
 ## Half Day 1
 - Earned Leave
-- As im not feeling well on Day 1, I was not into any big tasks. However i have worked the following thigs.
+- As im not feeling well on Day 1, I was not into any big tasks. However i have worked the following things.
 - Joined in a Zoom meeting with the scrum team and asked them to assign tasks.
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png?raw=true)
 - Please find my contributions 
