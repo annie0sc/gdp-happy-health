@@ -25,6 +25,7 @@ Discusion:
 - Prppose name for app
 - Needs to work on client feedback
 - Assigned new tasks in jira as per discussion
+- Testing tools & technologies
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png
 
 # Team Meeting: 09/16/20
