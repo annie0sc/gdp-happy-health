@@ -19,19 +19,30 @@ Discusion:
 - conduct meeting with sprint planning and user Stories team.
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png
 
-# Team Meeting: 09/14/20
+# Scrum Meeting: 09/14/20
 Scheduled Zoom meeting on 09/14/20 at 9PM  
 Discusion:
 - Prppose name for app
 - Needs to work on client feedback
 - Assigned new tasks in jira as per discussion
+- Testing tools & technologies
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png
 
 # Team Meeting: 09/16/20
 Scheduled Zoom meeting on 09/16/20 at 3PM  
 Discusion:
-- Needs to work on authentication and authorization.
+- Needs to work on sign in API's such as google, facebook.
 - Update more info about testing tools.
 - Needs to conduct meeting with design team to finalize tools, languages and frameworks
 - Needs to check free cloud platforms 
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep16.png
+
+# Scrum Meeting: 09/17/20
+Scheduled Zoom meeting on 09/17/20 at 9PM  
+Discussion:
+- App Design architecture
+- create a seperate repo to host the app
+- Create a skelton app in repo
+- O Authentication & authorization
+- Assigned new tasks in jira as per discussion
+- Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png

@@ -66,8 +66,8 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - Our team had a small discussion and agreed with app name as "Happy Health" and our team lead sent an [email](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Screenshot%20(1).png) to sprint team members.
 - I attended zoom session conducted by Dr. Badami and discussed about the sprint work going on with all team leads. Our team lead also explained how well we are going on with intial SQL. 
-- I worked on updating sample data of user entity and also done with group entity use case diagram.
+- I worked on updating sample data of user entity and also done with group entity [use case](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/UseCasediagrams/Group%20Use%20case.PNG) diagram.
 - I also updated jira tasks with done for Group entity and use case diagram.
 - I also started working on tasks assigned to me by sprint team and will also work on updating data as soon as we get any updates from Design UI and Themes team.
 
-
+- Here is the [link](http://cs04.nwmissouri.edu/browse/FIT-79?filter=-4&jql=assignee%20in%20(currentUser())%20order%20by%20created%20DESC) to my jira work.
