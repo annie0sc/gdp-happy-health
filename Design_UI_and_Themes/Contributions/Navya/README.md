@@ -74,7 +74,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 # Individual-2 
 
 1. ## Attendance :
-  The days I attended GDP - 1 classses in this week are :
+   The days I attended GDP - 1 classses in this week are :
     
 <table style="width:70%;border: 1px solid black;">
 <tr>
@@ -123,8 +123,6 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - Attended in-person class and presented the wireframes designed by me to Dr. Badami. 
 
 - I had attended a meeting with the Sprint team and the Design Architecture team to discuss about the requirements for the home page and noted what were discussed in the call.
-
-  ![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Navya/ZoomMeeting.PNG)
 
 - Had a call with my team members and discussed about the review given by Dr. Badami in class and what fields to be modified or added to the wireframes.
 
