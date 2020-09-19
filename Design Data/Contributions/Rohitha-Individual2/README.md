@@ -37,16 +37,16 @@ https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Di
 4 hours - Worth 300 points
 Started working on the tasks assigned by sprint team, completed use case diagram.
 Worked on the sql queries for group entity.
-Link to sql queries for group entity: https://github.com/annie0sc/gdp_health_app/commit/21ba0e582b4ddcc07bea371b457b19baeea9dc0f
-Worked on the sql queries for group member entity.
-Link to sql queries for group  member entity: https://github.com/annie0sc/gdp_health_app/commit/d83e7b7b187677ad0ecaf37829553505c64a29aa
+Link to sql queries for group entity: https://github.com/annie0sc/gdp_health_app/commit/21ba0e582b4ddcc07bea371b457b19baeea9dc0f  
+Worked on the sql queries for group member entity.  
+Link to sql queries for group  member entity: https://github.com/annie0sc/gdp_health_app/commit/d83e7b7b187677ad0ecaf37829553505c64a29aa  
 We as ateam conducted zoom meeting to discuss about our workflow.  
 https://github.com/annie0sc/gdp_health_app/commit/fd0eaa04e550224e030bbeb48de95ae367eb1619
 
 ## Half Day3
-4 hours - 300 points
-I have attended zoom session on Half Day3,discussed about the work,clarified out doubts related to firebase with Dr. Badami.
-I have worked on sql queries for target entity in sql developer.
-https://github.com/annie0sc/gdp_health_app/commit/b7c38b45be5026eaf4484c945b29adb69545d2f8
-We as a team suggested suggested APP name for sprint team members.
+4 hours - 300 points  
+I have attended zoom session on Half Day3,discussed about the work,clarified out doubts related to firebase with Dr. Badami.  
+I have worked on sql queries for target entity in sql developer.  
+https://github.com/annie0sc/gdp_health_app/commit/b7c38b45be5026eaf4484c945b29adb69545d2f8  
+We as a team suggested suggested APP name for sprint team members.  
 https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Screenshot%20(1).png
