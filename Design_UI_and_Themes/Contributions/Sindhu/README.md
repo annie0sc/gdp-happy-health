@@ -56,6 +56,64 @@ jira Link: http://cs04.nwmissouri.edu/browse/FIT-18?filter=-1
 ![jiraIssues](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Sindhu/issues.PNG)
 
 
+# ATTENDANCE
+
+09/14/2020 - Worked from home
+09/16/2020 - Worked from home
+09/18/2020 - Zoom session
+
+# Half Day 1
+Time allotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points.
+
+I have attended the zoom meetings conducted by the sprint team. We have discussed about the tasks that were assigned.
+We have also discussed about the wireframe designs.
+Link for wireframes: [wireframes]()
+[zoom]()
+ 
+Later, I have attended the zoom meeting with our UI team. We have discussed about the tasks assigned. The meeting is about 30 minutes.
+Web accessibility was assigned to me and I have started researching on web accessibility and got an idea on it.
+
+I have updated readme file by adding web accessibility description.
+https://github.com/annie0sc/gdp_health_app/commit/d1e9709a69c5414380bae79d913ab59a3294fed7
+
+https://github.com/annie0sc/gdp_health_app/commit/41f8bfbb2ad8e27f503f5e387a6af6a6f6cec7b7
+
+# Half Day 2
+Time allotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points.
+
+I have attended the meeting with sprint and design architecture teams and discussed about the requirements for the screens.
+[zoom]()
+
+I have created an account on [moqups](https://moqups.com/) and have joined our team. We worked collaboratively on designing the pages for the application.
+I have worked on the tasks assigned in jira.
+
+# Half day 3
+Time allotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points.
+
+I have attended the zoom meeting hosted by Dr.Badami. 
+[zoom]()
+
+Our team leader presented our tasks and we received feedback from professor. 
+I have worked on the issues in jira and helped my team to make changes as per our professor's feedback.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
