@@ -56,6 +56,112 @@ Commit documenting planned tasks :
 
 
 
+# Module 2 - Individual 2
+
+## Attendance
+
+09/14/2020 - Worked from home
+
+09/16/2020 - Worked from home
+
+09/18/2020 - zoom session
+
+## Meetings :
+
+All the meetings and discussions are updated in this link:
+
+https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md
+
+## Half Day Work (09/14/2020) - 4 hours
+
+- On Monday, we had a zoom meeting with our team mates and discussed the major tasks to be done by architect team. The same is updated under section 1 module 2 week reports.
+
+- We discussed about tools and technologies apt to build our application which are reliable and cost efficient.
+
+  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png
+
+  Minutes of meeting : 
+
+  - Connecting database and express js.
+
+  - Needs to work on authentication and 
+  authorization.
+
+  - Testing tools apt for the project
+
+  - Every user sprint needs to check on api.
+Testing tools for implemtation.
+
+  - Cloud platforms like AWS, SQL server needs to check.
+
+  - conduct meeting with sprint planning and user Stories team.
+
+- As discussed in the meeting, I have spent time on searching which testing tool best suits our project. 
+
+- Worked with one of my team members and updated readme file with testing tools.
+ 
+  https://github.com/annie0sc/gdp_health_app/commit/469f0b7aa68a85b98ac32c220951a6bd616ddc79
+
+  https://github.com/annie0sc/gdp_health_app/commit/c8cff61b89bf9801863824d0918800dec7862bd0
+
+
+- Attended zoom meeting with sprint team.
+
+  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png
+
+  Minutes of meeting:
+
+    -  proposed name for app.
+
+    - Need to work on client feedback.
+
+    - Assigned new tasks in Jira as per discussion.
+
+## Half Day Work (09/16/2020) - 4 hours
+
+- I have attended zoom meeting to discuss on API's and cloud platforms.
+
+   https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep16.png
+
+  Minutes of meeting:
+   - Needs to work on sign in API's such as google, facebook.
+  - Update more info about testing tools.
+  - Needs to conduct meeting with design team to finalize tools, languages and frameworks
+  - Needs to check free cloud platforms
+
+
+- Later, I have worked on designing an architecture diagram for the project.
+
+- I have worked on packages that needs to be installed for authenticating the app like passcode for nodejs.
+
+- I have worked on packages that needs to be installed for database connection with nodejs framework. 
+
+- Worked on tools compatibility with database.
+
+- Had a meeting with sprint team to communicate the tools and technologies we finalized for the project.
+
+- nodejs has packages to be installed for specific RDBMS using, 'npm install databasename' command.
+
+  https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep17%209pm.png
+
+
+## Half Day Work (09/18/2020) - 4 hours
+
+- Attended zoom meeting hosted by Dr. Badami.
+
+- Worked with my team member in creating architecture diagram with all the technologies we finalized for the project.
+
+  ![](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/App%20Design%20Architecture.PNG?raw=true)
+
+- As discussed with sprint team, we have created another repo with app name 'HappyHealth'
+
+  https://github.com/harishThadka/happyHealth 
+
+
+- We have communicated our architecture design with all the units by sending an email.
+
+
+
 
 
 
