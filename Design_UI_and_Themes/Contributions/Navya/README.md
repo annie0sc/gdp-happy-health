@@ -45,7 +45,6 @@ The days I attended GDP - 1 classses are :
     This day was considered as a paid leave.
 
    
-<<<<<<< HEAD
 3. ## Half Day 2 :
 
 Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
@@ -106,9 +105,9 @@ The days I attended GDP - 1 classses in this week are :
 
 2. ## Half day 1 :
 
-=======
->>>>>>> a448defd3a89ab70bc4cb754c14f5d3954c8210e
-    This day was considered as a paid leave.
+  Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+
+  On the first half day, we had a Zoom meeting with the Sprint team and in that meeting we discussed about the prototype to be designed and the tasks to be assigned to each one in the team.
 
    
 3. ## Half Day 2 :
@@ -135,10 +134,7 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 - Created a [contributions](https://github.com/annie0sc/gdp_health_app/commit/fdc213a1c4823bde0892b62e10d69f7e1bf6c5b0) folder in our group folder and assigned each one a readme.md file to update the file with their contributions.
 - Worked on designing prototypes and compared with different softwares like iOS, windows and also in web.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> a448defd3a89ab70bc4cb754c14f5d3954c8210e
 
 
 
