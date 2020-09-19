@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td>09/14/2020</td>
-<td>We Followed Videos</td>
+<td>Worked From Home</td>
 <td>4 hours</td>
 </tr>
 <tr>
@@ -26,17 +26,18 @@
 </tr>
 </table>
 
-## Half Day 1
+## Half Day 1:
 
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
-- On the First Half Day,We team members gave an update on how the tasks are shared among us and updated about the technologies to be used in Design Architecture.We Design Architecture team members connected to a zoom meeting at 4 pm on 09/14/2020 and discussed about the individual tasks,discussed about client feedback,testing tools for implemtation.[TeamMeeting](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png)
+- On the First Half Day,We Design Architecture team members connected to a zoom meeting at 4 pm on 09/14/2020 and discussed about the individual tasks,discussed about client feedback,testing tools for implemtation.[TeamMeeting](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep14.png)
 - I updated the tasks we did as part of Agile understanding the requirements and formulating the design.
 - We also had a meeting with scrum team at 9pm on 09/14/2020 and discussed about the tasks to be assigned to the Design Architecture team.[ScrumMeeting](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png)
 - Tasks was assigned to me by Scrum Team to decide the best methodology to be used during software development life cycle.[Jira](http://cs04.nwmissouri.edu/browse/FIT-9)
 - Task was assigned to me to suggest a name for application by scrum team.I started working on names for application.
 
-## Half Day 2
+## Half Day 2:
+
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the Second Half Day,We team members joined Zoom meeting at 3 pm on 09/16/2020 and discussed about Updating more information about testing tools and discussed about free cloud platforms.
