@@ -35,3 +35,13 @@ Discusion:
 - Needs to conduct meeting with design team to finalize tools, languages and frameworks
 - Needs to check free cloud platforms 
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Team%20meeting%20sep16.png
+
+# Scrum Meeting: 09/17/20
+Scheduled Zoom meeting on 09/17/20 at 9PM  
+Discussion:
+- App Design architecture
+- create a seperate repo to host the app
+- Create a skelton app in repo
+- O Authentication & authorization
+- Assigned new tasks in jira as per discussion
+- Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png
