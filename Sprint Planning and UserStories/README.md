@@ -102,8 +102,14 @@
 
 ### Minutes of Meeting (MOM)
 1.Mockup for mobile and web version should be exactly similar except the dimensions change so elements will adjust acordingly.
-
 2.fixing a deadline for the mockup completion as this has to be approved by the client before sprint 1 starts.
+
+## Meeting with UI team (09/21/20)
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/blockersmeeting.png?raw=true)
+
+### Minutes of Meeting(MOM)
+1.Professor suggested few changes in the mockups so we conducted meeting and explained the scenario to the UI team. Mockups need to complete by monday so the we can go for the client approval.We can start the sprint one by the wednesday.
+2.We have conducted several meeting with UI Team because we need a client approval for mockups.
 
 ## Meeting with UI team (09/22/20)
 ![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/Screenshot%20(47).png?raw=true)
