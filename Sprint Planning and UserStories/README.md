@@ -105,5 +105,12 @@
 
 2.fixing a deadline for the mockup completion as this has to be approved by the client before sprint 1 starts.
 
+## Meeting with UI team (09/22/20)
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/Screenshot%20(47).png?raw=true)
+
+### Minutes of Meeting(MOM)
+1. Meeting is conduct with the UI team regrading the admin home page and  for both mobile and web versions.
+2. Clearly explained what client is looking for so that the UI team working on the Admin Home page.We asked them to fix a time frame to submit the final touchings of the mockups    because we need a client approval for the Mockups so that we can start the sprint one as soon as possible.
+
 
 
