@@ -108,8 +108,8 @@
 ![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/blockersmeeting.png?raw=true)
 
 ### Minutes of Meeting(MOM)
-1.Professor suggested few changes in the mockups so we conducted meeting and explained the scenario to the UI team. Mockups need to complete by monday so the we can go for the client approval.We can start the sprint one by the wednesday.
-2.We have conducted several meeting with UI Team because we need a client approval for mockups.
+1. Professor suggested few changes in the mockups so we conducted meeting and explained the scenario to the UI team. Mockups need to complete by monday so the we can go for the     client approval.We can start the sprint one by the wednesday.
+2. We have conducted several meeting with UI Team because we need a client approval for mockups.
 
 ## Meeting with UI team (09/22/20)
 ![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/Screenshot%20(47).png?raw=true)
