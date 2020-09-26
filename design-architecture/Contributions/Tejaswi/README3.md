@@ -25,3 +25,10 @@
 <td> 4 hours</td>
 </tr>
 </table>
+## Half Day 1:
+
+Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
+
+- On the First Half Day,We Design Architecture team members connected to a zoom meeting at 4 pm on 09/21/2020 and discussed about the discussed Demo Application.[TeamMeeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Architecture%20Meeting%20Sep21.png)
+- We team members assigned individual tasks and started working on Demo Application.
+
