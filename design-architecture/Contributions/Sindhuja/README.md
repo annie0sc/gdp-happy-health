@@ -237,7 +237,10 @@ All the meetings and discussions are updated in this link:
 
 - As per the discussion, I have created a free trail account with google cloud platform.
 
-- 
+  ![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Gcp%20account.PNG?raw=true)
+
+- Created SQL instance in google cloud account and created a new MySql database.
+
 
 
 
