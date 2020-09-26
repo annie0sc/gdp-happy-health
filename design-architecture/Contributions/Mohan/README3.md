@@ -20,7 +20,7 @@ https://github.com/annie0sc/gdp_health_app/tree/master/design-architecture/Contr
 - On Wednesday, I joined a zoom meeting with the sprint team at 9.00 PM and discussed how to share a common idea and their views on implementation.
 - I have conducted a Zoom meeting with my team at 10.00 PM and discussed the tools we will use.
 - We team members joined a team meeting with UI Team to discuss about User signup,user login page and admin page.
-https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png?raw=true)
 - Assigned tasks to our team members about creating and deploying user signup page.
 - I assigned tasks to Tejaswi and harish to create admin page.
 
@@ -39,7 +39,7 @@ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Mee
 - Reviewed the tasks of team members and gave suggestions to them.
 
 - We team members joined zoom meeting with data team to discuss about the database to be used in the application.
-https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg?raw=true)
 
 - I assigned tasks for Sindhuja and Sindhu rani for selecting the database connection creation to be used for application.
 
