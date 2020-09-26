@@ -49,7 +49,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the third Half Day,We joined a Zoom Session and discussed about Sprint 0 tasks to be completed before sprint 1.
-- We had a team meeting with Data team on 09/25/2020 at 4PM and discussed about database to be used in application.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg)
+- We had a team meeting with Data team on 09/24/2020 at 4PM and discussed about database to be used in application.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg)
 - I and my team member Harish started working on database for user signup page.[Commit](https://github.com/harishThadka/happyHealth/blob/master/app.js)
 - We team members joined a zoom meeting with Sprint team on 09/25/2020 to give an update about completed tasks in Sprint 0.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprinteam%20meeting%20sep25.PNG)
 
