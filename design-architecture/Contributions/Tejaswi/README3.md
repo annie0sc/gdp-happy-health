@@ -39,7 +39,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the Second Half Day,We team members joined Zoom Session and gave an update about the current status of Design Architecture.
-- We team members joined a Zoom meeting on 09/23/2020 with UI team and discussed on User SignUp and User Login, Admin pages.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png)
+- We team members joined a Zoom meeting on 09/23/2020 at 6PM with UI team and discussed on User SignUp and User Login, Admin pages.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png)
 - I and my team member Harish assigned a task for creating user signup page.
 - We started working on user signup page.[Commit](https://happy-health-demo.herokuapp.com/)
 - We deployed UserSignUp in Heroku.[Commit](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/HappyHealthApplication/HerokuUserSignUp%20.jpeg)
@@ -49,6 +49,10 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - On the third Half Day,We joined a Zoom Session and discussed about Sprint 0 tasks to be completed before sprint 1.
-- We had a team meeting with Data team and discussed about database to be used in application.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg)
+- We had a team meeting with Data team on 09/24/2020 at 4PM and discussed about database to be used in application.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg)
 - I and my team member Harish started working on database for user signup page.[Commit](https://github.com/harishThadka/happyHealth/blob/master/app.js)
 - We team members joined a zoom meeting with Sprint team on 09/25/2020 to give an update about completed tasks in Sprint 0.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprinteam%20meeting%20sep25.PNG)
+
+## Meetings:
+- Meetings and discussions in our team are updated here.[Meetings](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md)
+
