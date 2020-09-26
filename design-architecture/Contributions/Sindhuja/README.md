@@ -162,6 +162,100 @@ Testing tools for implemtation.
 
 
 
+# Module 3 - Individual 1
+
+## Attendance
+
+09/21/2020 - Worked from home
+
+09/23/2020 - zoom session by Dr. Badami
+
+09/25/2020 - Worked from home
+
+
+## Meetings
+
+All the meetings and discussions are updated in this link:
+
+ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md
+
+
+## Half Day Work (09/21/2020) - 4 hours
+
+- On the first day, we had a meeting among our team members and discussed on deploying a demo application on heroku.
+
+    https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Architecture%20Meeting%20Sep21.png
+
+- Minutes of meeting :
+
+  About Demo Application.
+
+  Deploying demo application.
+
+- As per the discussion, I have worked with one of my team members in creating model view controller architecture for the demo app.
+
+  Demo app link:
+  https://github.com/harishThadka/happyHealth
+
+- Worked in deploying demo app on heroku
+
+   Deployed app link:
+
+  https://happy-health-demo.herokuapp.com/
+
+
+## Half Day Work (09/23/2020) - 4 hours
+
+- On the second day, I have attended zoom session hosted by Dr. Badami to give the status report.
+
+- Attended zoom meeting with design UI team, and discussed on signup and login pages functionality.
+
+  https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png
+
+  Minutes of meeting :
+
+  Needs to work on User SignUp and User Login, Admin pages.
+
+  deploying a User SignUp page.
+
+- As per the discussion, I have worked on deploying signup page on heroku.
+
+- Also, discussed with my team lead about database connection to get the overview.
+
+- Started exploring database connection with node.js framework.
+
+
+## Half Day Work (09/25/2020) - 4 hours
+
+- On the third day, I have attended zoom meeting with design data team to get the information needed in connecting database to node.js app.
+
+  https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg
+
+ - Minutes of meeting :
+
+   Discussed on cloud databases such as MySql in google cloud.
+
+- As per the discussion, I have created a free trail account with google cloud platform.
+
+- 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
 
 
 
