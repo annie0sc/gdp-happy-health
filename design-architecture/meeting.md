@@ -50,6 +50,7 @@ Discussion:
 # Team Meeting: 09/21/20
 Scheduled Zoom meeting on 09/21/2020 at 4PM
 Discussion:  
+- Week tasks
 - About Demo Application
 - About where the Application to be deployed.
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Architecture%20Meeting%20Sep21.png
