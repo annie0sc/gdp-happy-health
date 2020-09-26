@@ -30,7 +30,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 
 - I have attended zoom meeting with my team and design data team for 30 minutes and discussed about the database connection and have got update of their work.
 ![zoom](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/archizoom22.PNG)
-We have done some research and explored on database connection with nodejs app and worked with one of my teammates sindhuja on database google cloud platform.
+- We have done some research and explored on database connection with nodejs app and worked with one of my teammates sindhuja on database google cloud platform.
 ![cloud](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Gcp%20account.PNG)
-I have started working on the task assigned to me.
+- I have started working on the task assigned to me.
 
