@@ -189,20 +189,22 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 </tr>
 </table>
 
-2. ## Half day 1 :
+2. ## Half-Day 1 :
 
     Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
-  - On the first half day, team leaders of all the groups attended in-person and in our group, Soujanya attended and discussed about the comments  designed and the tasks to be assigned to each one in the team. 
+  - On the first half day, team leaders of all the groups attended in-person and in our group, Soujanya attended and discussed about the comments give by our instructor Dr. Badami.Worked on the tasks assigned to each one in the team. 
   
     Later, I had a meeting with my team members to divide the tasks and to work on the screens.
 
-  - As discussed on Monday, I designed the wireframes for both Web and mobile application UI using Adobe XD. 
+  - As discussed on Monday, I designed the wireframe for user profile in mobile application UI using [mockups.com](https://moqups.com/?utm_source=mockupscom). 
 
-    [Link](https://github.com/annie0sc/gdp_health_app/commit/4e71ab57d59e13f5db47d6c94168183fee93ab8b) for wireframes.
+  - Had a ![meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Meetings/Meeting.PNG) with the Sprint team and discussed what improvements to be made for wireframe.
+
+  - In order to proceed with the further sprint and to get the client approval, we exceeded our working hours on Monday.
 
    
-3. ## Half Day 2 :
+3. ## Half-Day 2 :
 
    Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
