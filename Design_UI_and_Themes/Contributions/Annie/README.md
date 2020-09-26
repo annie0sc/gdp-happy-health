@@ -173,32 +173,8 @@ https://app.moqups.com/k6nkHjQMFS/view/page/a2eb0cd22
 * A zoom meething was conducted by Dr. Badami discussing the commense of Sprint 1.
 * We discussed to recrute more people to the UI team as the work load is heavy. An email was discussed and sent to the leaders of every group.
 
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(8).png?raw=True)
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(11).png?raw=True)
 
-* I had designed the mobile sign-in and sign-up pages for the user and for the admin which lead to the home page specific to the user. 
-* These included the forgot-password page, reset-password page and the code-verification page. 
-* User sign-in page and Admin sign-in page were separated. 
-* I had designed a common home page so as to not confuse the moqups flow of the screens..
+# Over Time:
 
-The link to the moqups mobile version is given below:
-
-https://app.moqups.com/k6nkHjQMFS/view/page/ad64222d5
-
-# Extra Hours (09/15/2020, 09/17/2020)
-
-09/15/2020
-* I had worked overnight on making changes to the welcome page, feature page, sign-in page for user, sign-up page for user, a screen for user home page, a screen for admin home page.
-
-Intitial sketches of the screens were drawn in my notes and are given below:
-
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/initial_sketches/annie1.jpeg?raw=True)
-
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/initial_sketches/annie2.jpeg?raw=True)
-
-09/17/2020
-* I had worked overnight to rectifly the changes that were given as feedback for the first moqups link. 
-* I designed the sign-in page, forgot-password page, code-verification page, reset-password page, sign-up page for the user and sign-up page fpr the admin.
-
-The initial sketches and work for the color schemes was discussed and shown below:
-
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/initial_sketches/annie3.jpeg?raw=True)
+I will be working overtime on sunday, to start coding the UI screens in HTML and other softwares.
