@@ -241,10 +241,18 @@ All the meetings and discussions are updated in this link:
 
 - Created SQL instance in google cloud account and created a new MySql database.
 
+  ![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/database.PNG?raw=true)
 
 
+- Installed MySql workbench and connected workbench with the newly created database in google cloud.
 
+- Created sample data in database using mySql workbench.
 
+- Installed mysql pacakge in node.js application.
+
+- Added database.js file in the node.js app and started writing code to connect with the database created in google cloud.
+
+- Connection to database is in progress and will complete it by next working day.
 
 
 
