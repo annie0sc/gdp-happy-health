@@ -118,5 +118,10 @@
 1. Meeting is conduct with the UI team regrading the admin home page and  for both mobile and web versions.
 2. Clearly explained what client is looking for so that the UI team working on the Admin Home page.We asked them to fix a time frame to submit the final touchings of the mockups    because we need a client approval for the Mockups so that we can start the sprint one as soon as possible.
 
+## E-mailed to the all the team members
+We as sprinting planning team discussed about the sprint zero tasks status few of them not completed their tasks so we as team mailed to the Design Data,Design Architecture and
+Design UI/Theme team members
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/sprintzero%20(2).png?raw=true)
 
 
