@@ -22,7 +22,7 @@ Discusion:
 # Scrum Meeting: 09/14/20
 Scheduled Zoom meeting on 09/14/20 at 9PM  
 Discusion:
-- Prppose name for app
+- Propose name for app
 - Needs to work on client feedback
 - Assigned new tasks in jira as per discussion
 - Testing tools & technologies
@@ -46,3 +46,38 @@ Discussion:
 - O Authentication & authorization
 - Assigned new tasks in jira as per discussion
 - Image Link: https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/Meetings/Scrum%20meeting%20sep14.png
+
+# Team Meeting: 09/21/20
+Scheduled Zoom meeting on 09/21/2020 at 4PM
+Discussion:  
+- Week tasks
+- About Demo Application
+- About where the Application to be deployed.
+- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Architecture%20Meeting%20Sep21.png
+
+# UI Team Meeting: 09/23/2020
+Scheduled Zoom meeting on 09/23/2020 at 6PM
+Discussion:
+- Needs to work on User SignUp and User Login, Admin pages. 
+- Heroku to deploy the pages.
+- Created a User SignUp page.
+- Conducted a meeting with UI team.
+- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png
+
+# Design data Team Meeting: 09/24/2020
+Scheduled Zoom meeting on 09/24/2020 at 4PM
+Discussion:
+- Discussion on cloud databases such as google, oracle clouds.
+- Discussion on My Sql language
+- demo scripts of user sign up page.
+- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Meeting%20with%20Data%20Team%20sep%2024.jpeg
+
+# Scrum Team meeting:09/25/2020
+Scheduled meeting with Sprint Team at 9pm
+Discussion:
+- Backlog tasks.
+- future tasks.
+- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprinteam%20meeting%20sep25.PNG
+
+
+
