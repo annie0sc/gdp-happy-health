@@ -71,3 +71,34 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I also started working on tasks assigned to me by sprint team and will also work on updating data as soon as we get any updates from Design UI and Themes team.
 
 - Here is the [link](http://cs04.nwmissouri.edu/browse/FIT-79?filter=-4&jql=assignee%20in%20(currentUser())%20order%20by%20created%20DESC) to my jira work.
+
+
+Naga Anshitha Velagapudi
+## Module 3: Individual 1
+## 1. Attendance(200 Points)
+We have classes on every alternate day, I have attended only for few classes and the schedule is below.
+| Class Dates | Attended | 
+|----------|-------------|
+| 09/21/2020 | Online(Worked on tasks) |
+| 09/23/2020 | Online(Zoom) |
+| 09/25/2020 | Online(Zoom) |
+
+## 1. Half day-1(300 Points)
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- I worked online on this day and had a meeting with my team members and with scrum masters as sprint 0 is not completed succesfully and talked about the work we have to complete.
+- As it is sub leaders meeting, i didn't attended class in-person.
+- Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/zoom-09-21.JPG) to discuss about the tasks we are going to do this week.
+- I started checking the work which i had done previously to check every thing is going good. This is jira [link](http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=5&projectKey=FIT&view=planning.nodetail&selectedIssue=FIT-112&quickFilter=9&issueLimit=100) for my tasks.
+
+## 2.  Half day-2(300 Points)
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- On this day i attended zoom session conducted by Dr. Badami and discussed about client feedback about screens and also about sprint-1.
+- Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/zoom-09-23.JPG)
+- Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/Meeting%20with%20Architecture%20team%209-24.png) with Architechture team.
+
+## 3. Half day-3(300 Points)
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- I attended zoom session conducted by Dr. Badami to discuss about Sprint-1 planning.
+- I started working on sprint-1 tasks assigned to me by sprint team.
+- Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/zoom-09-25.JPG) and talked about collecting sample data and use case diagrams for modified ER diagram and I started working on those.
