@@ -63,7 +63,7 @@ Discussion:
 - Conducted a meeting with UI team.
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png
 
-# Data Team Meeting: 09/25/2020
+# Sprint Team Meeting: 09/25/2020
 Scheduled Zoom meeting on 09/25/2020 at 4PM
 Discussion:
 - Needs to work on Database for Application.
