@@ -155,6 +155,92 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
 - Worked on the issues in Jira and resolved them in this Sprint. Planned few tasks for the next Sprint which is to be continued from Monday.
 
+# Module-3
+
+# Individual-1 
+
+1. ## Attendance :
+   The days I attended GDP - 1 classses in this week are :
+    
+<table style="width:70%;border: 1px solid black;">
+<tr>
+<th>Class Attended</th>	
+<th>Mode </th> 
+<th>Number of hours</th>
+<th>In class discussions </th>
+</tr>
+<tr>
+<td>09/21/2020</td>
+<td> Online </td> 
+<td> 4 hours </td>
+<td>Team leader attended in-person</td>
+</tr>
+<tr>
+<td>09/23/2020</td>
+<td> Online </td>
+<td> 4 hours </td>  
+<td>Attended class</td> 
+</tr>
+<tr>
+<td>09/25/2020</td>
+<td> Online </td>
+<td> 4 hours </td>
+<td>Discussed about Jira tasks</td>
+</tr>
+</table>
+
+2. ## Half day 1 :
+
+    Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+
+  - On the first half day, team leaders of all the groups attended in-person and in our group, Soujanya attended and discussed about the comments  designed and the tasks to be assigned to each one in the team. 
+  
+    Later, I had a meeting with my team members to divide the tasks and to work on the screens.
+
+  - As discussed on Monday, I designed the wireframes for both Web and mobile application UI using Adobe XD. 
+
+    [Link](https://github.com/annie0sc/gdp_health_app/commit/4e71ab57d59e13f5db47d6c94168183fee93ab8b) for wireframes.
+
+   
+3. ## Half Day 2 :
+
+   Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+
+- Attended in-person class and presented the wireframes designed by me to Dr. Badami. 
+
+- I had attended a meeting with the Sprint team and the Design Architecture team to discuss about the requirements for the home page and noted what were discussed in the call.
+
+- Had a call with my team members and discussed about the review given by Dr. Badami in class and what fields to be modified or added to the wireframes.
+
+- Every member in our team created [moqups.com](https://moqups.com/) account and I invited all of them to my project, so that they can edit wherever the changes are necessary.
+
+- As said by our instructor, changed the name of iOS UI wireframe to [Mobile UI](https://github.com/annie0sc/gdp_health_app/commit/b3dceb8c94c7c1ea6a87fb1629bdd8f45be3104e)
+
+- Also worked on the issues created in Jira.
+
+- I've taken user profile and features screens to design wireframe.
+
+  [Screens](https://prnt.sc/uiync3)
+
+
+
+
+4. ## Half Day 3
+
+   Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
+
+
+- This(Friday) morning attended a zoom meeting scheduled by Dr. Badami and our team lead spoke on how the tasks are shared among us and how we decided to work further. 
+
+- After listening to the feedback given by our instructor we assigned few tasks to bring out the best wireframes for both Web and Mobile.
+
+- Scheduled a meeting and discussed about the roles and tasks to be done by the day.
+
+- Designed a wireframe for user profile and submitted the link to our instructor and our instructor will forward that to the client. 
+
+
+- Worked on the issues in Jira and resolved them in this Sprint. Planned few tasks for the next Sprint which is to be continued from Monday.
+
 
 
 
