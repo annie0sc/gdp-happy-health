@@ -38,9 +38,10 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - If we done with acceptable UI mockup that need to send to the client for intial approval, on monday 9/21/2020 our sprint 1 is get started, but due to delay in that work sprint 1 is also get delayed 
 - As, per the instructor announcement ,I reviwed all  of my sprint 0 tasks that was assigned to me by sprint groups and I done with all tasks of sprint 0
 - Screenshot for jira Sprint 0 tasks
+https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(4).png
 
 - Not only that , I also worked on refining the intitialization scripts and worked out on other bugs with sample data
-- zoom with our team members: 
+- zoom with our team members: https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/zoom-09-21.JPG
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
@@ -50,7 +51,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
  -Attended zoom session hosted by Dr.Badami, and  discused about cilent feedback and also Sprint1 
  - We co ordinated with the Architecture people and we made some changes on our ER diagram and updated the new one before they got for approaval 
  - Zoom with Architecture Group :
-https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/9.24.png
+https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/Meeting%20with%20Architecture%20team%209-24.png
  - Final ER diagram:
  https://github.com/annie0sc/gdp-happy-health/tree/master/Design%20Data/Updated
  - Fianlly all our team members had a zoom session for better understanding of what we are doing:
@@ -63,8 +64,8 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - I have attended class via zoom and discused the status of Sprint1 
 - For sprint 1 I have been assigned with tasks and I have started working on it 
 - jira for sprint 1 screenshot:
-
+https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(6).png
 
 -Zoom with my team members: https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/zoom-09-25.JPG
 All commits:
--https://github.com/annie0sc/gdp-happy-health/commits?author=swaroopatirumalareddy
+-https://github.com/annie0sc/gdp-happy-health/commits?author=bharathkumar3355
