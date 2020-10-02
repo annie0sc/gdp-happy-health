@@ -11,7 +11,7 @@ Worth 200 points- I have submitted assignment on time and I have submitted all t
 
 | Date of Class attended | Mode of Class |
 |------------------------|---------------|
-| 09/28/2020 | only class for subleaders | 
+| 09/28/2020 | zoom | 
 | 09/30/2020 | zoom |
 | 10/02/2020 | zoom | 
 
@@ -29,13 +29,23 @@ jira tasks completion screenshot
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 ## Half Day 2:
+- On Wednesday, I have attended class via zoom in which we discused how we need to complete all the tasks by the end of the thursady evening so that we can give demo to our clinet on friday morning
+- We also got feedback from our instructor, in which he mentioned about that our demo on instructor phoen shows that it does not look right on mobile first
+- As keeping all this in mind iam starting working on jira tasks 
+- commit links 
+- https://github.com/annie0sc/gdp-happy-health/commit/b0ba591d45ea040db8f38c876551f6e3ef6036e5
+- https://github.com/annie0sc/gdp-happy-health/commit/7f40b13d87290206d261b83da212064f545fe574
+- I have attended zoom session with sprint group members in which we cleared some doubts about jira tasks
+- screen shot
+-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/meeting%20with%20sprint%20group%20members%2030th%20sept%20.png)
+- I have attended zoom session with all group members about prototype presentation
+screen shot
+- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/prototype%20meeting.png)
+
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
-
- 
-
-
-
 ## Half Day 3:
-
-
-
+- On friday I have attended class via zoom as I said early that we need give our demo to client on friday but as we not functioned properly It was postponed to monday
+- In class few of our group members showed how we are conecting database to our instructor
+- I started working jira tasks creating sample data for reset password enitiy and verfication code for the users and I also given the ideal sleep hours 
+-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/ideal%20sleep%20hours%20fit%2081.png)
+commit links
