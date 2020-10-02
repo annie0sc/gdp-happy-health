@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS Sample_data_for_entities (
+CREATE TABLE IF NOT EXISTS ACTIVITY(
     `ActivityId` INT,
     `Activity_Name` VARCHAR(14) CHARACTER SET utf8,
     `Designer` VARCHAR(11) CHARACTER SET utf8,

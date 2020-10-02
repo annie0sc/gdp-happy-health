@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS Sample_data_for_entities (
+CREATE TABLE IF NOT EXISTS RESET_PASSWORD(
     `Email` VARCHAR(24) CHARACTER SET utf8,
     `Verification_Code` INT,
     `Reset` VARCHAR(3) CHARACTER SET utf8,
