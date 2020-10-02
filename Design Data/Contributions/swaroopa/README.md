@@ -48,4 +48,8 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - In class few of our group members showed how we are conecting database to our instructor
 - I started working jira tasks creating sample data for reset password enitiy and verfication code for the users and I also given the ideal sleep hours 
 -![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/ideal%20sleep%20hours%20fit%2081.png)
+![iamge](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/providing%20emial%20fit%20213%20%20%20(2).png)
 commit links
+https://github.com/annie0sc/gdp-happy-health/commit/b50a04570aa1edb5fae8a7c2646ca7ca441a7d67
+All commit links
+https://github.com/annie0sc/gdp-happy-health/commits?author=swaroopatirumalareddy
