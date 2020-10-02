@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS Sample_data_for_entities (
+CREATE TABLE IF NOT EXISTS GROUP_MEMBER(
     `Name` VARCHAR(11) CHARACTER SET utf8,
     `Date_Invited` DATETIME,
     `Date_Accepted_Invite` DATETIME,

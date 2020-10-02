@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS Sample_data_for_entities (
+CREATE TABLE IF NOT EXISTS PROFILE(
     `Name` VARCHAR(11) CHARACTER SET utf8,
     `Gender` VARCHAR(6) CHARACTER SET utf8,
     `Phone` INT,
