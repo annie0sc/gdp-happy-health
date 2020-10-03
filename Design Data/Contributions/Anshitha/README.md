@@ -120,7 +120,7 @@ Time allotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I attended class online and after that I started working on jira tasks assigned to me sprint team.
 - I started creating usecase diagrams for [activity](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Updated/UseCases/Activity%20Usecase.PNG) entity and [challenge](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Updated/UseCases/Activity%20Usecase.PNG) entity.
 - Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/Zoom%20meeting%209-28.PNG) to discuss about the tasks we are going to do this week.
-- I started checking the work which i had done previously to check every thing is going good. This is jira [link](http://cs04.nwmissouri.edu/browse/FIT-175?filter=-4&jql=assignee%20in%20(currentUser())%20order%20by%20created%20DESC) for my tasks and updated some tasks as in progress and some tasks done.
+- I started checking the work which i had done previously to check every thing is going good. This is [Jira link](http://cs04.nwmissouri.edu/browse/FIT-246?filter=-4&jql=assignee%20in%20(currentUser())%20order%20by%20created%20DESC) for my tasks and updated some tasks as in progress and some tasks done.
 
 ## 2.  Half day-2(300 Points)
 
@@ -129,11 +129,12 @@ Time allotted : 4hrs = 1hr in class + 3hrs out of the class.
 - We got some reviews from client about mobile-look page.
 - Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/meeting%20with%20sprint%20group%20members%2030th%20sept%20.png) with sprint team and discussed about creating tasks for our work and gave updated about work.
 - Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/Zoom%20meeting%209-30.PNG)
-- Here is the filtered list of [Jira tasks](http://cs04.nwmissouri.edu/browse/FIT-175?filter=-4&jql=assignee%20in%20(currentUser())%20order%20by%20created%20DESC) where some tasks are newly created by sprint team and i marked some tasks ad in progress and some as done. 
+- Here is the filtered list of [Jira tasks](http://cs04.nwmissouri.edu/browse/FIT-246?filter=-4&jql=assignee%20in%20(currentUser())%20order%20by%20created%20DESC) where some tasks are newly created by sprint team and i marked some tasks ad in progress and some as done. 
 
 ## 3. Half day-3(300 Points)
 Time allotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I attended zoom session conducted by Dr. Badami to discussd about progress of project and postponing demo presentation to the client.
 - I worked on usecase diagrams of [Group](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Updated/UseCases/Group%20Use%20case.PNG) entity and [Home](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Updated/UseCases/Home%20Usecase.PNG) entity and worked on tasks assigned to me by sprint team.
 - Our team had a [zoom meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/oct%202nd%20zoom.jpeg) and discussed about helping other teams in order to speed up the work and complete in time.
+- Here is the [link](http://cs04.nwmissouri.edu/browse/FIT-246?filter=-1) of filtered Jira tasks
 
