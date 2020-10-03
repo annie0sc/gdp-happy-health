@@ -40,7 +40,9 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 # Attendance:
 
 09-28-2020 – zoom session
+
 09-30-2020 – zoom session
+
 10-02-2020 – zoom session
 
 # Half day 1:
@@ -50,7 +52,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - On the first half day, I have joined zoom session hosted by Dr.Badami. 
 - Our Design Architecture team gave the work status of our team to professor and we got instructions from our professor.
 - I have joined zoom meeting with our design architecture team and discussed about which database to be used for the application.
-![zoom](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/desarchi928.)
+![zoom](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/desarchi928.PNG)
 - I have started working on database connection to the google cloud with my team members. 
 - As we have faced some issues in connectivity, we started working on the issues.
 - We have also started working on userlogin page.
