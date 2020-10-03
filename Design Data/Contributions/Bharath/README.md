@@ -41,14 +41,27 @@ https://github.com/annie0sc/gdp-happy-health/commit/4753218a83d5293dd5584fd6ed4e
 https://github.com/annie0sc/gdp-happy-health/commit/27e3910a5ce7759c0df522aaf0db19681e9006e2#diff-c60e7bc3d27be7ad605fd2e2b82c1795
 - jira task screenshot- 
 ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(7).png)
-
+Zoom with data group members: 
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/Zoom%20meeting%209-28.PNG)
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 ## Half Day 2:
+- On 9/30/2020 , I have attended zoom session hosted by our instructor in which we  talked about demo sesssion that we are going to give on firday to our cilent and we also talked about individual status of each group 
+- On the other hand I have contiuned my work on jira issues that were assigned to me by sprint group members
+- On wednesday we had zoom session with sprint group members, in which we talked about some of modifications in ER diagram that we need to update
+Screenshot:
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/meeting%20with%20sprint%20group%20members%2030th%20sept%20.png)
+- We also haded zoom session with all sprint group members and team leads of other groups for prototype presentation
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/prototype%20meeting.png)
+- We also conducted a zoom meeting with data group members in which we talked about every ones work
+Screenshot:
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/Zoom%20meeting%209-30.PNG)
+
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
-
- 
-
-
-
 ## Half Day 3:
+- On 10/2/2020, I have attended class via zoom,in which one of our group member shared how we connecting database and he also expalined different codes for user screen admin screen 
+- I have completed  some of jira tasks that was assigned to me by spirnt group members 
+Screenshot for jira issues task completion
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(9).png)
+Zoom with data group members
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/oct%202nd%20zoom.jpeg)
