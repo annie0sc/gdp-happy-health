@@ -132,6 +132,51 @@ The initial sketches and work for the color schemes was discussed and shown belo
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/initial_sketches/annie3.jpeg?raw=True)
 
+# Module 3 Individual Contribution 2
+
+# Attendance
+
+* **09/28/2020** - I had attended zoom meeting on September 21st, 2020.
+* **09/30/2020** - I had attended zoom meeting on  September 23rd, 2020.
+* **10/2/2020** - I had attended zoom meeting on September 25th, 2020.
+
+**We were communicating via emails and conference calls throughout the week.**
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Discussed About | Software Used  |
+|---|---|---|---|
+| 09/28/2020  |  20 minutes |   Discussed about the implementation of the UI screens approved. |  Conference Call |
+| 10/01/2020  |  20 minutes | Discussed in detail about upcoming tasks with the Sprint and Architecture team.  |  Zoom |
+
+
+**IMPORTANT: Multiple conference calles were made over the week within our group as we were collaborating with each other.**
+
+# Half-Day 1 (09/28/2020)
+
+
+* I had taken a break as I worked overtime last 2 weeks.
+
+
+# Half-Day - 2 (09/30/2020)
+
+* I had joined a zoom meeting regarding the coordination amongst the Architecture team and UI team which was conducted by the Sprint team.
+* We had discussed about the HTML pages of the other UI screens which were supposed to be linked with the backend and the database.
+
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(3).png?raw=True)
+
+# Half-Day - 3 (10/02/2020)
+
+* After a long discussion, I had stepped up to becoming the UI team lead.
+* We coordinated and implemented 2 more screens which have been forwarded to the Architecture team.
+* I had a meeting with the Architecture team lead to discuss the work flow for tomorrow, Saturday(10/02/2020).
+* We have come to a conclusion to deply the rest of the screens tomorrow and make the video presentation tomorrow.
+
+
+# Over Time:
+
+I will be working overtime on Saturday(10/02/2020), to start coding the UI screens in HTML and other softwares.
+
 # Module 3 Individual Contribution 1
 
 # Attendance
