@@ -25,6 +25,7 @@
 <td> 4 hours</td>
 </tr>
 </table>
+
 ## Half Day 1:
 
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
