@@ -124,4 +124,18 @@ Design UI/Theme team members
 
 ![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/sprintzero%20(2).png?raw=true)
 
+## Meeting With All The Team Leaders
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Sprint%20Planning%20and%20UserStories/client%20development%20presentattion.png?raw=true)
+### Minutes of Meeting(MOM)
+We as a sprint planning team conducted zoom meeting with the all the team leaders regarding the project status before going for client presention.
+
+The following questions are raised in the meeting.
+1. Can we able complete basic app navigation work for client presentation?
+- Ans: The design architecture team is facing some issues with the heroku so they come up with google cloud application platform instead of heroku platform.So they are not able to complete their work with in the time.
+2. We Also asked UI Team current status of their work and the Mockups status for the next sprint?
+- Ans: They are working on the development of app pages such as login page, signup page, admin page and they are working on the mockups for user and admin dashboards. 
+
+
+
+
 
