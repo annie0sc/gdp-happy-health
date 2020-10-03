@@ -1,0 +1,30 @@
+CREATE TABLE IF NOT EXISTS USER(
+    `UserName` VARCHAR(11) CHARACTER SET utf8,
+    `Password` VARCHAR(14) CHARACTER SET utf8,
+    `Forgot_Password` VARCHAR(3) CHARACTER SET utf8,
+    `Social_Profiles` VARCHAR(3) CHARACTER SET utf8,
+    `Admin` VARCHAR(3) CHARACTER SET utf8,
+    `Signup` VARCHAR(3) CHARACTER SET utf8,
+    `Email` VARCHAR(24) CHARACTER SET utf8
+);
+INSERT INTO USER VALUES
+    ('James','JamesBond','No','Yes','No','No','james234@gmail.com'),
+    ('John','John234','No','Yes','No','No','John234@gmail.com'),
+    ('Robert','Robert123','No','Yes','No','No','Robert123@gmail.com'),
+    ('Michael','Micky','No','Yes','No','No','Micky@gmail.com'),
+    ('William','William123','No','Yes','Yes','No','William123@gmail.com'),
+    ('David','Davidbhai','Yes','Yes','No','Yes','Davidbhai@gmail.com'),
+    ('Richard','Richard456','No','Yes','No','Yes','Richard456@gmail.com'),
+    ('Joseph','Joseph123','Yes','Yes','No','No','Joseph123@gmail.com'),
+    ('Thomas','Thomasedison','No','Yes','No','No','Thomasedison@gmail.com'),
+    ('Charles','Charleshoot','No','Yes','No','No','Charleshoot@gmail.com'),
+    ('Christopher','Christopher','No','Yes','Yes','No','Christopher@gmail.com'),
+    ('Daniel','Danieldany','No','Yes','No','Yes','Danieldany@gmail.com'),
+    ('Matthew','Matthewwhite','Yes','Yes','No','Yes','Matthewwhite@gmail.com'),
+    ('Anthony','Anthony124','No','Yes','No','Yes','Anthony124@gmail.com'),
+    ('Donald','Donaldtrump','No','Yes','No','No','Donaldtrump@gmail.com'),
+    ('Mark','Markzuckerberg','No','Yes','No','No','Markzuckerberg@gmail.com'),
+    ('Paul','Paulmansion','No','Yes','No','No','Paulmansion@gmail.com'),
+    ('Steven','Stevenjobbs','Yes','Yes','No','No','Stevenjobbs@gmail.com'),
+    ('Andrew','Andrewcounty','Yes','Yes','No','No','Andrewcounty@gmail.com'),
+    ('Kenneth','Kenneth641','No','Yes','No','No','Kenneth641@gmail.com');
