@@ -79,5 +79,23 @@ Discussion:
 - future tasks.
 - Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprinteam%20meeting%20sep25.PNG
 
+# Team meeting:09/28/2020
+Scheduled meeting on 09/28/2020 at 4PM
+Discussion:
+- Week tasks
+- About LoginPage Connection to Database 
+- Database connection to be created in Google cloud MySQL server using JSON
+- Image Link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/TeamMeeting%20sep%2028th.jpeg
 
+# Team meeting: 09/30/2020
+Scheduled meeting on 09/30/2020 at 4PM
+Discussion:
+- About Feedback given by Dr.Badami related to application on phone
+- Issues tasks
+- Image Link:https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Team%20meeting%20September30.PNG
 
+# UI,Data and Sprint Team Meeting: 10/02/2020
+Scheduled meeting on 10/02/2020
+Discussion:
+- About the Applications(User SignUp,Admin Login,Home Page,Passowrd reset pages) to be completed by UI team and Design Architecture Team.
+- Tools to be used for testing API data.
