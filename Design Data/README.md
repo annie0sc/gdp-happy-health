@@ -9,4 +9,4 @@ Design data complies with the app requirements to facilitate secure data transac
 - Naga Anshitha Velagapudi (junior  middleware engineer)
 
 ## ER diagram:  
-![image](https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/ERdiagrams/ERD-Healthify.png)
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Updated/ER%20diagram/HAPPY_HEALTH_ERD.png)

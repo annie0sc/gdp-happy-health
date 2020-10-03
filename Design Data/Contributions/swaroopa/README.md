@@ -1,50 +1,55 @@
 # Design Data 
 ## Swaroopa Tirumalareddy
-## Module 2: Individual 2
+## Module 3: Individual 2
 ## Attendance (list the class periods you attended):
 Worth 200 points- I have submitted assignment on time and I have submitted all the visible links in my submission 
-- As a inperson I have attended to class on 09/14/2020 
-- on 9/16/2020 I have followed the instructions of professor and worked on my own
-- on 9/18/2020 I have attended zoom session
+- As a inperson I have not attended to any class in this week 
+- on 9/28/2020 I have attended zoom session
+- on 9/30/2020 I have attended zoom session
+- on 10/02/2020 I have attended zoom session
 
-| Date of Class attended | Mode of Class | Discussion |
-|------------------------|---------------|------------|
-| 09/014/2020 | inperson | Discussed sprint0  |
-| 09/16/2020 | worked on tasks | discussed module2  |
-| 09/18/2020 | zoom | Discussed jira tasks  |
+
+| Date of Class attended | Mode of Class |
+|------------------------|---------------|
+| 09/28/2020 | zoom | 
+| 09/30/2020 | zoom |
+| 10/02/2020 | zoom | 
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 ### Half Day 1:
-- Attedned inperson class with Dr Badami and discussed about our work plan and tasks that we need to complete. We also disscused about ER diagrams on which we worked. We also talked about SQL queries. I made some notes based on the discussion 
-- Continued working on the issue, as a part of this I am going to mention the type of vegetables and calories of it. So that it is easy to monitor the calories consumed
-- provided all the information on excel sheet 
-- http://cs04.nwmissouri.edu/browse/FIT-42
-- https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/Sample%20Data%20for%20Vegetable%20Serving.xlsx
--  We had a zoom session with Sprint gruop about jira tasks
-- https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Discussion%20with%20Sprint%20team.JPG
+- On Monday, I have joined zoom session hosted by our instructor in which we discussed about current status evry group ,As we are data people ,Dr Badami asked us to contact with UI team and share work among us 
+- As a part of jira tasks, I have been assigned with some tasks and I started working on those, As a part of it I have completed updating readme file with new updated ER diagram ,which will be easy to access by other groups
+- commit links
+- https://github.com/annie0sc/gdp-happy-health/commit/ec47302ceeb7d84f917ea1f9a75f749cc372d4e5#diff-c60e7bc3d27be7ad605fd2e2b82c1795
+-https://github.com/annie0sc/gdp-happy-health/commit/92dbe1855f695b5083e645d205db62d0860c9605#diff-c60e7bc3d27be7ad605fd2e2b82c1795
+jira tasks completion screenshot
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(49).png)
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 ## Half Day 2:
+- On Wednesday, I have attended class via zoom in which we discused how we need to complete all the tasks by the end of the thursady evening so that we can give demo to our clinet on friday morning
+- We also got feedback from our instructor, in which he mentioned about that our demo on instructor phoen shows that it does not look right on mobile first
+- As keeping all this in mind iam starting working on jira tasks 
+- commit links 
+- https://github.com/annie0sc/gdp-happy-health/commit/b0ba591d45ea040db8f38c876551f6e3ef6036e5
+- https://github.com/annie0sc/gdp-happy-health/commit/7f40b13d87290206d261b83da212064f545fe574
+- I have attended zoom session with sprint group members in which we cleared some doubts about jira tasks
+- screen shot
+-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/meeting%20with%20sprint%20group%20members%2030th%20sept%20.png)
+- I have attended zoom session with all group members about prototype presentation
+screen shot
+- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/prototype%20meeting.png)
+
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
-
- - Started working on the new tasks assigned by sprint group members on jira, As a part of it I have been completed challenge sample data and I have updated sample data excel file in the repo
- - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Sample%20Data/Excel%20Files/challenge.xlsx
- - I had attended a Zoom meeting for 40 minutes scheduled by one of our Design Data teams and discussed about usecase diagrams and tasks we need to complete within time 
- - https://github.com/annie0sc/gdp_health_app/commit/b71bb84e7ed7db9c6ea2447e63e14f57483e7c32#diff-c60e7bc3d27be7ad605fd2e2b82c1795
- - https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/zoom-16.PNG
-
-All Team Leads Meeting: For clear understanding what going in the project I have been participated in zoom meeting hosted by sprint group members
-- https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/15th%20sept%20zoom%20with%20sprint%20group.png
-
-
 ## Half Day 3:
-Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
-- On Friday I have attended zoom session hosted by Dr. Badami, In which each  team lead gave the status report on thier work, our team also gave the status report, how the script work is going on with the initial SQL, and I also came to know about the status  of all the other teams through this zoom meeting.  
-- As a part of APP name suggestion we shared our idea with sprint group team members
-- https://github.com/annie0sc/gdp_health_app/blob/master/Design%20Data/Meetings/Screenshot%20(1).png
-- And I am started working on new tasks assigned by sprint group members, As a part of it I am started working on use case diagrams 
-
-
-
+- On friday I have attended class via zoom as I said early that we need give our demo to client on friday but as we not functioned properly It was postponed to monday
+- In class few of our group members showed how we are conecting database to our instructor
+- I started working jira tasks creating sample data for reset password enitiy and verfication code for the users and I also given the ideal sleep hours 
+-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/ideal%20sleep%20hours%20fit%2081.png)
+![iamge](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/providing%20emial%20fit%20213%20%20%20(2).png)
+commit links
+https://github.com/annie0sc/gdp-happy-health/commit/b50a04570aa1edb5fae8a7c2646ca7ca441a7d67
+All commit links
+https://github.com/annie0sc/gdp-happy-health/commits?author=swaroopatirumalareddy
