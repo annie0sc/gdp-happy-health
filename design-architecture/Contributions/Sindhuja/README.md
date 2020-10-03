@@ -255,9 +255,67 @@ All the meetings and discussions are updated in this link:
 - Connection to database is in progress and will complete it by next working day.
 
 
+# Module 3 - Individual 2
+
+## Attendance
+
+09/28/2020 - Attended zoom meeting
+
+09/30/2020 - Attended zoom meeting
+
+10/02/2020 - Attended zoom meeting
 
 
-  
+## Meetings
+
+All the meetings and discussions are updated in this link:
+
+ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md
+
+ ## Half Day Work (09/28/2020) - 4 hours
+
+ - On first half day after attending zoom hosted by Dr. Badami, we had a zoom meeting among our team to discuss tasks to be done this week.
+
+   https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/TeamMeeting%20sep%2028th.jpeg
+
+Minutes of meeting :
+
+Deploying login page on google cloud
+
+Connecting app to database.
+
+- As per the discussion, i have worked with one of my team members to host user login page created by UI team.
+
+- I have worked on creating views folder and routes in node.js app. 
+
+- While trying to start node.js app we got an error, i fixed the issue and started the app successfully.
+
+- In the last week i have created mySql database in google cloud, which i have started working on connection this week.
+
+## Half Day Work (09/30/2020) - 4 hours
+
+- On second day, I have attended zoom meeting hosted by Dr. Badami.
+
+- We had a zoom meeting with our team to discuss on the issues faced while connecting to database.
+
+  https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Team%20meeting%20September30.PNG
+
+Minutes of meeting :
+
+   Hosting app on google cloud instead of heroku.
+
+   Issues faced while hosting on google cloud.
+
+- After reviewing the issues we faced while connecting to database, we realized that app should be on the same platform where the database is present.
+
+- Then we started hosting app on google cloud.
+
+
+
+
+
+
+
 
 
 
