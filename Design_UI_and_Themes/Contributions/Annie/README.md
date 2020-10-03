@@ -163,7 +163,7 @@ The initial sketches and work for the color schemes was discussed and shown belo
 * I had joined a zoom meeting regarding the coordination amongst the Architecture team and UI team which was conducted by the Sprint team.
 * We had discussed about the HTML pages of the other UI screens which were supposed to be linked with the backend and the database.
 
-![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(3).png?raw=True)
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(12).png?raw=True)
 
 # Half-Day - 3 (10/02/2020)
 
