@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS HOME(
     `Calorie_Intake` INT,
     `Challenge_Id` INT
 );
-INSERT INTO Sample_data_for_entities VALUES
+INSERT INTO HOME VALUES
     ('James',10467,64,6,231,101),
     ('John',16378,84,7,329,102),
     ('Robert',16733,57,8,436,103),

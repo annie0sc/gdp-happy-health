@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS GROUP(
     `Created_Date` DATETIME,
     `Last_edited` VARCHAR(8) CHARACTER SET utf8
 );
-INSERT INTO Sample_data_for_entities VALUES
+INSERT INTO GROUP VALUES
     ('Avengers','William','2020-09-10 00:00:00','18:16:02'),
     ('Champions','William','2020-09-11 00:00:00','15:12:23'),
     ('Crew','William','2020-09-12 00:00:00','16:17:45'),

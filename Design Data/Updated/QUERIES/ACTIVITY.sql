@@ -1,11 +1,11 @@
-CREATE TABLE IF NOT EXISTS ACTIVITY(
+CREATE TABLE IF NOT EXISTS (
     `ActivityId` INT,
     `Activity_Name` VARCHAR(14) CHARACTER SET utf8,
     `Designer` VARCHAR(11) CHARACTER SET utf8,
     `Created_Date` DATETIME,
     `Last_Edited` VARCHAR(8) CHARACTER SET utf8
 );
-INSERT INTO Sample_data_for_entities VALUES
+INSERT INTO ACTIVITY VALUES
     (1091,'Climbing','William','2020-09-20 00:00:00','12:10:10'),
     (1091,'Swimming','William','2020-09-21 00:00:00','10:10:10'),
     (1092,'Hiking','Christopher','2020-09-22 00:00:00','11:11:11'),

@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS CHALLENGE(
     `Created_Date` DATETIME,
     `Last_Edited` VARCHAR(11) CHARACTER SET utf8
 );
-INSERT INTO Sample_data_for_entities VALUES
+INSERT INTO CHALLENGE VALUES
     ('Steps','William','2020-09-21 00:00:00','13:11:10 PM'),
     ('Calorie','William','2020-09-20 00:00:00','11:56:10'),
     ('Weight','Christopher','2020-09-21 00:00:00','10:11:11'),

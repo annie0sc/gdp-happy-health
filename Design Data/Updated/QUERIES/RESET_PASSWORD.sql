@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS RESET_PASSWORD(
     `Reset` VARCHAR(3) CHARACTER SET utf8,
     `New_Password` VARCHAR(14) CHARACTER SET utf8
 );
-INSERT INTO Sample_data_for_entities VALUES
+INSERT INTO RESET_PASSWORD VALUES
     ('james234@gmail.com',121,'No',NULL),
     ('John234@gmail.com',123,'Yes','Johnny234'),
     ('Robert123@gmail.com',125,'No',NULL),

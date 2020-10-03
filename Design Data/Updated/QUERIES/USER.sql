@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS USER(
     `Medical_Condition` VARCHAR(8) CHARACTER SET utf8,
     `Country` VARCHAR(10) CHARACTER SET utf8
 );
-INSERT INTO Sample_data_for_entities VALUES
+INSERT INTO USER VALUES
     ('Andrew','Male',3563378381,110,5.1,1089,'good','Iceland'),
     ('Anthony','Male',2627838934,136,5.9,1083,'Best','Ethiopia'),
     ('Charles','Male',1324627856,162,5.1,1099,'Worst','Bangladesh'),
