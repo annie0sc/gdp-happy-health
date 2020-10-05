@@ -59,7 +59,7 @@ https://github.com/annie0sc/gdp_health_app/tree/master/Design_UI_and_Themes (Lin
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Meetings/Capture.PNG?raw=true)
 
- # Module 2 Individual Contribution 2
+# Module 2 Individual Contribution 2
 
 # Attendance
 
@@ -131,3 +131,95 @@ Intitial sketches of the screens were drawn in my notes and are given below:
 The initial sketches and work for the color schemes was discussed and shown below:
 
 ![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/initial_sketches/annie3.jpeg?raw=True)
+
+# Module 3 Individual Contribution 2
+
+# Attendance
+
+* **09/28/2020** - I had attended zoom meeting on September 21st, 2020.
+* **09/30/2020** - I had attended zoom meeting on  September 23rd, 2020.
+* **10/2/2020** - I had attended zoom meeting on September 25th, 2020.
+
+**We were communicating via emails and conference calls throughout the week.**
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Discussed About | Software Used  |
+|---|---|---|---|
+| 09/28/2020  |  20 minutes |   Discussed about the implementation of the UI screens approved. |  Conference Call |
+| 10/01/2020  |  20 minutes | Discussed in detail about upcoming tasks with the Sprint and Architecture team.  |  Zoom |
+
+
+**IMPORTANT: Multiple conference calles were made over the week within our group as we were collaborating with each other.**
+
+# Half-Day 1 (09/28/2020)
+
+
+* I had taken a break as I worked overtime last 2 weeks.
+
+
+# Half-Day - 2 (09/30/2020)
+
+* I had joined a zoom meeting regarding the coordination amongst the Architecture team and UI team which was conducted by the Sprint team.
+* We had discussed about the HTML pages of the other UI screens which were supposed to be linked with the backend and the database.
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(12).png?raw=True)
+
+# Half-Day - 3 (10/02/2020)
+
+* After a long discussion, I had stepped up to becoming the UI team lead.
+* We coordinated and implemented 2 more screens which have been forwarded to the Architecture team.
+* I had a meeting with the Architecture team lead to discuss the work flow for tomorrow, Saturday(10/02/2020).
+* We have come to a conclusion to deply the rest of the screens tomorrow and make the video presentation tomorrow.
+
+
+# Over Time:
+
+I will be working overtime on Saturday(10/02/2020), to start coding the UI screens in HTML and other softwares.
+
+# Module 3 Individual Contribution 1
+
+# Attendance
+
+* **09/21/2020** -My groupmates and I went to the class for an in-person meeting September 21st, 2020.
+* **09/23/2020** - My groupmates had joined on September 23rd, 2020 for discussing the client review that we had recived.
+* **09/25/2020** - I had joined the zoom meeting with the guide on September 25th, 2020.
+
+**We were communicating via emails and conference calls throughout the week.**
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Discussed About | Software Used  |
+|---|---|---|---|
+| 09/21/2020  |  20 minutes | Discussed in detail about upcoming tasks with the Sprint team.  |  Zoom |
+| 09/23/2020  |  20 minutes |   Discussed the changes we need to make as per the feedback given by the client. |  Conference Call |
+
+**IMPORTANT: Multiple conference calles were made over the week within our group as we were collaborating with each other.**
+
+# Half-Day 1 (09/21/2020)
+
+
+* I was invited to attend a zoom mmeting with the sprint team to discuss about assigning the tasks and issues to our team.
+* I had made further changes to the UI mobile screens that we were supposed to submit to the client.
+
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(3).png?raw=True)
+
+# Half-Day - 2 (09/23/2020)
+
+* My teammates had attended the zoom meeting and were briefed about the major changes to be made to the wireframes of the UI design given by the client.
+* We had later discussed about the changes to be done to the Moqups as specified by the client.
+
+The link to the moqups mobile version is given below:
+
+https://app.moqups.com/k6nkHjQMFS/view/page/a2eb0cd22
+
+# Half-Day - 3 (09/25/2020)
+
+* A zoom meething was conducted by Dr. Badami discussing the commense of Sprint 1.
+* We discussed to recrute more people to the UI team as the work load is heavy. An email was discussed and sent to the leaders of every group.
+
+![](https://github.com/annie0sc/gdp_health_app/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(11).png?raw=True)
+
+# Over Time:
+
+I will be working overtime on sunday, to start coding the UI screens in HTML and other softwares.

@@ -30,7 +30,7 @@
 
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
-- On the First Half Day,We Design Architecture team members connected to a zoom meeting at 4 pm on 09/21/2020 and discussed about the discussed Demo Application.[TeamMeeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Architecture%20Meeting%20Sep21.png)
+- On the First Half Day,We Design Architecture team members connected to a zoom meeting at 4 pm on 09/21/2020 and discussed about the Demo Application.[TeamMeeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Architecture%20Meeting%20Sep21.png)
 - We team members assigned individual tasks and started working on Demo Application.
 - We installed Node.js,worked on demo application and deployed the application in Heroku.[Commit](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/HappyHealthApplication/DemoApplication.jpeg)
 
@@ -40,7 +40,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 
 - On the Second Half Day,We team members joined Zoom Session and gave an update about the current status of Design Architecture.
 - We team members joined a Zoom meeting on 09/23/2020 at 6PM with UI team and discussed on User SignUp and User Login, Admin pages.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/UI%20Team%20Meeting%20sep23.png)
-- I and my team member Harish assigned a task for creating user signup page.
+- I and my team member Harish assigned a task for creating user signup page.[Jira](http://cs04.nwmissouri.edu/browse/FIT-170)
 - We started working on user signup page.[Commit](https://happy-health-demo.herokuapp.com/)
 - We deployed UserSignUp in Heroku.[Commit](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/HappyHealthApplication/HerokuUserSignUp%20.jpeg)
 
