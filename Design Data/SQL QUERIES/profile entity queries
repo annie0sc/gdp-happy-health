@@ -1,0 +1,12 @@
+DROP TABLE Profile_tbl;
+Create table Profile_tbl(
+Name varchar(30),
+Gender varchar(30),
+Phone number(10),
+weight number(10),
+height number(10),
+activityId number(10),
+FKmedicalCond varchar(10),
+Country varchar(10),
+CONSTRAINT profile_table_pk primary key(Name));
+);
