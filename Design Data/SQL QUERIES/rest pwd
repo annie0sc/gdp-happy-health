@@ -1,0 +1,8 @@
+DROP TABLE reset_pwd_tbl;
+Create table reset_pwd_tbl(
+email varchar(30),
+verificationCode number(30),
+reset boolean(),
+newPassword varchar(30),
+CONSTRAINT reset_pwd_tbl_pk primary key(email));
+);
