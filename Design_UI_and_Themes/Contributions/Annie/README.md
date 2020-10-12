@@ -223,3 +223,42 @@ https://app.moqups.com/k6nkHjQMFS/view/page/a2eb0cd22
 # Over Time:
 
 I will be working overtime on sunday, to start coding the UI screens in HTML and other softwares.
+
+# Module 4 Individual Contribution 1
+
+# Attendance
+
+* **10/05/2020** - I had attended zoom meeting on November 5th, 2020.
+* **10/07/2020** - I had attended zoom meeting on  November 7th, 2020.
+* **10/09/2020** - Holiday in leu of Walk-out Day.
+
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Topics Discussed | Software Used  |
+|---|---|---|---|
+| 10/05/2020  |  10 minutes |   Discussed about login and sgin up and forgot pasword screens of users and admins with the other leaders. |  Zoom |
+| 10/07/2020  |  10 minutes | Discussed about the video presentation with the other leaders.  |  Zoom |
+| 10/09/2020  |  10 minutes | Discussed about the upcoming UI screens and moqups developments with the other leaders.  |  Zoom |
+
+
+# Half-Day 1 (10/05/2020)
+
+
+* I had worked on implementing the UI screens for 'reset password page', 'validation page' and fixed the 'sign-in page' for user, and 'validation page' for code confirmation when resetting the password.
+* Created HTML and CSS pages for all the above.
+* I had also atteded a zoom session with the team leads for discussing about the implementation and acceptance criteria for the screens.
+
+
+# Half-Day - 2 (10/07/2020)
+
+* I had joined a zoom meeting regarding feedback given by the guide about making the screens mobile friendly.
+* I had helped the Sprint team in modifying the acceptance criteria fo sign-in and sign-up pages and the admin sign-in and forgot password pages.
+
+
+# Half-Day - 3 (10/09/2020)
+
+* As it was Walk-out day, we had a holiday.
+* I had worked on developing the UI screens for the user activities and admin controles.
+
+# **Consolidated GitHub Link for my work:**
