@@ -102,7 +102,8 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
 
 - I have attended zoom session conducted by Dr.Badami. Our team lead Mohan krishna Alavala gave demo on checklist and application.
-- I have done the task assigned to me by our team leader in changing the email to username in the login page of the application.
+- I have done the task assigned to me by our team leader and helped in changing the email to username in the login page of the application.
+https://github.com/harishThadka/happyHealth/commit/9b3021cf29d3e2779643365dee5e4d20d20e19c9
 
 # Half day 3:
 
