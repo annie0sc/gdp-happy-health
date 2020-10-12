@@ -78,6 +78,38 @@ http://cs04.nwmissouri.edu/browse/FIT-113?filter=-1
 - I have researched and started to select the tools for testing the API data along with one of my team members. We will be testing the API data later.
 
 
+# Module 4: Indivudial 1
+
+# Attendance
+
+10-05-2020 - zoom session
+
+10-07-2020 - zoom session
+
+10-09-2020 - No class
+
+# Half day 1:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On the first half day, I have attended zoom meeting conducted by our team leader Mohan krishna Alavala and took some notes on the feedback.
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/MeetingOct5th.PNG?raw=true)
+- I have gone through the check list given by the sprint team and found few changes in it.
+- I have informed our team leader about the modifications in the zoom meeting with our team.
+
+# Half day 2:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- I have attended zoom session conducted by Dr.Badami. Our team lead Mohan krishna Alavala gave demo on checklist and application.
+- I have done the task assigned to me by our team leader in changing the email to username in the login page of the application.
+
+# Half day 3:
+
+There is no class as the day was walkout day.
+
+
+
 
  
 
