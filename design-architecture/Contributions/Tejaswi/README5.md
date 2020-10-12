@@ -43,7 +43,8 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - After discussion, We team members assigned tasks.
 - I and my team member worked on user login page to have username instead of email.This is accepted by Dr.Badami and client.So after the UI team given the screen we worked on changing username to email in login page.
 - I was assigned task by Jira team to work on Admin Home Page.[Jira](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/Tejaswi/Jiratask6.PNG)
-- I Started working on Admin Home page updated navigation from Signin page to Admin Page.Started working on working Admin Page deployment in Heroku.
+- I Started working on Admin Home page updated navigation from Signin page to Admin Page.
+- I also assigned task by Jira team to work on deploying the homepage in goggle cloud.Started working on Admin Page deployment in goole Cloud.
 
 ## Half Day 3:
 
