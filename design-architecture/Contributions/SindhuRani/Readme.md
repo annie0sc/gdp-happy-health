@@ -107,7 +107,7 @@ https://github.com/harishThadka/happyHealth/commit/9b3021cf29d3e2779643365dee5e4
 
 # Half day 3:
 
-There is no class as the day was walkout day.
+There is no class this day.
 
 
 
