@@ -21,7 +21,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - On Monday, One of the person from our group presentated the acceptance rehersal while doing that the professor found acceptance checklist was still  a bit of mess. So I satrted validating the sample data again and also checked the queiers according to ER diagram  
 - As a part of jira tasks, I have been assigned with some tasks and I started working on those, As a part of it I have completed validating reset code and also updated water consumption sample data with ideal water consumption 
 - commit links
-- https://github.com/annie0sc/gdp-happy-health/commits/master/Design%20Data/Contributions/swaroopa/Screenshot%20(66).png
+- https://github.com/annie0sc/gdp-happy-health/commit/57ccf3ff1842f9d6defe007de8811a37dcd7a197#diff-5f52faeb0bdc7716e0f08f5c9a617ad0
 
 jira tasks completion screenshot
 
