@@ -1,5 +1,12 @@
 # Meetings:
 
+# Project Meeting: 10/05/20
+- Scheduled zoom meeting on 10/05/20 at 6PM
+- Client presentation
+- Issues in UI pages
+- Updates username in user login page
+- Image link: https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/ProjectMeetingoct5th.png
+
 # Team Meeting: 09/11/20
 - Scheduled Zoom meeting on 09/11/20 at 3PM
 Discussion:
