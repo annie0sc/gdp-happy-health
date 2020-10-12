@@ -22,9 +22,12 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 - As a part of jira tasks, I have been assigned with some tasks and I started working on those, As a part of it I have completed validating reset code and also updated water consumption sample data with ideal water consumption 
 - commit links
 - https://github.com/annie0sc/gdp-happy-health/commits/master/Design%20Data/Contributions/swaroopa/Screenshot%20(66).png
+
 jira tasks completion screenshot
+
 ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(65).png)
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(66).png
+
+![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(66).png)
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
@@ -33,15 +36,18 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/notes.jpeg)
 - As keeping all this in mind iam starting working on jira tasks 
 Jira task completion screnshot links 
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(67).png
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(68).png
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(70).png
+
+-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(67).png)
+
+-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(68).png)
+
+-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(70).png)
+
 - https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/swaroopa/Screenshot%20(71).png
+
 - commit links 
 - https://github.com/annie0sc/gdp-happy-health/commit/66ec0ed818be277029dd34e783ab75b5bdd982bb#diff-69d7567f3d735fb18238457df6d1df0f
-- I have attended zoom session 
-screen shot
-- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Meetings/prototype%20meeting.png)
+
 All commits link 
 - https://github.com/annie0sc/gdp-happy-health/commits?author=swaroopatirumalareddy
 
