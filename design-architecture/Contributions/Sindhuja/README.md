@@ -310,6 +310,75 @@ Minutes of meeting :
 
 - Then we started hosting app on google cloud.
 
+   ![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/App%20engine.PNG?raw=true)
+
+
+- I have worked with one of my team members, and we are done with database connection succesfully.
+
+  https://github.com/harishThadka/happyHealth/commit/8c99c2e8c4a26
+
+
+## Half Day Work (10/02/2020) - 4 hours
+
+- On the third half day, I have attended zoom session hosted by Dr. Badami where our team showed the demo for database connection.
+
+- I have started working on forgot password functionality for login page.
+
+- I have worked on adding views and routes folder for admin login page created by UI team.
+
+ # Module 4 - Individual 1
+
+## Attendance
+
+10/05/2020 - Attended zoom meeting
+
+10/07/2020 - Attended zoom meeting
+
+10/09/2020 - Homecoming holiday
+
+All the meetings and discussions are updated in this link:
+
+ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md
+
+ ## Half Day Work (10/05/2020) - 4 hours
+
+ - I have participated in zoom meeting conducted by my team lead to discuss on the client presentation and issues we need to solve with admin and user home page.
+
+    https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/ProjectMeetingoct5th.png
+
+   Minutes of meeting :
+
+   - Updating username in the login page.
+   - discussed on checklist requirement for client presentation.
+
+- As per the discussion in the zoom meeting, me and one of my team members started working on adding admin and user home page UI pages to node.js.
+
+  shared commit: https://github.com/harishThadka/happyHealth/commit/1953e82c678375e9c01ebe08b91ca753bcdd7b93
+
+- I have worked on adding routes for forgot password functionalify of admin login page.
+
+- While deploying, we found an issue with respect to responsive web design for sign up page and informed them.
+
+- Our team worked together on the user password length issue to throw error if user tries to enter password length less than 8 characters.
+
+- We fixed password length issue for both admin and user login pages.
+
+## Half Day Work (10/07/2020) - 4 hours
+
+- On the second half day, I have attended zoom session conducted by Dr. Badami to know the client presentation checklist and video recording.
+
+- As suggested by Dr. Badami, I have worked with my team members in updating user login with username instead of email-id.
+
+- Fixed some issues like error logging output and port issues with pages while deploying.
+
+- After fixing issues, we have deployed app on google cloud.
+
+
+
+
+
+
+
 
 
 
