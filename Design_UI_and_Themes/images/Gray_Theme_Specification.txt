@@ -1,0 +1,14 @@
+page background-color: #7a7a7a
+card bg-color: #999999
+color: #fff/#000 
+
+input placeholder: #606060
+input background color: #bbb
+
+popup dialog bag: #aaa
+
+Cancel Button: #e0e0e0
+color: #000
+
+Ok: Bg color: #357ebd
+color: #fff
