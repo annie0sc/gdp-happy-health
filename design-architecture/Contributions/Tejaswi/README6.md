@@ -58,7 +58,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - Worked on admin login page controllers.[Commit3](https://github.com/harishThadka/happyHealth/commit/3e4c159c715f014cb8cbede8a34d58c8226d4a77)
 - Worked on Forgot password page and Validation pages.[Commit4](https://github.com/harishThadka/happyHealth/commit/7499b0e1290ea479d151241a488059d4e946ee89)
 - Fixed the changes and Deployed all the changes in the Google cloud.[Commit5](https://github.com/harishThadka/happyHealth/commit/6a201119c9a576be481e702905156965f3a8acd1)
-- We team members assgined tasks i was assigned to research about testing of API data.I searched about the data can be tested in Json or xml.Also postman can be used to test the data.[Task](http://cs04.nwmissouri.edu/browse/FIT-104)
+- We team members assigned tasks i was assigned to research about testing of API data.I searched about the data can be tested in Json or xml.Also postman can be used to test the data.[Task](http://cs04.nwmissouri.edu/browse/FIT-104)
 - I started working on the task assigned by Jira team to work on Admin Page.[Jira](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/Tejaswi/Jiratask6.PNG)
 
 ## Meetings:
