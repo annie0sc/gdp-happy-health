@@ -22,6 +22,6 @@
 <tr>
 <td>10/16/2020</td>
 <td>Zoom Session</td>
-<td> </td>
+<td> 4 hours</td>  
 </tr>
 </table>
