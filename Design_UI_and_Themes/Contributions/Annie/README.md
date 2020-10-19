@@ -280,7 +280,7 @@ https://github.com/harishThadka/happyHealth/commits?author=annie0sc
 | Date  | Meeting Length  |  Topics Discussed | Software Used  |
 |---|---|---|---|
 | 10/14/2020  |  10 minutes |   Discussed about workflow the other leaders. |  Zoom |
-
+| 10/16/2020  |  10 minutes |   Discussed the moqups with my teammates. |  WhatsApp |
 
 
 # Half-Day 1 (10/12/2020)
@@ -321,7 +321,28 @@ https://github.com/harishThadka/happyHealth/commits?author=annie0sc
 * I have fixed the admin pages for the home page.
 * I had fixed the admin home page according to the RPF.
 
-# **Consolidated GitHub Link for my work:**
-https://github.com/annie0sc/gdp-happy-health/commits?author=annie0sc
+# **GitHub Link for my work:**
 
+https://github.com/annie0sc/gdp-happy-health/commits?author=annie0sc
 https://github.com/harishThadka/happyHealth/commits?author=annie0sc
+https://github.com/annie0sc/gdp-happy-health/commit/1d5d1964195d8aeda696095f98ffe921478c2ee8
+https://github.com/annie0sc/gdp-happy-health/commit/0c6ff5c88c821dac6da04369451ce157d200b204
+https://github.com/annie0sc/gdp-happy-health/commit/fb3b8627674340991e856db33c36ffd62f3fc7b0
+https://github.com/annie0sc/gdp-happy-health/commit/7a618d2f8ef809532b11ffa1d028616af6d56470
+https://github.com/annie0sc/gdp-happy-health/commit/b7bd18ca0caa9db054a1057091937bcba5d0a7ec
+https://github.com/annie0sc/gdp-happy-health/commit/c437dbf4d4ec1b4598b55c7f415880d97ae98f6f
+https://github.com/annie0sc/gdp-happy-health/commit/30fa14beff1d53815a374a976c9bcb7d4fe727e4
+https://github.com/annie0sc/gdp-happy-health/commit/e40881af785dd6f8a91e50bc20acc0ace9115185
+https://github.com/annie0sc/gdp-happy-health/commit/4bfd0c1f041b8ba323a58f24ceb4f8fd28b221a0
+https://github.com/annie0sc/gdp-happy-health/commit/885ed3ddde33704aaf96aa2f68c0954354e3014a
+https://github.com/annie0sc/gdp-happy-health/commit/2990224e1bb62c3cd1969e267b3a0cd5ba5f2349
+https://github.com/annie0sc/gdp-happy-health/commit/5414c14ad894b0b0d19c92268e13e68b132a68c6
+https://github.com/annie0sc/gdp-happy-health/commit/6c34c32e2469850b96c8af7c3f7ef543e4e1936f
+https://github.com/annie0sc/gdp-happy-health/commit/bdb6d8010fd681a8ae68aa1492e8b70707c7f4f2
+https://github.com/annie0sc/gdp-happy-health/commit/ee7b402cc35f323991914bd6f89bde2446d37e53
+https://github.com/annie0sc/gdp-happy-health/commit/f8776806f92f1be1b7e29e888b5688c6a83da12d
+https://github.com/annie0sc/gdp-happy-health/commit/de977d3319907f071d3e1d1bf548380fae421a11
+
+# **Moqups Links:**
+
+https://app.moqups.com/k6nkHjQMFS/view/page/a6678e7ce
