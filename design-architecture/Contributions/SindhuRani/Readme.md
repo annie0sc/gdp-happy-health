@@ -103,11 +103,62 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
 - I have attended zoom session conducted by Dr.Badami. Our team lead Mohan krishna Alavala gave demo on checklist and application.
 - I have done the task assigned to me by our team leader and helped in changing the email to username in the login page of the application.
+
 https://github.com/harishThadka/happyHealth/commit/9b3021cf29d3e2779643365dee5e4d20d20e19c9
 
 # Half day 3:
 
 There is no class this day.
+
+
+# Module 4: Indivudial 2
+
+# Attendance
+
+10-12-2020 - zoom session
+
+10-14-2020 - zoom session
+
+10-16-2020 - zoom session
+
+# Half day 1:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On the first half day, I have attended zoom meeting conducted by Dr.Badami and got client review on the application.
+- After that, we joined the zoom meeting and discussed about the client side review and functionality issues to be solved.
+- I have done the task assigned to me by our team leader and helped in changing the email to username in the login page of the application.
+- Me and my team member worked on the signup page.
+
+https://github.com/harishThadka/happyHealth/commit/38078d253cfb1a4f37f540d36434a3d4fb13ae37
+
+# Half day 2:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- I have attended zoom session conducted by our team member Harish with design data team. 
+- We have discussed about models and controllers.
+- Our team member harish gave demo on the application.
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/15oct1.PNG)
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/15oct%20screenshare.PNG)
+
+
+# Half day 3:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+I have worked on forgot password functionality with one of my team members.
+
+https://github.com/harishThadka/happyHealth/commit/38078d253cfb1a4f37f540d36434a3d4fb13ae37
+
+I also worked on the task assigned to me in jira.
+
+http://cs04.nwmissouri.edu/browse/FIT-234?filter=-1
+
+
+
 
 
 
