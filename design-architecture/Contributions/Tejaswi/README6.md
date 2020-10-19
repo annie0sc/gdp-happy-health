@@ -40,7 +40,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
 - We Team members joined Zoom meeting hosted by Dr.Badami and had discussed about client review on application.
-- We team members joined meeting with Data team to discuss about models and controllers and discussed about importing sample data and tables to the cloud database and Creation of models for entities.[Commit](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/DataTeamMeetingOct14.jpeg)
+- We team members joined meeting with Data team to discuss about models and controllers and discussed about importing sample data and tables to the cloud database and Creation of models for entities.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/DataTeamMeetingOct14.jpeg)
 - According to the discussion with professor i fixed few changes in UserSignUp page.[Commit](https://github.com/harishThadka/happyHealth/commit/3b725721952112135c3602e68ec9390bcd82b9d9)
 - I was assigned a task to Browse about controllers and work on creating Controllers.[Controllers](https://www.c-sharpcorner.com/blogs/how-to-setup-mvc-design-pattern-in-express)
 - I started working on the task assigned by Jira team to work on Admin Page.[Jira](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/Tejaswi/Jiratask6.PNG)
