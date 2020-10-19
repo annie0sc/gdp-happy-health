@@ -52,7 +52,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 
 - We team members attended the zoom meeting hosted by GA, We team members updated about Jira tasks and the status of our functionalities and also the changes we have done.
 - We team members joined meeting with Sprint team to discuss about the application.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/SprintMeetingOct16.jpeg)
-- I and my team member assigned a task to work on controllers for user login,user signup and forgot passowrd and validation pages anddeployed changes in Google Cloud.
+- I and my team member assigned a task to work on controllers for user login,user signup and forgot password and validation pages and deployed changes in Google Cloud.
 - Worked on user login controllers.[Commit1](https://github.com/harishThadka/happyHealth/commit/9c6df03a65225f1138cfc36190132aa7682d4470)
 - Worked on user sign up page controllers.[Commit2](https://github.com/harishThadka/happyHealth/commit/b43017af47fb4b8ced1668351d01bfa96529169c)
 - Worked on admin login page controllers.[Commit3](https://github.com/harishThadka/happyHealth/commit/3e4c159c715f014cb8cbede8a34d58c8226d4a77)
