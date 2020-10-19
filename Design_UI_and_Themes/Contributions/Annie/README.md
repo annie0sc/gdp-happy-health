@@ -285,22 +285,41 @@ https://github.com/harishThadka/happyHealth/commits?author=annie0sc
 
 # Half-Day 1 (10/12/2020)
 
+* I had created the moqups for the user home page.
+* My challenges page is also developed.
+* More challenges page is also developed.
+* Admin Home page is also developed in moqups.
+* Step-count pages is developed in moqups.
+* Hydration levels is also developed.
+* I had worked on calories updating page.
+* I also worked on sleep count activity page.
+* I had also send these moqups to the guide for reviewing. 
+* The reviewed feedback and updated the moqups.
+* I assigned these tasks to my groupmates for making the changes to the moqups.
 
-* I had worked on implementing the UI screens for 'reset password page', 'validation page' and fixed the 'sign-in page' for user, and 'validation page' for code confirmation when resetting the password.
-* Created HTML and CSS pages for all the above.
-* I had also atteded a zoom session with the team leads for discussing about the implementation and acceptance criteria for the screens.
 
 
 # Half-Day - 2 (10/14/2020)
 
-* I had joined a zoom meeting regarding feedback given by the guide about making the screens mobile friendly.
-* I had helped the Sprint team in modifying the acceptance criteria fo sign-in and sign-up pages and the admin sign-in and forgot password pages.
-
+* I had joined a zoom meeting regarding feedback given by the guide about making the screens mobile friendly with the sprint app.
+* The admin and user moqups are being reviewed.
+* I had helped the Sprint team in modifying the acceptance criteria for sign-in page.
+* I had helped the Sprint team with the criteria for sign-up pages.
+* I had changed the admin validation and forgot password pages.
+* I had worked on implementing the UI screens for 'reset password page', 'validation page' and fixed the 'sign-in page' for user, and 'validation page' for code confirmation when resetting the password.
+* Created HTML and CSS pages for all the above.
+* I had also atteded a zoom session with the team leads for discussing about the implementation and acceptance criteria for the screens.
 
 # Half-Day - 3 (10/16/2020)
 
-* As it was Walk-out day, we had a holiday.
-* I had worked on developing the UI screens for the user activities and admin controles.
+* I had worked on fixing the HTML pages for the reset password page.
+* I had fixed the signup page for the user.
+* I had worked on sign in page for the user.
+* I had changed the verification page.
+* I had changed forgot password page in the live app.
+* I had added the user home page in the live app.
+* I have fixed the admin pages for the home page.
+* I had fixed the admin home page according to the RPF.
 
 # **Consolidated GitHub Link for my work:**
 https://github.com/annie0sc/gdp-happy-health/commits?author=annie0sc
