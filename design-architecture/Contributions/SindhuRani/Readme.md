@@ -139,8 +139,10 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 - I have attended zoom session conducted by our team member Harish with design data team. 
 - We have discussed about models and controllers.
 - Our team member harish gave demo on the application.
-![]()
-![]()
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/15oct1.PNG)
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/15oct%20screenshare.PNG)
 
 
 # Half day 3:
