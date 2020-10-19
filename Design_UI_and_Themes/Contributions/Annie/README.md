@@ -265,3 +265,44 @@ I will be working overtime on sunday, to start coding the UI screens in HTML and
 https://github.com/annie0sc/gdp-happy-health/commits?author=annie0sc
 
 https://github.com/harishThadka/happyHealth/commits?author=annie0sc
+
+# Module 4 Individual Contribution 2
+
+# Attendance
+
+* **10/12/2020** - I had attended zoom meeting.
+* **10/14/2020** - I had attended zoom meeting.
+* **10/16/2020** - I had attended zoom meeting.
+
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Topics Discussed | Software Used  |
+|---|---|---|---|
+| 10/14/2020  |  10 minutes |   Discussed about workflow the other leaders. |  Zoom |
+
+
+
+# Half-Day 1 (10/12/2020)
+
+
+* I had worked on implementing the UI screens for 'reset password page', 'validation page' and fixed the 'sign-in page' for user, and 'validation page' for code confirmation when resetting the password.
+* Created HTML and CSS pages for all the above.
+* I had also atteded a zoom session with the team leads for discussing about the implementation and acceptance criteria for the screens.
+
+
+# Half-Day - 2 (10/14/2020)
+
+* I had joined a zoom meeting regarding feedback given by the guide about making the screens mobile friendly.
+* I had helped the Sprint team in modifying the acceptance criteria fo sign-in and sign-up pages and the admin sign-in and forgot password pages.
+
+
+# Half-Day - 3 (10/16/2020)
+
+* As it was Walk-out day, we had a holiday.
+* I had worked on developing the UI screens for the user activities and admin controles.
+
+# **Consolidated GitHub Link for my work:**
+https://github.com/annie0sc/gdp-happy-health/commits?author=annie0sc
+
+https://github.com/harishThadka/happyHealth/commits?author=annie0sc
