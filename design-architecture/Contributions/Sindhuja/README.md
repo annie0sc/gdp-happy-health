@@ -373,6 +373,36 @@ All the meetings and discussions are updated in this link:
 
 - After fixing issues, we have deployed app on google cloud.
 
+  ![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/app%20deployed.PNG?raw=true)
+
+# Module 4 - Individual 2
+
+## Attendance
+
+10/12/2020 - Attended zoom meeting
+
+10/14/2020 - Attended zoom meeting
+
+10/16/2020 - Attended zoom meeting
+
+All the meetings and discussions are updated in this link:
+
+https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md
+
+## Half Day Work (10/12/2020) - 4 hours
+
+- On the first half day, I have attended zoom session hosted by Dr. Badami where everyone in the class discussed about the feedback given by client for the application demo and the changes we need to make in the login pages.
+
+- As per the discussion in the zoom meeting, I have started working with one of my team members in changing the code related to admin login page.
+
+- I have given my ideas to my team member harish to modify signup page code as per client's review.
+
+   commit: https://github.com/harishThadka/happyHealth/commit/8e4537a02da749b2e6bb3ee2b6e2631c6c190ff0
+
+- After making the necessary changes, the modified app is deployed on google cloud.
+
+
+
 
 
 
