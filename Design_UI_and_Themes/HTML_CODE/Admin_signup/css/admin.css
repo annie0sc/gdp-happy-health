@@ -26,11 +26,19 @@ body {
     border-radius: .25rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
-
-
+/*
 .form-container{
-   
-    width: 100%;
+    position: center;
+    top: 3vh;
+    background: #fff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 12px 12px 22px;
+}
+*/
+.form-container{
+    position: center;
+    width: 70%;
     height: 100%;
     top: 3vh;
     background: #fff;
