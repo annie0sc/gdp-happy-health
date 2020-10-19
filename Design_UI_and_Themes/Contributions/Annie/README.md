@@ -282,6 +282,7 @@ https://github.com/harishThadka/happyHealth/commits?author=annie0sc
 | 10/14/2020  |  10 minutes |   Discussed about workflow the other leaders. |  Zoom |
 | 10/16/2020  |  10 minutes |   Discussed the moqups with my teammates. |  WhatsApp |
 
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(33).png?raw=True)
 
 # Half-Day 1 (10/12/2020)
 
@@ -325,6 +326,9 @@ https://github.com/harishThadka/happyHealth/commits?author=annie0sc
 
 https://github.com/annie0sc/gdp-happy-health/commits?author=annie0sc
 https://github.com/harishThadka/happyHealth/commits?author=annie0sc
+https://github.com/annie0sc/gdp-happy-health/commit/0f2a12c5dd574c98978696d8145c83784617679f
+https://github.com/annie0sc/gdp-happy-health/commit/91f1f14a0af40e9f5e11b50e403d1c9041d9ae19
+https://github.com/annie0sc/gdp-happy-health/commit/d2e0a836e08c0aae08e2de8d5bc76b0ee6e5613f
 https://github.com/annie0sc/gdp-happy-health/commit/1d5d1964195d8aeda696095f98ffe921478c2ee8
 https://github.com/annie0sc/gdp-happy-health/commit/0c6ff5c88c821dac6da04369451ce157d200b204
 https://github.com/annie0sc/gdp-happy-health/commit/fb3b8627674340991e856db33c36ffd62f3fc7b0
