@@ -4,7 +4,7 @@ Naga Anshitha Velagapudi
 We have classes on every alternate day, I have attended only for few classes and the schedule is below.
 | Class Dates | Attended | 
 |----------|-------------|
-| 10/12/2020 | Online |
+| 10/12/2020 | Online(zoom) |
 | 10/14/2020 | Online |
 | 10/16/2020 | Online |
 
@@ -25,3 +25,4 @@ Time allotted : 4hrs = 1hr in class + 3hrs out of the class.
 - This day, we attended a zoom meeting conducted by our GA and discussed about current status of work and also about the work to be done.
 - I completed Jira tasks assigned to me on reviewing and deploying the sample data and also on password resetting.
 - We coordinated with UI team as part of testing.
+
