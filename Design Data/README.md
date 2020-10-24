@@ -12,6 +12,7 @@ Design data complies with the app requirements to facilitate secure data transac
 ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Updated/ER%20diagram/HAPPY_HEALTH_ERD.png)
 
 USER MODELS
+
 Administrators can:
 
 1. View and download all data entered by users
@@ -29,6 +30,7 @@ Any user can:
 1. Participate in a challenge individually, i.e. not in a group
 1. View challenge data for the rest of their group
 1. View data from past challenges
+
 User entity (includes admins) 
 
   - UserName
@@ -75,6 +77,7 @@ Activity Entity
 - Designer
 - CreatedDate
 - LastEdited
+
 Profile Entity
 - Name
 - Gender
@@ -83,8 +86,8 @@ Profile Entity
 - height
 - activityId
 - medicalcond
-Country
+- Country
 
-ChallengeTarget mapping
+
 
 
