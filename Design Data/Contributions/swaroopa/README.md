@@ -7,6 +7,7 @@ Worth 200 points- I have submitted assignment on time and I have submitted all t
 - on 10/19/2020 zoom class 
 - on 10/21/2020 I have attended zoom session
 - on 10/23/2020 zoom
+
 | Date of Class attended | Mode of Class |
 |------------------------|---------------|
 | 10/19/2020 |zoom | 
