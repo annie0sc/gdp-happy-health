@@ -26,7 +26,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 - http://cs04.nwmissouri.edu/browse/FIT-284
 
--https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(37).png
+- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(37).png
 
 - ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(37).png)
 
@@ -36,7 +36,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
  link to my jira tasks:
  
- http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=5&projectKey=FIT&view=planning&selectedIssue=FIT-264&quickFilter=9&issueLimit=100
+- http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=5&projectKey=FIT&view=planning&selectedIssue=FIT-264&quickFilter=9&issueLimit=100
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
@@ -62,7 +62,7 @@ commit link
 
 link to my jira tasks:
  
-http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=5&projectKey=FIT&view=planning&selectedIssue=FIT-264&quickFilter=9&issueLimit=100
+- http://cs04.nwmissouri.edu/secure/RapidBoard.jspa?rapidView=5&projectKey=FIT&view=planning&selectedIssue=FIT-264&quickFilter=9&issueLimit=100
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 ## Half Day 3:
@@ -73,7 +73,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 - As per the UI group 's request to assist them in their team work, 3 members, including me, are willing to assist them with web page growth.
 
-https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(39).png
+- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(39).png
 
 ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(39).png)
 
