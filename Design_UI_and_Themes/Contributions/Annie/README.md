@@ -471,14 +471,22 @@ https://github.com/annie0sc/gdp-happy-health/commit/74080155de185a6a277897e66f51
 * I had shown the new pages for the user activies and had explained about the fields displayed in that page to the professor.
 * I had also given a small description of the user home page and user challenge page developed by Vineetha to the class. 
 * Some modification about the pages were suggested by the Professor about the pages.
-* A further ana;ysis on the Admin pages was proposed which was changed accordingly.
+* A further analysis on the Admin pages was proposed which was changed accordingly.
 * I had then gone for an in-person meeting with the Sprint Team to discuss about the tasks assigning and the work flow. 
 * I had also asked the Data Team for transfering some people to our team for helping in implementation.
 * After some discussion with the professor, the data team leader and I descided to shift three members to our team.
 * The following is the screenshot of the emails that were exchanged accordingly:
 
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(46).png?raw=True)
+
+* I had then emailed the Sprint team about the updates and inclusion of the new members to the UI team. 
+* Further discussions about the tasks assignment was done in the evening.
+
+* The following are some changes done to the documentation:
 
 
 # **Moqups Links:**
 
 https://app.moqups.com/k6nkHjQMFS/view/page/a6678e7ce
+
+https://app.moqups.com/SgvoYP22gt/view/page/a78a4832f
