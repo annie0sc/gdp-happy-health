@@ -158,6 +158,60 @@ I also worked on the task assigned to me in jira.
 http://cs04.nwmissouri.edu/browse/FIT-234?filter=-1
 
 
+# Module 5: Indivudial 1
+
+# Attendance
+
+10-19-2020 Zoom Session
+	 
+10-21-2020 Zoom Session
+	 
+10-23-2020 Zoom Session
+
+# Half day 1:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On the first half day, I have attended zoom meeting conducted by Dr.Badami and discussed about the application status.
+- After that, we joined the zoom meeting and discussed about the issues and status of the application.
+- We have assigned individual tasks and started working on issues and I have updated user responsive design for the user admin page and the user login page.
+- https://github.com/harishThadka/happyHealth/commit/934bf485209bdedac9070fdb92f38f4e4d010abd
+
+- https://github.com/harishThadka/happyHealth/commit/d74b9e016bb6949688afc9e0386756921e1bb3ea
+
+- I have worked on updating the responsive design for Forgot password page.
+- https://github.com/harishThadka/happyHealth/commit/da493cbe0155a918ef7fe2a130af434bddc47bfa
+
+
+# Half day 2:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- I have attended zoom session with sprint team. 
+- We have discussed the issues and updated status of the application with the sprint team.
+- Later, I have worked on admin and home pages.
+- https://github.com/harishThadka/happyHealth/commit/3d9f7d044ca82a9a830803d8a7f987c405fe2ca9
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprintoct20.jpg)
+
+- We have discussed about the removal of successful message in admin and user Home pages and completed the task.
+- https://github.com/harishThadka/happyHealth/commit/4ebc4d19b703977d149479e9c1b58b787fba1c2e
+
+
+
+# Half day 3:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On third half day, I have attended the zoom session conducted by Dr. Badami.
+- All the teams gave updates on the application status, UI mockups and jira tasks.
+I have worked on forgot password validation along with one of my team mates.
+- https://github.com/harishThadka/happyHealth/commit/6d731671912e0266a0f8169a
+- I have also worked on reset and functionality.
+- https://github.com/harishThadka/happyHealth/commit/69253ba9c6ef1485e1889049ad4fd8414f0d821b
+
+
+
 
 
 
