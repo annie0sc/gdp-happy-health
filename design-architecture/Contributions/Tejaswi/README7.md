@@ -56,3 +56,18 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - I was assigned task by Jira team to work on admin page new button updation.[Jira](http://cs04.nwmissouri.edu/browse/FIT-299)
 - I worked on updation of new button in the admin page.[Commit](https://github.com/harishThadka/happyHealth/commit/ab136430d4a20eaded1e70d6382ede6a59f30a14)
 - As discussed, remove successful message in admin and user Home pages.[Commit](https://github.com/harishThadka/happyHealth/commit/4ebc4d19b703977d149479e9c1b58b787fba1c2e)
+
+## Half Day 3:
+
+Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
+
+- On Friday, I have attended the zoom session hosted by Dr. Badami, In which all the teams updated about Jira tasks, UI mockups, and the status of the live application.
+- Me and My team member was assigned a task to work on backend implementation for password validation.[Commit](https://github.com/harishThadka/happyHealth/commit/6fa2543f5a48069ab59faeed87cf6d57134e7632)
+- Me and My team member was assigned a task to work on backend implementation for Forgot Password validation.[Commit](https://github.com/harishThadka/happyHealth/commit/6d731671912e0266a0f8169a)
+- Implemented reset password functionality on the backend.[Commit](https://github.com/harishThadka/happyHealth/commit/69253ba9c6ef1485e1889049ad4fd8414f0d821b)
+- Finally,fixed few of the issues in signup page and deployed the application in google cloud.
+- [SignUpIssues](https://github.com/harishThadka/happyHealth/commit/2c6e6dd707c6d15e35f9116ab584c435c3f8380c)
+- [SignUp](https://github.com/harishThadka/happyHealth/commit/fd9133964e4105ba3fc1328e13a3e1e5db1b2f9a)
+
+## Meetings:
+- Meetings and discussions in our team are updated here.[Meetings](https://github.com/annie0sc/gdp_health_app/blob/master/design-architecture/meeting.md)
