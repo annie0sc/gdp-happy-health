@@ -484,6 +484,17 @@ https://github.com/annie0sc/gdp-happy-health/commit/74080155de185a6a277897e66f51
 
 * The following are some changes done to the documentation:
 
+https://github.com/annie0sc/gdp-happy-health/commit/0523d53e59e6839679308b8ce647ebaec2c22982
+
+https://github.com/annie0sc/gdp-happy-health/commit/660137e876c9b8fd098aafa28c08c4deeb83a0a9
+
+https://github.com/annie0sc/gdp-happy-health/commit/8195431266278f5b263b94f9f7e2343b2923878f
+
+https://github.com/annie0sc/gdp-happy-health/commit/333e0f7b1914adf3453e11e8742d0e6fbbbc71ec
+
+https://github.com/annie0sc/gdp-happy-health/commit/72d006f56326e19730c9622ca4d32f4a1e0c2936
+
+https://github.com/annie0sc/gdp-happy-health/commit/4503a767605c3299d6732603662e9c5007bcaa38
 
 # **Moqups Links:**
 
