@@ -25,6 +25,7 @@
 <td> 4 hours</td>  
 </tr>
 </table>
+
 ## Half Day 1:
 
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
@@ -45,5 +46,13 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - I have fixed some of the issues in the UI and application was deployed in the google cloud.
 - [UI Issues](https://github.com/harishThadka/happyHealth/commit/d2fdf06e0954d032ae7fce62fa981134ea57e3ea)
 
+## Half Day 2:
 
+Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
+- I have attended the Zoom class in which we had a look at Jira and checked the user stories and acceptance criteria for Sprint 3.One of my team member from our group gave the demo on the present status of the live application and also we made few modifications based on the review given in Monday's class.
+- We started working on the client demo video on the latest progress of our application.
+- We team members attended zoom with Sprint team and discussed about status of application,tasks and the issues in the application.[Meeting](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprintoct20.jpg)
+- I was assigned task by Jira team to work on admin page new button updation.[Jira](http://cs04.nwmissouri.edu/browse/FIT-299)
+- I worked on updation of new button in the admin page.[Commit](https://github.com/harishThadka/happyHealth/commit/ab136430d4a20eaded1e70d6382ede6a59f30a14)
+- As discussed, remove successful message in admin and user Home pages.[Commit](https://github.com/harishThadka/happyHealth/commit/4ebc4d19b703977d149479e9c1b58b787fba1c2e)
