@@ -94,6 +94,27 @@ The financial constraints of a project, also known as the project budget.
 ## Schedule Management: 
 Includes the procedures necessary to guarantee that the project is finished on schedule.
 
+## Hosting a Node.js app with Firebase — Firebase Cloud Functions
+
+To operate the backend with JavaScript, Firebase offers the so-called Cloud Functions, which follow the serverless approach.
+
+Without great pre-configuration or admin knowledge, we can provide our backend with JavaScript, where Cloud Functions under the hood uses Node.js.
+
+Therefore we can use node frameworks like Express.js, but also templating engines like handlebars and other libraries that are available for Node.js or JavaScript on the server side.
+
+### Features:
+- Hosting of Node.js apps with JavaScript or TypeScript
+- Access other Firebase services like the Firestore database
+- Local testing of functions
+- Logs, usage and status data of your functions, viewable in the Firebase Console
+- Easy deployment
+
+### Benefits of using Firebase in this case
+- It is free
+- No struggle with configuration
+- Scalable, in case you want to use the paid plan. You only pay for what you use in Firebase
+- Security, since you do not need to configure something on your own, which reduces the risk of creating problems or potential security vulnerability
+
 # Testing and Maintainance
 # Assumptions
 
