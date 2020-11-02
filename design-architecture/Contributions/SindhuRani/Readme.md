@@ -257,7 +257,7 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
   Password : Happyhealth@123
 
-- I have started working on sending OTP.
+- I have started working on backend implementation of sending OTP to the user mail
 
 - https://github.com/harishThadka/happyHealth/commit/59127c56863260b80790cc554b9dc40ffdc88590
 
