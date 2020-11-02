@@ -21,15 +21,15 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 - jira task screenshot and links 
 
-- http://cs04.nwmissouri.edu/browse/FIT-284
+- http://cs04.nwmissouri.edu/browse/FIT-363
 
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(37).png
+- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(46).png
 
-- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(37).png)
+- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(46).png)
 
 - Commit links 
 
--  https://github.com/annie0sc/gdp-happy-health/commit/6651ea11597e639bebd3fdc80b9d5c8158165285
+- https://github.com/annie0sc/gdp-happy-health/commit/3b75568e91dddf7d3698fcef622af435e6d9ed2c
 
  link to my jira tasks:
  
@@ -39,23 +39,24 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 ## Half Day 2:
 - On 10/28 /2020 , I have attended class via zoom in which we had glance over the acceptance crteria of Sprint 3. One of the individuals from our group demonstrated to the rest of the group the current status of the latest mockups. Eventually, one of the individuals from our group gave the demo on the current state of the live app and also made some adjustments to the app based on the review of the Monday class. 
+- acceptance creteria google sheet
+- https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
 - We also collaborated  with design architecture team and had chance to work on html pages and navigation bars 
-- We sent it  https://app.vidgrid.com/view/ub0mcO5MDKYd  to our professor as part of the client demo video before submitting it to the client. In the video we included 3 pages related to the user are deployed and one admin page is also deployed
-- Video sent link :
+- We are working on pending tasks like calories, depolying code as part of client demo video and we need to depoly some code before submitting it to clinet
+- As part of working with the UI team, I working  on the calories css page along with other team members.
 
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(40).png
-commit link 
+- commit link 
 
-- https://github.com/annie0sc/gdp-happy-health/commit/ea199f366834ba3ae8bbb05e25116db87be54ffb
+- https://github.com/annie0sc/gdp-happy-health/commit/97326e5ba9ddddb0215977426fe8840ed34fd39a
 
 - On the other hand I have contiuned my work on jira issues that were assigned to me by sprint group members
 - Jira task completion Screenshot and links  
 
-- http://cs04.nwmissouri.edu/browse/FIT-173
+- http://cs04.nwmissouri.edu/browse/FIT-363
 
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(41).png
+- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(47).png
 
-- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(41).png)
+- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(47).png)
 
 link to my jira tasks:
  
@@ -63,28 +64,29 @@ link to my jira tasks:
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 ## Half Day 3:
-- On Friday, I have attended the zoom session hosted by our instructor, in which gave the demo on the client video on our upto tasks
+- On Friday, I have attended the zoom session hosted by our instructor, in which one of the person from the sprint group gave the demo on the client video on our upto tasks
 - Commit links
-- https://github.com/annie0sc/gdp-happy-health/commit/b4b324c9cc9207c771a76654724a037d678b62e2
-- https://github.com/annie0sc/gdp-happy-health/commit/ab375212bfbf1a3d067f9af8beeaf109119ccbab
+- I have completed the css code for calories page 
+- here is the link for the code
 
-- As per the UI group 's request to assist them in their team work, 3 members, including me, are willing to assist them with web page growth.
+- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/style.css
 
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(39).png
+- After this I started working on the errors in the code and then editing code on the html code according to the previous clinet reviews 
+- commit links:
 
-![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(39).png)
+- https://github.com/annie0sc/gdp-happy-health/commit/dd8435c7b9d456621c7cb639242c8f2ade2dded4
 
--  And I completed some of the tasks that were assigned to me for sprint 3 and I also viwed the upcoming Sprints
-jira task completion links 
+- https://github.com/annie0sc/gdp-happy-health/commit/522f8003e99087667b0b520d4a1b7f7a282edd7c
 
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(42).png
+- I have joined the zoom hosted by UI team in which I calirified some of my doubts 
+- here is the zoom link 
 
-- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(42).png)
-- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(38).png
+- https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/zoom%20meeting.jpeg
 
-- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/Screenshot%20(38).png)
+- ![image](https://github.com/annie0sc/gdp-happy-health/blob/master/Design%20Data/Contributions/Bharath/zoom%20meeting.jpeg)
 
 - All commit links 
+
 - https://github.com/annie0sc/gdp-happy-health/commits?author=bharathkumar3355
 
 
