@@ -30,7 +30,7 @@
 
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
-- We Team members joined Zoom meeting hosted by Dr.Badami and had discussed about issues and status of the app.
+- We Team members joined Zoom meeting hosted by Dr.Badami and had discussion about issues and status of the app.
 - After the discussion with Dr.Badami, UI team sent user challenges, More challenges, sleep, step count and water intake UI Pages.
 - Tasks were assigned to the team members.Me and my team member to work on adding new UI pages in repo.
 - [UserChallenges](https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48)
