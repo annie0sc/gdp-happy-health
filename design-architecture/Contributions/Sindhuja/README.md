@@ -401,7 +401,114 @@ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/mee
 
 - After making the necessary changes, the modified app is deployed on google cloud.
 
+  ![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Modified%20app.PNG?raw=true)
 
+## Half Day Work (10/14/2020) - 4 hours
+
+- On the second half day, I have attended zoom meeting hosted by Dr. Badami.
+
+- on the same day, I have joined zoom meeting with data team and our team has explained how we connected google cloud database to SQL workbench and started editing sample data.
+
+  https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/meetingDataTeam.jpeg
+
+  Minutes of meeting :
+
+  - Google cloud database connection to sql workbench.
+
+  - Editing sample data.
+
+  - discussed on models and controllers for the app.
+
+  - Creating models for the database entities
+
+
+- As per the discussion in the meeting, our team started working together on controllers for the app.
+
+- As suggested by my team lead, I have read and understood MVC structure for node.js app from the following resource :
+
+  https://www.sitepoint.com/node-js-mvc-application/
+
+## Half Day Work (10/16/2020) - 4 hours
+
+- On the third half day, I have worked with my team lead to create controllers for the user login page as per the understandings on half day 2.
+
+- I have worked on the following issue assigned to me in Jira and marked it as done.
+
+  http://cs04.nwmissouri.edu/browse/FIT-110?filter=-1
+
+- Worked with my team member in creating controllers for forgot password page.
+
+  shared commit: https://github.com/harishThadka/happyHealth/commit/7499b0e1290ea479d151241a488059d4e946ee89
+
+- My team member harish assigned me a task to clear the dependency issue while deploying the app, I did my research and communicated him the solution to resolve the issue.
+
+# Module 5 - Individual 1
+
+## Attendance
+
+10/19/2020 - Attended zoom meeting
+
+10/21/2020 - Attended zoom meeting
+
+10/23/2020 - Attended zoom meeting
+
+All the meetings and discussions are updated in this link:
+
+https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md
+
+## Half Day Work (10/19/2020) - 4 hours
+
+- On first half day, I have attended zoom session hosted by Dr. Badami to discuss about status report.
+
+- After the zoom meeting, as suggested by Dr. Badami I have started working with my team lead in updating responsive design for all the html pages.
+
+- I have worked with one of my team members to make user signup and forgot password page responsive by including bootstrap Css.
+
+  shared commit: https://github.com/harishThadka/happyHealth/commit/3a3a91691ed1a85af4d918d23a751ffe348db2ed
+
+- We have also added node_modules folder under .gitignore folder which helps re-installing all the dependent modules when we host the application on different platform.
+
+- I have also worked in troubleshooting some issues we faced while deploying the app after making the required changes.
+
+## Half Day Work (10/21/2020) - 4 hours
+
+- On the second half day, I have attended class through zoom session hosted by Dr. Badami and discussed acceptance criteria for sprint 3.
+
+- We had a zoom meeting with sprint team and discussed the status of sprint 3 tasks.
+ 
+  https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Meetings/Sprintoct20.jpg
+
+  Minutes of meeting :
+
+   - status of tasks assigned.
+
+   - Issues we need to solve in the app.
+
+- As suggested by Dr. Badami, our team worked together and updated a new button in admin login page.
+
+- Updated Bootstrap Css to make web pages responsive in user home and admin home pages.
+
+- Also worked on removing success message in admin home page.
+
+## Half Day Work (10/23/2020) - 4 hours
+
+- On the third half day, I have attended zoom class hosted by Dr. Badami and discussed the status of the application.
+
+- I have worked with my team in implementing backend code for password validation.
+
+  shared commit: https://github.com/harishThadka/happyHealth/commit/6fa2543f5a48069ab59faeed87cf6d57134e7632 
+
+- Also worked in implementing reset password functionality.
+
+- Added routes folder for reset password page.
+
+- Worked on backlog sprint 2 tickets in Jira and marked them as done.
+
+- After making the necessary changes, we deployed the app successfully on google cloud.
+
+
+
+ 
 
 
 

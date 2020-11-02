@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    div {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+p{
+  font-size: 17px;
+}
+    body {
+    background: #979191;
+    display: table-cell;
+    vertical-align: middle;
+  
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+
+ label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.button {
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 15px 90px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 60px;
+}
+
+
+.button1 
+{
+  background-color: #c5caca;
+}
+
+input,
+label {
+    margin: .4rem 0;
+    text-align: center;
+    align-items: center;
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+select {
+  background-color: white;
+  border: thin solid grey;
+  border-radius: 8px;
+  display: inline-block;
+  font: inherit;
+  height: 4%;
+  width: fit-content;
+  padding: 0.5em 3em 0.3em 1em;
+  
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+select.arrows {
+  background-image:    url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA3klEQVRIS+3VMU9CMRTF8d8zBL+aizoQFhx0kUk33RzdYMNFXUFnYeGrYYyaJiUxJHDLSxodbNKpfeffc9/pbaPyaCrr+3OA++z4rtT5Pg5GuMnCY9yWQEoBE1xhlUUP8YDrCBIB0vojLvGO0yz4hm4JJAKcYYoPHGOZAUdYoIMBXrc5iQAHeMlzviFygj7O8dkWEJU4XI8chALRhn9AVKHf70VRTHu4wFfbmKZLNKt50dLBnna0imcMd/2I0phWa3Y/D1e1Xa9BCZJG0VuQNpaWKMx72xS1Fl5/WN3BN+AgJhnZQlq4AAAAAElFTkSuQmCC');
+  background-position: calc(100% - .5rem), 60% 0;
+  background-size:  1em 1em;
+  background-repeat: no-repeat;
+  
+}
+
+select.arrows:focus {
+  border-color: rgb(135, 135, 146);
+  outline: 0;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 9px;
+}
+display: flex;
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+  </style>
+</head>
+
+<body>
+<span>
+  <div style="text-align:center">
+    
+    <div class="row">
+      <div class="column">
+        <img src="fruits.png" alt="fruits"  width="90" height="90">
+      </div>
+      <div class="column">
+        <img src="vegetable.png" alt="Vegetables"  width="90" height="90">
+      </div>
+      </div>
+  <!-- <label for="meeting-time">Choose a time for your appointment:</label>-->
+
+  </div>
+  <input type="datetime-local" id="meeting-time"
+  name="meeting-time" value="2020-10-12T19:30"
+  min="2018-06-07T00:00" max="2060-06-14T00:00" placeholder="">
+  
+  <div class="selectdiv">
+    <p>Number of Fruits:  </p>
+    <label>
+        <select class="arrows">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+         </select>
+    </label>
+  </div>
+  <div class="selectdiv">
+    <p>Number of Vegetables:  </p>
+    <label>
+        <select class="arrows">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+         </select>
+    </label>
+  </div>
+  <div class="selectdiv">
+    <p>Calories Consumed: </p>
+    <label>
+        <select class="arrows">
+          <option value="1450 Cal">1450 Cal</option>
+          <option value="1500 Cal">1500 Cal</option>
+          <option value="1550 Cal">1550 Cal</option>
+          <option value="1600 Cal">1600 Cal</option>
+         </select>
+    </label>
+  </div>
+  <div class="selectdiv">
+    <p>Personal Goal Setter:  </p>
+    <label>
+        <select class="arrows">
+            <option value="1450 Cal">1450 Cal</option>
+            <option value="1500 Cal">1500 Cal</option>
+            <option value="1550 Cal">1550 Cal</option>
+            <option value="1600 Cal">1600 Cal</option>
+         </select>
+    </label>
+  </div>
+  <div class="selectdiv">
+    <p>Target:   </p>
+    <label>
+        <select class="arrows">
+          <option value="1450 Cal">1450 Cal</option>
+          <option value="1500 Cal">1500 Cal</option>
+          <option value="1550 Cal">1550 Cal</option>
+          <option value="1600 Cal">1600 Cal</option>
+         </select>
+    </label>
+  </div>
+  <div style="text-align:center" color=#10533f>
+    <button class="button button1">My Challenges</button>
+</div>
+</span>
+</body>
+
+</html>
