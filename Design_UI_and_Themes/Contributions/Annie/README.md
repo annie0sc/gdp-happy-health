@@ -523,117 +523,14 @@ The rest of the days we had kept in contact vis WhatsApp and repository.
 
 # Half-Day 1 (10/26/2020)
 
-* I had shown the moqups with the updates that were asked by the professor in class on Monday.
-* This followed the discussion of implementing the HTML ceods for the moqups that were created so far. 
-* I had also discussed with the professor about the design flow in accordance with the RFP as the admin pages were not in sync with the client requirements. 
-* I had later informed my team about this my hosting a zoom meet in the afternoon.
-* After a long discussion, I had assigned the moqups updation to Navya, Admin moqups to Soujanya and Vineetha and I would be working on creating the new HTML pages.
-* Simulatiously, I had worked on making the existing pages in the live application responsive in nature.
-* I had worked on each page so that they would not get distroted when viewing using a mobile phone. 
-* The following are the commits made to the pages: 
-1. User Home Page
-2. Sign In Page
-3. Sign Up Page
-4. Forgot Password Page
-5. Verification Page and
-6. Reset Password Page.
+* I had worked on cearting the sleep activity page so as to add the fields in the live application.
 
-https://github.com/annie0sc/gdp-happy-health/commit/6485db5c7c0a22cf64b8dcd95143e063d11fb550
+* Once this was done, I attempted to fix the icons for coherance throughout the live application.
 
-https://github.com/annie0sc/gdp-happy-health/commit/d726c5c17d07a74fb7171a060f9ab9c812d0c145
-
-https://github.com/annie0sc/gdp-happy-health/commit/b653c7c2a5b22aa8acc898584731757bc3fbabc5
-
-https://github.com/annie0sc/gdp-happy-health/commit/6b1997ec7b83f070b398247bc8f1b3802ef1be0f
-
-https://github.com/annie0sc/gdp-happy-health/commit/15eb89b4ea3fbf1ad0a9cc18d16195755cc153ff
-
-https://github.com/annie0sc/gdp-happy-health/commit/a7096088a8e027e2ea64ee0f89f49136f77b9ae1
-
-https://github.com/annie0sc/gdp-happy-health/commit/933b4bf2a712601bd230bfb29d96732e8f6b0e6e
-
-https://github.com/annie0sc/gdp-happy-health/commit/7a004ea1fe86ee5000fa53c205ea7a25f0f444ac
-
-https://github.com/annie0sc/gdp-happy-health/commit/b56fb5c4c848bb8d787c0f5bb64188dd8f51486c
-
-https://github.com/annie0sc/gdp-happy-health/commit/3b3fef2952d3e782d22a6d267568634d69473917
-
-https://github.com/annie0sc/gdp-happy-health/commit/36f7c4b1c457fa226f596264ef2f191db626df68
-
-https://github.com/annie0sc/gdp-happy-health/commit/6ee80e2d313b9a9d658c588dee98803f46cd75dc
-
-https://github.com/annie0sc/gdp-happy-health/commit/6a75510f97f39d21e1919496e440b3a6ed8776e7
-
-https://github.com/annie0sc/gdp-happy-health/commit/d1256561cf30d1afd9a42809de1cf21fe80023d7
-
-https://github.com/annie0sc/gdp-happy-health/commit/45ecbd8648258d51503a38703aef15c5ffd410ea
-
-* The Zoom Meeting:
-
-![](https://github.com/annie0sc/gdp-happy-health/blob/0523d53e59e6839679308b8ce647ebaec2c22982/Design_UI_and_Themes/Meetings/Screenshot%20(41).png?raw=True)
+* I had also changed some of the buttons and proof read the pages in the live app.
 
 
-# Half-Day - 2 (10/28/2020)
-
-* I had explained the development of the Admin Home Pages to the Professor, where he told to add and remove many components in the moqups.
-* I had conducted a conference call with my teammates about including new members to help in HTML coding for the following pages.
-* I had helped guide Navya with the implementation of the feed back in the new moqups. 
-
-* The following is the link to the new moqups updated:
-
-https://app.moqups.com/k6nkHjQMFS/view/page/a6678e7ce
-
-* I had started working on implementing the HTML codes for User Step Count Page.
-* I had also started implementing User Hydration Level Page.
-* With great difficulty I had obtained a 'walking' icon for the step count page.
-* And I had found a 'water glass' icon for free but it was not with the color theme of the proposed moqups.
 * The following are the commits for the coding mentioned above:
-
-https://github.com/annie0sc/gdp-happy-health/commit/511b89c6cd862c7a290fa5d61ce24633176e9d71
-
-https://github.com/annie0sc/gdp-happy-health/commit/9681c024b48b89a8187f029963927dcc7e2b80d3
-
-https://github.com/annie0sc/gdp-happy-health/commit/5d6e62cbdfa54f63cc5f52c47342e4d04bddb8f9
-
-https://github.com/annie0sc/gdp-happy-health/commit/1ed2620acfb25a9ec6b31aaa69f02b7a8d4e513d
-
-https://github.com/annie0sc/gdp-happy-health/commit/9c56dffb94ceaae3dfafd3d0a2737e7636fdef42
-
-https://github.com/annie0sc/gdp-happy-health/commit/9c56dffb94ceaae3dfafd3d0a2737e7636fdef42
-
-https://github.com/annie0sc/gdp-happy-health/commit/7c788fe962619e11000346fd2f3fc5b9a82640b0
-
-https://github.com/annie0sc/gdp-happy-health/commit/7c788fe962619e11000346fd2f3fc5b9a82640b0
-
-https://github.com/annie0sc/gdp-happy-health/commit/75d1552770ef28ddef01db9a016e05ae327b5aac
-
-https://github.com/annie0sc/gdp-happy-health/commit/9d4b1294501abef9b0ededecc346be4aa9084846
-
-https://github.com/annie0sc/gdp-happy-health/commit/3210f9b36c55943e9bd7a23002a9c9bd18dce12e
-
-https://github.com/annie0sc/gdp-happy-health/commit/a440780811241efe3ca43c283f9476c390b831fe
-
-https://github.com/annie0sc/gdp-happy-health/commit/8362f01b912f383b35410d8b8c61663f24707729
-
-https://github.com/annie0sc/gdp-happy-health/commit/74080155de185a6a277897e66f517f37d0950155
-
-
-# Half-Day - 3 (10/30/2020)
-
-* I had conducted a zoom meeting to discuss the workflow of the next module.
-* The fruits and vegtable intake activities have to be created separated instead of calorie calcultor.
-* The following is the screenshot of the emails that were exchanged accordingly:
-
-![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(46).png?raw=True)
-
-* I had then emailed the Sprint team about the updates and inclusion of the new members to the UI team. 
-* Further discussions about the tasks assignment was done in the evening.
-
-* The following are some changes done to the documentation:
-
-https://github.com/annie0sc/gdp-happy-health/commit/0523d53e59e6839679308b8ce647ebaec2c22982
-
-https://github.com/annie0sc/gdp-happy-health/commit/660137e876c9b8fd098aafa28c08c4deeb83a0a9
 
 https://github.com/annie0sc/gdp-happy-health/commit/8195431266278f5b263b94f9f7e2343b2923878f
 
@@ -642,6 +539,73 @@ https://github.com/annie0sc/gdp-happy-health/commit/333e0f7b1914adf3453e11e8742d
 https://github.com/annie0sc/gdp-happy-health/commit/72d006f56326e19730c9622ca4d32f4a1e0c2936
 
 https://github.com/annie0sc/gdp-happy-health/commit/4503a767605c3299d6732603662e9c5007bcaa38
+
+https://github.com/annie0sc/gdp-happy-health/commit/59ec419c326b4dd56209f7035df7389d9a456ee2
+
+https://github.com/annie0sc/gdp-happy-health/commit/8d809093cc26a3378d3486a8d936690add396dc4
+
+https://github.com/annie0sc/gdp-happy-health/commit/7ffd9090ab21587e9af4aa5549c8f72d55fd9eee
+
+https://github.com/annie0sc/gdp-happy-health/commit/781c8d85baeb5ec2d945c05224eb22ddca1487f8
+
+https://github.com/annie0sc/gdp-happy-health/commit/08c7bcf5c664b067044b4ce5fb911895aaea48f6
+
+https://github.com/annie0sc/gdp-happy-health/commit/7864f857c71380a5f6dd109b0778c74961c5e7a2
+
+# Half-Day - 2 (10/28/2020)
+
+* I had worked worked on admin home page by adding four new sub divisions for the administrator. 
+* I had also worked on more-challenges page which displays two main buttons for accepting and declining the challenges available.
+* I had relocated some files to the main folder for easier access to the new members in our team.
+* I had send all of the new html screens to the Architecture team for deploying it to the live application.
+
+* The following are the commits for the coding mentioned above:
+
+https://github.com/annie0sc/gdp-happy-health/commit/eb443a4ef35b3c1b3759d18ad009b3396ba048e2
+
+https://github.com/annie0sc/gdp-happy-health/commit/2362a7562872d6069c4b73354ebc964ad68f306e
+
+https://github.com/annie0sc/gdp-happy-health/commit/f55bb32e188a11281455457decbbb532d1ee17f3
+
+https://github.com/annie0sc/gdp-happy-health/commit/4b52dfe1b01a072ea8f2fce9ea06483cb008c0a6
+
+https://github.com/annie0sc/gdp-happy-health/commit/e7143290832ff281f1a7647581434070f17506af
+
+https://github.com/annie0sc/gdp-happy-health/commit/2ed8c11cc37e3fdac0f4620a2ef71eb4685f04bc
+
+https://github.com/annie0sc/gdp-happy-health/commit/60ebc7c8ef1e551c74a916831ec4d9a76cafe2a0
+
+https://github.com/annie0sc/gdp-happy-health/commit/2761e7fee23a1d2a5c2edae26a040c4c24624f9b
+
+https://github.com/annie0sc/gdp-happy-health/commit/a4667f2d767f5632caf79bb5c28e1ebdf63a273d
+
+https://github.com/annie0sc/gdp-happy-health/commit/aec444f3220b696adaea45698f7a0ed8892bbd9f
+
+https://github.com/annie0sc/gdp-happy-health/commit/13718958d5b5f11f28ba552ed45257ac624103ff
+
+# Half-Day - 3 (10/30/2020)
+
+* I had hosted a zoom meeting to discuss the workflow of the next module.
+* The fruits and vegtable intake activities have to be created separated instead of calorie calcultor.
+* I had also assigned tasks to everyone in the group for next module.
+
+* The following is the screenshot of the emails that were exchanged accordingly:
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(50).png?raw=True)
+
+* I had then emailed the Sprint team about the updates and inclusion of the new members to the UI team. 
+* Further discussions about the tasks assignment was done in the evening.
+
+https://github.com/annie0sc/gdp-happy-health/commit/f7172bb97cd8361dd7c0c265ba26c03f4eab3803
+
+https://github.com/annie0sc/gdp-happy-health/commit/b4dd683baf04642bed5ab0882ef544c25430c52d
+
+https://github.com/annie0sc/gdp-happy-health/commit/3afd55c01eafeea9a667c8bd10006416b2b97856
+
+https://github.com/annie0sc/gdp-happy-health/commit/b36137f08296eff29861e2bfac79a2ddf7d04737
+
+https://github.com/annie0sc/gdp-happy-health/commit/7f6d711d54f8adcfb3c75d900a853fff62b00d20
+
 
 # **Moqups Links:**
 
