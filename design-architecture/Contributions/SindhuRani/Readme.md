@@ -216,7 +216,9 @@ I have worked on forgot password validation along with one of my team mates.
 # Attendance
 
 10/26/2020 Zoom Session
+
 10/28/2020 Zoom Session
+
 10/30/2020 Zoom Session
 
 # Half day 1:
