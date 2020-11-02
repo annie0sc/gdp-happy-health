@@ -211,7 +211,7 @@ I have worked on forgot password validation along with one of my team mates.
 - https://github.com/harishThadka/happyHealth/commit/69253ba9c6ef1485e1889049ad4fd8414f0d821b
 
 
-# Module 5: Indivudial 1
+# Module 5: Individual 2
 
 # Attendance
 
