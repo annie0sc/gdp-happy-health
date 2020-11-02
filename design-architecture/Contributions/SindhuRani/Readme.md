@@ -226,11 +226,11 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 - On the first half day, I have attended zoom meeting conducted by Dr.Badami and discussed about the status and issues of the application.
 - After the class, I have worked with our team leader and we have added UI pages for user challenges to sent by the UI team.
 
-https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
+- https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
 
-https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
+- - https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
 
-https://github.com/harishThadka/happyHealth/commit/73e693bc64055f48f3007c34ba669e439dd1967c
+- https://github.com/harishThadka/happyHealth/commit/73e693bc64055f48f3007c34ba669e439dd1967c
 
 # Half day 2:
 
@@ -239,10 +239,10 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 - On second half day, attended a zoom meeting with professor Dr.Badami and discussed about the application UI pages.
 - After the class I have worked with one of my team members to add new user home UI pages for the application.
 
-https://github.com/harishThadka/happyHealth/commit/66825e6222b0a4e661141fd898475b1f64fac4bd
+- https://github.com/harishThadka/happyHealth/commit/66825e6222b0a4e661141fd898475b1f64fac4bd
 - We have updated backend functionality on user Home and admin pages after adding the routes.
 
-https://github.com/harishThadka/happyHealth/commit/d9635702cb6e17953968b648dc1a61222ecf0152
+- https://github.com/harishThadka/happyHealth/commit/d9635702cb6e17953968b648dc1a61222ecf0152
 
 # Half day 3:
 
@@ -255,10 +255,12 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
 - ## Credentials for the account :
   User ID : gdphappyhealth@gmail.com
+
   Password : Happyhealth@123
+
 - I have started working on sending OTP.
 
-https://github.com/harishThadka/happyHealth/commit/59127c56863260b80790cc554b9dc40ffdc88590
+- https://github.com/harishThadka/happyHealth/commit/59127c56863260b80790cc554b9dc40ffdc88590
 
 
  
