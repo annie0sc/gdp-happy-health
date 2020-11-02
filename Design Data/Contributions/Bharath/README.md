@@ -39,6 +39,8 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class = Worth 300 points
 
 ## Half Day 2:
 - On 10/28 /2020 , I have attended class via zoom in which we had glance over the acceptance crteria of Sprint 3. One of the individuals from our group demonstrated to the rest of the group the current status of the latest mockups. Eventually, one of the individuals from our group gave the demo on the current state of the live app and also made some adjustments to the app based on the review of the Monday class. 
+- acceptance creteria google sheet
+- https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
 - We also collaborated  with design architecture team and had chance to work on html pages and navigation bars 
 - We are working on pending tasks like calories, depolying code as part of client demo video and we need to depoly some code before submitting it to clinet
 - As part of working with the UI team, I working  on the calories css page along with other team members.
