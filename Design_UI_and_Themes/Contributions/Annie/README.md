@@ -503,13 +503,13 @@ https://app.moqups.com/k6nkHjQMFS/view/page/a6678e7ce
 https://app.moqups.com/SgvoYP22gt/view/page/a78a4832f
 
 
-# Module 5 Individual Contribution 1
+# Module 5 Individual Contribution 2
 
 # Attendance
 
-* **10/26/2020** - I had attended zoom meeting.
-* **10/28/2020** - I had attended zoom meeting.
-* **10/30/2020** - I had attended zoom meeting.
+* **10/26/2020** - I had attended a zoom meeting.
+* **10/28/2020** - I had attended a zoom meeting.
+* **10/30/2020** - I had attended a zoom meeting.
 
 
 # Group Meetings
