@@ -228,7 +228,7 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
 - https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
 
-- - https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
+- https://github.com/harishThadka/happyHealth/commit/ffb1169e8db5f174933d2e034ebe0c2670907855
 
 - https://github.com/harishThadka/happyHealth/commit/73e693bc64055f48f3007c34ba669e439dd1967c
 
@@ -240,7 +240,7 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 - After the class I have worked with one of my team members to add new user home UI pages for the application.
 
 - https://github.com/harishThadka/happyHealth/commit/66825e6222b0a4e661141fd898475b1f64fac4bd
-- We have updated backend functionality on user Home and admin pages after adding the routes.
+- I have worked on updating backend functionality on user Home and admin pages after adding the routes.
 
 - https://github.com/harishThadka/happyHealth/commit/d9635702cb6e17953968b648dc1a61222ecf0152
 
@@ -251,8 +251,7 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 - On third half day, I have attended zoom meeting with professor Dr. Badami and discussed about new client video of the application.
 - I have created gmail account for our application.
 
-![]()
-
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/Contributions/SindhuRani/Gmail.jpeg)
 - ## Credentials for the account :
   User ID : gdphappyhealth@gmail.com
 
