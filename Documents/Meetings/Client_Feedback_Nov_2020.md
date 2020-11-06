@@ -1,6 +1,6 @@
 # Clients Feedback
 ## Purpose
-UI MOckups Initial Feedback from Prof. Badami
+UI Mockups Initial Feedback from Prof. Badami
 ## Summary
 Feedback from Dr. Beemer regarding video from 10/30:
 - I need to see more about the working aspect of the app.  Water, sleep, step count etc. 
