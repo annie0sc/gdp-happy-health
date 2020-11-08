@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+  <title>User Profile!</title>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+
+    }
+
+    /* @viewport {
+      width: device-width;
+      zoom: 1.0;
+    } */
+
+    body {
+      background: rgb(219, 226, 226);
+    }
+
+    .row {
+      background: white;
+      border-radius: 30px;
+      box-shadow: 12px 12px 22px;
+    }
+
+    img {
+      border-bottom-left-radius: 30px;
+      border-top-left-radius: 30px;
+    }
+
+    .btn1 {
+      border: none;
+      outline: none;
+      height: 50px;
+      width: 100%;
+      background-color: rgb(20, 102, 24);
+      color: white;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+
+    .btn1.hover {
+      background: white;
+      border: 1px solid;
+      color: rgb(20, 102, 24);
+    }
+  </style>
+</head>
+
+<body>
+  <section class="Form my-4 mx-2">
+    <h1>Happy Health</h1>
+    <div class="container app-container-wrapper">
+      <div class="row no-gutter">
+        <div class="col-lg-12" px-5="" pt-5="">
+          <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="/userHome">Home</a>
+            <a href="#">Profile</a>
+            <a href="#">Active Challenges</a>
+            <a href="#">History</a>
+            <a href="#">Notifications</a>
+            <a href="/">Logout</a>
+          </div>
+          <span style="font-size:25px;cursor:pointer" onclick="openNav()">&#9776; User Profile </span>
+          <script>
+            function openNav() {
+              document.getElementById("mySidenav").style.width = "250px";
+            }
+
+            function closeNav() {
+              document.getElementById("mySidenav").style.width = "0";
+            }
+          </script>
+          <h4>User Profile</h4>
+          <div class="form-group">
+            <label class="col-md-4 control-label" for="Name (Full name)"> Name</label>
+            <div class="col-md-4">
+              <div class="input-group">
+                <div class="input-group-addon">&nbsp;</div>
+                <input id="Name (Full name)" class="form-control input-md" name="Name (Full name)" required=""
+                  type="text" placeholder="Full Name" />
+              </div>
+            </div>
+          </div>
+          <!-- Multiple Radios (inline) -->
+          <div class="form-group">
+            <label class="col-md-4 control-label" for="Gender">Gender</label>
+            <div class="col-md-4">
+              <div class="input-group">
+                <div class="input-group-addon">&nbsp;</div>
+                <label class="radio-inline" for="Gender-0">
+                  <input type="radio" name="Gender" id="Gender-0" value="1" checked="checked">
+                  Female
+                </label>
+                <div class="input-group-addon">&nbsp;</div>
+                <label class="radio-inline" for="Gender-1">
+                  <input type="radio" name="Gender" id="Gender-1" value="2">
+                  Male
+                </label>
+                <div class="input-group-addon">&nbsp;</div>
+                <label class="radio-inline" for="Gender-2">
+                  <input type="radio" name="Gender" id="Gender-2" value="3">
+                  Other
+                </label>
+              </div>
+            </div>
+            <form>
+              <div class="form-group">
+                <label class="col-md-4 control-label"></label>
+                <div class="col-md-4">
+                  <div class="input-group">
+                    <i class="fa fa-birthday-cake"></i>
+                    <!-- <div class="input-group-addon">&nbsp;</div> -->
+                    <label for="exampleInputEmail1">Date Of Birth</label>
+                    <input type="text" class="form-control" id="dob" aria-describedby="emailHelp"
+                      placeholder="Date Of Birth"><i class="fa fa-calendar" aria-hidden="true"></i>
+                    <div class="col-md-2  col-md-4">
+                      <td>
+                        <label for="exampleInputEmail1">Age</label>
+                        <input id="dob" name="Date Of Birth" type="text" placeholder="Age"
+                          class="form-control input-md ">
+                      </td>
+                    </div>
+                    <div class="form-group">
+                      <i class="fa fa-envelope-o"></i>
+                      <label for="exampleInputEmail1">Email Address</label>
+                      <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                        placeholder="Enter your email address" required>
+
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Current Weight</label>
+                        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                          placeholder="Current weight in lbs" required>
+
+
+                        <label for="exampleInputEmail1">Desired Weight</label>
+                        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                          placeholder="Desired weight in lbs" required>
+
+                        <label for="exampleInputEmail1">Height</label>
+                        <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                          placeholder="Height in Ft/In" required>
+                        <small id="emailHelp" class="form-text text-muted">Is essential to calculate your BMI.</small>
+
+
+                        <p>
+                          <label>Daily Activity</label>
+                          <select id="myList">
+                            <option value="0">Choose</option>
+                            <option value="1">Sedentary</option>
+                            <option value="2">Lightly Active</option>
+                            <option value="3">Moderately Active</option>
+                            <option value="4">Very Active</option>
+                          </select>
+                          <small id="myList" class="form-text text-muted">Helps us understand your typical day.</small>
+                        </p>
+                        <table>
+                          <tr>
+                            <td>
+                              <p>
+                                <label>Country</label>
+                                <select id="myList">
+                                  <option value="0">Choose</option>
+                                  <option value="1">India</option>
+                                  <option value="2">USA</option>
+                                  <option value="3">Denmark</option>
+                                  <option value="4">Canada</option>
+                                </select>
+                              </p>
+                              <!-- https://www.technicalkeeda.com/html-tutorials/all-countries-drop-down-list-in-html
+          refer to the above URL for dropdown code for countries -->
+                            </td>
+                            <td>
+                              <label>State</label>
+                              <input id="myList" class="form-control input-md" type=text placeholder=" State" required>
+                            </td>
+                      </div>
+                      </tr>
+                      </table>
+                      <button type="button" class="btn1 mt-3 mb-5">Save</button>
+                    </div>
+
+
+            </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+
+</html>
