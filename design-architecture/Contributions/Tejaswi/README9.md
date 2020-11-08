@@ -43,7 +43,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 
 Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 300 points
 
-- I have attended the Zoom Session hosted by Dr.Badami one and  discussed about modifications of the app.
+- I have attended the Zoom Session hosted by Dr.Badami one and had a discussion about modifications of the app.
 - After the discussion with professor,Me and my team member started working on user step page.
 - Added complete Step count for the User step Page.[UserStep](https://github.com/harishThadka/happyHealth/commit/be4ec5bd3962890f286494b209114095e958a633)
 - Added navigation bar for User Sleep Page.[UserSleep](https://github.com/harishThadka/happyHealth/commit/a285d6d291829256e8d7268ab3f6564d88a7f166)
