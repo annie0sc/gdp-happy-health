@@ -612,3 +612,103 @@ https://github.com/annie0sc/gdp-happy-health/commit/7f6d711d54f8adcfb3c75d900a85
 https://app.moqups.com/k6nkHjQMFS/view/page/a6678e7ce
 
 https://app.moqups.com/SgvoYP22gt/view/page/a78a4832f
+
+# Module 6 Individual Contribution 1
+
+# Attendance
+
+* **11/2/2020** - I had attended a zoom meeting.
+* **11/4/2020** - I had attended a zoom meeting.
+* **11/6/2020** - I had attended a zoom meeting.
+
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Topics Discussed | Software Used  |
+|---|---|---|---|
+| 11/6/2020  |  40 minutes |  Discussed the work flow for the feedback recived and planning for next moqups. |  Zoom |
+
+The rest of the days we had kept in contact vis WhatsApp and repository.
+
+
+# Half-Day 1 (11/2/2020)
+
+* I had worked on cearting the moqups for the user activities.
+
+* This means, I had designed for 4 modules:
+1. Active challenges,
+2. History/Completed Challenges,
+3. Invitations, and
+4. Scores.
+
+* The following is the link to the moqups:
+
+https://app.moqups.com/k6nkHjQMFS/view/page/ac2cbfadb
+
+
+* The following are the commits for the coding mentioned above:
+
+https://github.com/annie0sc/gdp-happy-health/commit/8195431266278f5b263b94f9f7e2343b2923878f
+
+https://github.com/annie0sc/gdp-happy-health/commit/333e0f7b1914adf3453e11e8742d0e6fbbbc71ec
+
+https://github.com/annie0sc/gdp-happy-health/commit/72d006f56326e19730c9622ca4d32f4a1e0c2936
+
+https://github.com/annie0sc/gdp-happy-health/commit/4503a767605c3299d6732603662e9c5007bcaa38
+
+
+# Half-Day - 2 (11/4/2020)
+
+* I had updated the moqups that were created as advised by Dr. Bheemer.
+
+* I had assigned all of the tasks to the group members tasks regarding HTML coding in-accordance with the new  updates, ie. navigation bar and JS code in the step count activity pages.
+
+* I had also designed the moqups for meditation/me time activity, and have updated the admin side moqups for HTML coding in the next sprint.
+
+* The following are the commits for the coding mentioned above:
+
+https://github.com/annie0sc/gdp-happy-health/commit/eb443a4ef35b3c1b3759d18ad009b3396ba048e2
+
+https://github.com/annie0sc/gdp-happy-health/commit/2362a7562872d6069c4b73354ebc964ad68f306e
+
+https://github.com/annie0sc/gdp-happy-health/commit/f55bb32e188a11281455457decbbb532d1ee17f3
+
+https://github.com/annie0sc/gdp-happy-health/commit/4b52dfe1b01a072ea8f2fce9ea06483cb008c0a6
+
+https://github.com/annie0sc/gdp-happy-health/commit/e7143290832ff281f1a7647581434070f17506af
+
+https://github.com/annie0sc/gdp-happy-health/commit/2ed8c11cc37e3fdac0f4620a2ef71eb4685f04bc
+
+
+
+# Half-Day - 3 (11/6/2020)
+
+* I had hosted a zoom meeting to discuss more about the feedback and creating HTML pages for the admin side.
+
+* I had also assigned tasks to everyone in the group for next module.
+
+* I had discussed about the lag and delay happening in the team, thus finding a solution for the problem by dividing the work equally.
+
+* The following is the screenshot of the emails that were exchanged accordingly:
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(53).png?raw=True)
+
+* I had then emailed the Sprint team about the updates and inclusion of the new members to the UI team. 
+* Further discussions about the tasks assignment was done in the evening.
+
+https://github.com/annie0sc/gdp-happy-health/commit/f7172bb97cd8361dd7c0c265ba26c03f4eab3803
+
+https://github.com/annie0sc/gdp-happy-health/commit/b4dd683baf04642bed5ab0882ef544c25430c52d
+
+https://github.com/annie0sc/gdp-happy-health/commit/3afd55c01eafeea9a667c8bd10006416b2b97856
+
+https://github.com/annie0sc/gdp-happy-health/commit/b36137f08296eff29861e2bfac79a2ddf7d04737
+
+https://github.com/annie0sc/gdp-happy-health/commit/7f6d711d54f8adcfb3c75d900a853fff62b00d20
+
+
+# **Moqups Links:**
+
+https://app.moqups.com/k6nkHjQMFS/view/page/a6678e7ce
+
+https://app.moqups.com/SgvoYP22gt/view/page/a78a4832f
