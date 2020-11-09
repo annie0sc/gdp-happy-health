@@ -268,8 +268,10 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
 # Attendance
 
-11/02/2020	Zoom Session	
+11/02/2020	Zoom Session
+	
 11/04/2020	Zoom Session	
+
 11/06/2020	Zoom Session	
 
 # Half day 1:
@@ -279,10 +281,13 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 - I have joined zoom session conducted by Dr.Badami and discussed about the application status and updates.
 - I have worked on the tasks assigned to me on Admin home page and step count page.
 - I have worked on functionality of implementation of step page of user.
+
 https://github.com/harishThadka/happyHealth/commit/72c614eefd6e452308b0259d9ee32ef5e7cd79b8
 - I have worked on connecting user step page to database.
+
 https://github.com/harishThadka/happyHealth/commit/a5a2f90b18369c8923b98abcd002a09294e19661
 - I have worked on the navigation bar in admin home page.
+
 https://github.com/harishThadka/happyHealth/commit/5f2f5cdfe651f93351e5ee5574d93237b1865d20
 
 # Half day 2:
@@ -291,8 +296,10 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
 - I have joined zoom meeting conducted by Dr.Badami and discussed about the changes in the application.
 - I have worked on navigation bar and made changes in user home page.
+
 https://github.com/harishThadka/happyHealth/commit/c4ab537d6b60100391b1c9b1b953b0750d435f0d
 - I have worked on user step page to add complete step count.
+
 https://github.com/harishThadka/happyHealth/commit/be4ec5bd3962890f286494b209114095e958a633
 
 # Half day 3:
@@ -301,8 +308,10 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
 - I have attended the zoom meeting conducted by Dr.Badami and our design architecture team has presented the new implementations done.
 - We have worked on the issues in the application like changing calorie calculator to mediation time.
+
 https://github.com/harishThadka/happyHealth/commit/381cea10bfc6a1f4da1cd4ce601641f43391d2ff
 - Worked on implementation functionality for water intake in user hydration page.
+
 https://github.com/harishThadka/happyHealth/commit/85411cd204e37ac06db6a72c4db64ca1f5ac8b6a  
 
 
