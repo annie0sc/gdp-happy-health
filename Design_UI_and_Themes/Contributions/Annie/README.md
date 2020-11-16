@@ -712,3 +712,71 @@ https://github.com/annie0sc/gdp-happy-health/commit/7f6d711d54f8adcfb3c75d900a85
 https://app.moqups.com/k6nkHjQMFS/view/page/a6678e7ce
 
 https://app.moqups.com/SgvoYP22gt/view/page/a78a4832f
+
+# Module 6 Individual Contribution 2
+
+# Attendance
+
+* **11/9/2020** - I had attended a zoom meeting.
+* **11/11/2020** - I had attended a zoom meeting.
+* **11/13/2020** - I had attended a zoom meeting.
+
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Topics Discussed | Software Used  |
+|---|---|---|---|
+| 11/9/2020  |  30 minutes |  Meeting with the client about the progress and disussed further development of the application. |  Zoom |
+| 11/13/2020  |  30 minutes |  Discussed the work flow of the leaderboard and challenge management pages. |  Zoom |
+
+The rest of the days we had kept in contact vis WhatsApp and repository.
+
+
+# Half-Day 1 (11/9/2020)
+
+* We had attended the Zoom meeting with the client, Dr. Beemer.
+* I had displayed the moqups for user profile page, fruit and vegetable pages and the meditation page.
+* Dr. Beemer suggested that we change the metrics in the profile page so that there wouldn't be any confustions.
+* She suggested that we change the meditation time to 'track me time'
+* She also told to get some ideas about adding links to online journal or other relaxation events.
+
+Link to the meditation page that was adviced to be changed:
+
+https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Meditation/meditation.html
+
+# Half-Day - 2 (11/11/2020)
+
+* Once Dr. Badami had briefed the class about the topics that we had discussed in the meeting on Monday, he assigned us tasks individually.
+* I had taken the admin challenge management pages and the leaderboard page.
+* Later that evening I had emailed the professor with the my team members who had agreed to work with me on this topic.
+* I had also discussed with the other team leads about the submissions for friday, as it would be realistic to shouw the UI and do the fuctionality by next week, so we agreed to email the professor regarding this. I had followed this discussion with the email and included all the points as discused.
+* I had also helped the other team leaders in dividing their tasks into sub-tasks. This had taken almost all of my time that day as I had to attend numerous calls for coordinating with everyone.
+
+* The following is the emails that I had send over to the professor:
+
+This is the email regarding the team members:
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(62).png?raw=True)
+
+This is the email discussing the workflow for friday class:
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(61).png?raw=True)
+
+* As I had gathered new team members we got to work on the new tasks by creating new moqups for the challenge pages.
+* I had then assigned the task to create the HTML page for the following moqup and create MVC for this page and incooporate it in our application.
+
+The following is the moqup for the challenge page:
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/admin_challenge1.jpeg?raw=True)
+
+
+# Half-Day - 3 (11/13/2020)
+
+* During the class, I had displayed the new page to the professor and he had adviced us to add some more fields to the page as there was no display of exsisting challenges.
+
+* I had then discussed about developing the challenge pages for the users, for which he told to make a note and assign tasks later on in the next semester.
+* After class, my team and I discussed about developing the leaderbord and the new add-ons to the challenge page.
+* I had the developed the moqup page for the challenge page and the leaderboard.
+*For the leaderboard, we discided to take some examples off the internet as we have little to no idea about the layouts and working of this module.
+
+* The following is the image of the moqup for the additional challenge management features:
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/admin_challenge2.jpeg?raw=True)
+
