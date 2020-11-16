@@ -507,6 +507,131 @@ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/mee
 - After making the necessary changes, we deployed the app successfully on google cloud.
 
 
+# Module 5 - Individual 2
+
+## Attendance
+
+10/26/2020 - Attended zoom meeting
+
+10/28/2020 - Attended zoom meeting
+
+10/30/2020 - Attended zoom meeting
+
+All the meetings and discussions are updated in this link:
+
+https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md 
+
+## Half Day Work (10/26/2020) - 4 hours
+
+- On first half day, I have attended zoom meeting hosted by Dr. Badami to discuss on the status report.
+
+- After the meeting, we have contacted UI team about the UI pages for challenges, step count and water intake pages.
+
+- After receiving UI pages, I have worked with my team lead in adding the pages to the views folder in repo.
+
+  https://github.com/harishThadka/happyHealth/commit/376c1e61c286d5ac568edda8cb91b8918d396c48
+
+  https://github.com/harishThadka/happyHealth/commit/73e693bc64055f48f3007c34ba669e439dd1967c
+
+- Then, I have worked with my team on adding routes to the added UI pages.
+
+  https://github.com/harishThadka/happyHealth/commit/5dd7a2eb9f826cb70ed311ae1c837972521c1390
+
+- After adding views and routes, we have cleared the issues found in the html pages.
+
+## Half Day Work (10/28/2020) - 4 hours
+
+- On the second half day, I have attended zoom session hosted by Dr. Badami to discuss on the status of app.
+
+- After discussion, we have worked on creating routes for sleep and water intake pages.
+
+  https://github.com/harishThadka/happyHealth/commit/1cf6a7e2daf8484d5c16e0acd6780b36d15c8746
+
+- Also added more challenges page to the views folder.
+
+- Worked on creating routes to more challenges page with harish.
+
+  https://github.com/harishThadka/happyHealth/commit/5dd7a2eb9f826cb70ed311ae1c837972521c1390
+
+- After adding views and routes, we cleared issues in UI pages and pushed to repo.
+
+## Half Day Work (10/30/2020) - 4 hours
+
+- On the third half day, attended a zoom meeting with Dr. Badami and discussed on preparing client demo video.
+
+- As suggested by Dr. Badami in class, I did my research on using testing software for the application and updated to my teamlead.
+
+- I have worked on updating date picker for step count page.
+
+  https://github.com/harishThadka/happyHealth/commit/f78897bb26e1d3901be614e9c786d7a84d2267aa
+
+- Also monitoring Jira board to clear the tickets which are completed and working on some other tickets in progress.
+
+# Module 6 - Individual 1
+
+## Attendance
+
+11/02/2020 - Attended zoom meeting
+
+11/04/2020 - Attended zoom meeting
+
+11/06/2020 - Attended zoom meeting
+
+All the meetings and discussions are updated in this link:
+
+https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md 
+
+## Half Day Work (11/02/2020) - 4 hours
+
+- On the first half day, I have attended a zoom meeting hosted by Dr. Badami to discuss on the status report.
+
+- As per the exploration we did in the previous week, I have started working on one time password functionality for the forgot password page.
+
+- I have worked with one of my team members in writing functional working code for step count page.
+
+  https://github.com/harishThadka/happyHealth/commit/72c614eefd6e452308b0259d9ee32ef5e7cd79b8
+
+  https://github.com/harishThadka/happyHealth/commit/cbe650a2ec22767a30708f2e4eaf8ccfb2700624
+
+- After testing the functionality of step count page, I did my part in the team to connect the page to google cloud database.
+
+  https://github.com/harishThadka/happyHealth/commit/a5a2f90b18369c8923b98abcd002a09294e19661
+
+  
+## Half Day Work (11/04/2020) - 4 hours
+
+- On the second half day, I have attended zoom session hosted by Dr. Badami.
+
+- We have worked together in implementing navigation bar to the existing pages.
+
+- Added navigation bar in Admin and user home pages.
+
+  https://github.com/harishThadka/happyHealth/commit/a285d6d291829256e8d7268ab3f6564d88a7f166
+
+   https://github.com/harishThadka/happyHealth/commit/aa9f9a0323f2bb96a4f493c64c8caf56e9ac3cc6
+
+- Also added user sleep page to views folder and started writing code for sleep tracking page and connecting the page to database.
+
+## Half Day Work (11/06/2020) - 4 hours
+
+- On the last half day, I have attended class via zoom session hosted by Dr. Badami.
+
+- As suggested by Dr. B, we have worked on changing labels to one of the elements in step count page.
+
+- We have together started writing functionality for sleep time page.
+
+  https://github.com/harishThadka/happyHealth/commit/8a2990b825289d5f1f5eae2e738e98ee878ebed7
+
+- Also, worked with my team lead in preparing Client video for demo purpose.
+
+- Co-ordinated with sprint team regarding acceptance criteria document and recorded video as per the document.
+
+
+
+
+  
+  
+
 
  
 
