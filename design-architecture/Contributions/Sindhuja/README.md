@@ -627,6 +627,46 @@ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/mee
 - Co-ordinated with sprint team regarding acceptance criteria document and recorded video as per the document.
 
 
+# Module 6 - Individual 2
+
+## Attendance
+
+11/09/2020 - Attended zoom meeting
+
+11/11/2020 - Attended zoom meeting
+
+11/13/2020 - Attended zoom meeting
+
+All the meetings and discussions are updated in this link:
+
+https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/meeting.md 
+
+## Half Day Work (11/09/2020) - 4 hours
+
+- On the first half day, I have attended zoom session hosted by Dr. Badami to discuss on the status report.
+
+- After the meeting, I have started working with one of my team members in validating otp using email.
+
+  shared commits :
+
+   https://github.com/harishThadka/happyHealth/commit/0206d171ba863678f82a3d380c2684be9d1a0dc7
+
+   https://github.com/harishThadka/happyHealth/commit/054de304ee892eea162049b5de65cb8691e53d79
+
+- I have contacted my team mate who attended client meeting to know about the minutes of client meeting and clarified my queries.
+
+- We also made some changes regarding terminology usage as suggested by Dr. Badami
+
+## Half Day Work (11/11/2020) - 4 hours
+
+- On the second half day, I have joined zoom meeting hosted by Dr. Badami and joined a group leaded by Harish.
+
+- Our group is assigned a task to design user management page and admin home page.
+
+- 
+
+
+
 
 
   
@@ -634,6 +674,7 @@ https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/mee
 
 
  
+
 
 
 
