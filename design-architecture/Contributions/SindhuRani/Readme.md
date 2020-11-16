@@ -355,11 +355,9 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 - I have worked on the responsive design which is assigned to our group.
 - Worked on designing user management page and admin home page.
 
-![]()
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/user%20management.PNG?raw=true)
 
-![]()
-
-![]()
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/design-architecture/admin%20home.PNG?raw=true)
 
 
 
