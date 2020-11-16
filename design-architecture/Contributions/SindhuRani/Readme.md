@@ -315,6 +315,74 @@ https://github.com/harishThadka/happyHealth/commit/381cea10bfc6a1f4da1cd4ce60164
 https://github.com/harishThadka/happyHealth/commit/85411cd204e37ac06db6a72c4db64ca1f5ac8b6a  
 
 
+# Module 6: Individual 2
+
+# Attendance
+
+11/09/2020 Zoom Session
+
+11/11/2020 Zoom Session
+
+11/13/2020 Zoom Session
+
+
+# Half day 1:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On first half day, I have attended a zoom meeting conducted by Dr. Badami and discussed about the issues and status of the application.
+- I have worked on the changes in the application mentioned by Dr. Badami.
+
+https://github.com/harishThadka/happyHealth/commit/b1a164197677d5bf28e9f7ad2ecfe08f56c21ffd
+
+- Our team member Harish attended the client meeting and discussed about the status of the application and received feedback.
+- I have attended a group call with my team members and got updates about the meeting attended with client.
+- Worked on the feedback given by client and mail implementation in validation page.
+
+https://github.com/harishThadka/happyHealth/commit/0206d171ba863678f82a3d380c2684be9d1a0dc7
+
+https://github.com/harishThadka/happyHealth/commit/054de304ee892eea162049b5de65cb8691e53d79
+
+https://github.com/harishThadka/happyHealth/commit/bef66031be6d5baabf4fe34f0bb4c4c5eecb2717
+
+https://github.com/harishThadka/happyHealth/commit/133e32be153c1d23aac55b7c677c4ae1a7c1437f
+
+# Half day 2:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On second half day, I have attended zoom session conducted by Dr. Badami and re-grouped the members and assigned tasks to each group.
+- I have worked on the responsive design which is assigned to our group.
+- Worked on designing user management page, admin home page.
+
+# Half day 3:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On the third half day, I have attended the zoom meeting hosted by Dr. Badami. Our team member Harish demonstrated the UI pages.
+- Worked on user management page.
+
+https://github.com/harishThadka/happyHealth/commit/3a47a676ab714017363ba2df85e108545b724e27
+
+- New admin home page was added and made some changes.
+
+https://github.com/harishThadka/happyHealth/commit/49590eeaae45ddfa99028e3ce11ab388eca6bd8a
+
+https://github.com/harishThadka/happyHealth/commit/0aef84ed93059e3ba8ee67697b5a3aabceec0876
+
+- Worked on adding backend functionalities to user management page.
+
+https://github.com/harishThadka/happyHealth/commit/a663debce6af53a6c14a7cc8b70d03442322bfe5
+
+https://github.com/harishThadka/happyHealth/commit/0aef84ed93059e3ba8ee67697b5a3aabceec0876
+
+
+
+
+
+
+
+
 
 
 
