@@ -353,7 +353,15 @@ Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300
 
 - On second half day, I have attended zoom session conducted by Dr. Badami and re-grouped the members and assigned tasks to each group.
 - I have worked on the responsive design which is assigned to our group.
-- Worked on designing user management page, admin home page.
+- Worked on designing user management page and admin home page.
+
+![]()
+
+![]()
+
+![]()
+
+
 
 # Half day 3:
 
