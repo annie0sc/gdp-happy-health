@@ -208,40 +208,33 @@ Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 po
 
    Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
-- Attended in-person class and presented the wireframes designed by me to Dr. Badami. 
+- On Wednesday, after doing some modifications our instructor sent our wireframes link to the client.
 
-- I had attended a meeting with the Sprint team and the Design Architecture team to discuss about the requirements for the home page and noted what were discussed in the call.
+- After keen observation, client mailed Dr. Badami. Dr. Badami gave lots of instructions following client's feedback to change like icons, remove phone number, and more about screens. 
 
-- Had a call with my team members and discussed about the review given by Dr. Badami in class and what fields to be modified or added to the wireframes.
+- Worked on the user profile screen by following the client's feedback. Removed phone number field, added desired weight, removed medical conditions field and made few more changes.
 
-- Every member in our team created [moqups.com](https://moqups.com/) account and I invited all of them to my project, so that they can edit wherever the changes are necessary.
+- Had a call with my team members and reviewed fields to be modified or added to the wireframes.
 
-- As said by our instructor, changed the name of iOS UI wireframe to [Mobile UI](https://github.com/annie0sc/gdp_health_app/commit/b3dceb8c94c7c1ea6a87fb1629bdd8f45be3104e)
+-the link to the user profile Mobile application UI wireframe is [User Profile UI](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Mobile_Wireframe/Mobile_UserProfile_WireframeLink.txt)
 
 - Also worked on the issues created in Jira.
 
-- I've taken user profile and features screens to design wireframe.
-
-  [Screens](https://prnt.sc/uiync3)
 
 
 
-
-4. ## Half Day 3
+4. ## Half-Day 3
 
    Time allotted : 4hours = 1hour in class + 3hours out of the class = Worth 300 points
 
 
-- This(Friday) morning attended a zoom meeting scheduled by Dr. Badami and our team lead spoke on how the tasks are shared among us and how we decided to work further. 
+- This(Friday) morning attended a zoom meeting scheduled by Dr. Badami and discussed on how to work on the issues created in Jira.
 
 - After listening to the feedback given by our instructor we assigned few tasks to bring out the best wireframes for both Web and Mobile.
 
-- Scheduled a meeting and discussed about the roles and tasks to be done by the day.
+- Worked on the issues in Jira and resolved few of them. 
 
-- Designed a wireframe for user profile and submitted the link to our instructor and our instructor will forward that to the client. 
-
-
-- Worked on the issues in Jira and resolved them in this Sprint. Planned few tasks for the next Sprint which is to be continued from Monday.
+- We mailed to Dr. Badami as there are less resources and for better 
 
 
 
