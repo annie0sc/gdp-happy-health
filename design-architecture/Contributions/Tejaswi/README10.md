@@ -46,7 +46,7 @@ Time allocated : 4 hours = 1 hour in class + 3 hours out of the class = Worth 30
 - We Team Members joined Zoom meeting hosted by Dr.Badami and we all team members were divided into groups and assigned tasks.
 - We Team assigned task on Eliminating icons and using list or table of options instead.
 - Re- thinking of admin home design.
-- We as a team started working on Elimination of icons.[!Icons](https://github.com/jscodebit/happyhealth-dashboard/blob/main/HappyHealth.PNG)
+- We as a team started working on Elimination of icons.![Icons](https://github.com/jscodebit/happyhealth-dashboard/blob/main/HappyHealth.PNG)
 
 # Half Day 3:
 
