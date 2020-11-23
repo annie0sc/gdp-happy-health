@@ -780,3 +780,105 @@ The following is the moqup for the challenge page:
 
 ![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/admin_challenge2.jpeg?raw=True)
 
+# Module 7 Individual Contribution 1
+
+# Attendance
+
+* **11/16/2020** - I had attended a zoom meeting.
+* **11/18/2020** - I had attended a zoom meeting.
+* **11/20/2020** - I had attended a zoom meeting.
+
+
+# Group Meetings
+
+| Date  | Meeting Length  |  Topics Discussed | Software Used  |
+|---|---|---|---|
+| 11/16/2020  |  10 minutes |  Discussed how to do the client presentation with my teammates. | WhatsApp Video Call |
+| 11/18/2020  |  10 minutes |  Discussed the work flow of the leaderboard and challenge management pages. | WhatsApp Video Call |
+
+The rest of the days we had kept in contact vis WhatsApp and repository.
+
+
+# Half-Day 1 (11/16/2020)
+
+* I had voluneered for making the client demo video after displaying work flow that we had done on the weekend.
+* I had explained about the challenge management page which was holding static values.
+
+Link to the client demo video:
+
+https://use.vg/xDpixa
+
+* I had also helped proof read the google spreadsheet for the cient demo check list.
+
+The following is the link to the spread sheet:
+
+https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit?usp=sharing
+
+* I had also emailed the professor and rest of the class with the links for verification.
+
+The following is a screenshot of the email sent:
+
+![](https://github.com/annie0sc/gdp-happy-health/blob/master/Design_UI_and_Themes/Contributions/Annie/Screenshot%20(72).png?raw=True)
+
+# Half-Day - 2 (11/18/2020)
+
+* Once Dr. Badami had briefed the class about the topics that we had discussed in the meeting on Monday, he assigned us tasks individually.
+* He had discussed the client feedback that we got from the demo.
+* And the proceeded to assign new tasks as week 14 in the google sheet.
+
+* The following is the emails that I had send over to the professor:
+
+* I had then worked on the buttons in the challenge management page. Made the edit and the delete button and then I had also added the fuctionality for the button which redirects to the admin home.
+
+* I had also removed the calories field in the user side which was requested to be deleted by the client.
+
+The following are the github links to the work that was done:
+
+https://github.com/harishThadka/happyHealth/commit/7b5d37bd007b090464ef308d6009982e9fd953f7
+
+https://github.com/harishThadka/happyHealth/commit/ebd1a3bd88be9f097a62844f716023be0f475a38
+
+https://github.com/harishThadka/happyHealth/commit/471d0b8e421a487ddb17515f4f760b634eb5d656
+
+https://github.com/harishThadka/happyHealth/commit/9d1ff20370f9ea671e80bd723418da38846366f4
+
+https://github.com/harishThadka/happyHealth/commit/7a5f77a727e8706bd8f4d60aba82f0b77ff8e64c
+
+https://github.com/harishThadka/happyHealth/commit/a2a578ca12bd1d4a63b7a6d887a213a951c1c1e7
+
+
+# Half-Day - 3 (11/20/2020)
+
+* I had changed the user side layout to match the admin side of the application.
+
+* The user home page was changed to the lighter background.
+* I had changed the user step count to the brighter UI.
+* I had also changed the water intake page.
+* The sleep count page was also changed but this meant that the functionalities were lost while making the changing.
+
+* The following is the links to the github commits:
+
+https://github.com/harishThadka/happyHealth/commit/b36bfb041b84f9e58a730f8f020d830a39d2fc61
+
+https://github.com/harishThadka/happyHealth/commit/e8e1ef98b9a496e661a9cebdaf55ccbe8d673453
+
+https://github.com/harishThadka/happyHealth/commit/86aa3cbba37de79a7ca87d59c137a3df58befafc
+
+https://github.com/harishThadka/happyHealth/commit/853c9531146490316be240dbac63604c4ad20070
+
+https://github.com/harishThadka/happyHealth/commit/eecb040c6a2fbd510087536df5bb4ec10e6282fe
+
+https://github.com/harishThadka/happyHealth/commit/2a3fde628a7488f342e06a21f226b2cf28769fb4
+
+https://github.com/harishThadka/happyHealth/commit/636cdd0104bdbb580e31b6da7e9b88b7be77a114
+
+https://github.com/harishThadka/happyHealth/commit/0e85e93c2f97dc1bc28c5273b62c5a6dacc7005a
+
+https://github.com/harishThadka/happyHealth/commit/0e85e93c2f97dc1bc28c5273b62c5a6dacc7005a
+
+https://github.com/harishThadka/happyHealth/commit/045566093e83930ccbd9716f3a7a05efcb34c56d
+
+https://github.com/harishThadka/happyHealth/commit/b557fdf4b9a7069b159099dd4cbde3ffa038c121
+
+https://github.com/harishThadka/happyHealth/commit/174740ecd20b61a2cc301eefdfd46d8d40b19505
+
