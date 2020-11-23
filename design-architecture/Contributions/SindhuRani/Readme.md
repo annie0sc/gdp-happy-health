@@ -385,6 +385,101 @@ https://github.com/harishThadka/happyHealth/commit/0aef84ed93059e3ba8ee67697b5a3
 
 
 
+# Module 7: Individual 1
+
+# Attendance
+
+11/16/2020 Zoom Session
+
+11/18/2020 Zoom Session
+
+11/20/2020 Zoom Session
+
+
+# Half day 1:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On first half day, I have attended a zoom meeting conducted by Dr. Badami and discussed about the issues and status of the application.
+- I have worked on mangement page.
+
+https://github.com/harishThadka/happyHealth/commit/e655123e724a9b26e02a7ed3a584acf7119a7ccc
+
+https://github.com/harishThadka/happyHealth/commit/d8186df497e41959a6e7b04d401714d223f6b58c
+
+- I have worked on delete button functionality in group management page.
+
+https://github.com/harishThadka/happyHealth/commit/06b1f4713a613132f5b1409a4ad3bd399aeeb29f
+
+- I have worked on edit profile page.
+
+https://github.com/harishThadka/happyHealth/commit/aea01c94a65a5350952de94ee8acf4cd3c07c5f6
+
+https://github.com/harishThadka/happyHealth/commit/aea01c94a65a5350952de94ee8acf4cd3c07c5f6
+
+https://github.com/harishThadka/happyHealth/commit/e9c18a855b4af4bdb0a4bbf9fc86e7efd3b17d43
+
+- Worked on editing functionality and worked on changing style buttons in group management.
+
+https://github.com/harishThadka/happyHealth/commit/abbe03c21c4f6518e24c276e4bc6c9d055fcc032
+
+https://github.com/harishThadka/happyHealth/commit/cf792a97f4a078d7c575b5a0c50e418b828a4410
+
+https://github.com/harishThadka/happyHealth/commit/81247ee3908e968e1a9f8575b36b0568b6f0056c
+
+# Half day 2:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On second half day, I have attended zoom meeting conducted by Dr.Badami. Our team lead Harish presented the completed tasks.
+
+- I have worked on Changing password type in edit profile page as per the feedback given by Dr. Badami.
+
+https://github.com/harishThadka/happyHealth/commit/5dd4564d01da659dfbaa4c66b5c3d9555efcffc3
+
+- I have started working on edit group functionality in group management page.
+
+https://github.com/harishThadka/happyHealth/commit/6c37c493489406883f7736061897ea926373009c
+
+https://github.com/harishThadka/happyHealth/commit/e3f8ea313d787a5f9750deb8a2622b6b276f471c
+
+- I have Worked on edit funtionality in edit group page.
+
+https://github.com/harishThadka/happyHealth/commit/e3f8ea313d787a5f9750deb8a2622b6b276f471c
+
+
+# Half day 3:
+
+Time allocated : 4 hours = 1 hour in zoom + 3 hours out of the class = Worth 300 points.
+
+- On third half day, I have attended a zoom meeting hosted by Dr. Badami to discuss about issues and status of app.
+
+- I have started working on group memebers page.
+
+https://github.com/harishThadka/happyHealth/commit/4b2a51d6302e2f576152b7ce013e9f36e3d48086
+
+https://github.com/harishThadka/happyHealth/commit/236b1d6a4fa6992f19f4b7c7b656a95c96505f4e
+
+https://github.com/harishThadka/happyHealth/commit/61c31adba1f9a78ed37680be3394328fa61142db
+
+- I have worked on add user functionality in group members page.
+
+https://github.com/harishThadka/happyHealth/commit/6ecc48ab374905e82951bdd935d9d1a1dd3af6de
+
+https://github.com/harishThadka/happyHealth/commit/ddf4f2731db6c45b2d8d9363727a00dec45da512
+
+https://github.com/harishThadka/happyHealth/commit/0543dd67fce3b2c76be96d49d6105cf8e158999d
+
+
+
+
+
+
+
+
+
+
+
 
 
 
