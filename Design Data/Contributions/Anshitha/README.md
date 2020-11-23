@@ -1,12 +1,12 @@
 Naga Anshitha Velagapudi
-## Module 6: Individual 2
+## Module 7: Individual 1
 ## 1. Attendance(200 Points)
 I attended all classes online through zoom meeting.
 | Class Dates | Attended | 
 |----------|-------------|
-| 11/2/2020 | Online |
-| 11/4/2020 | Online |
-| 11/6/2020 | Online |
+| 11/16/2020 | Online |
+| 11/18/2020 | Online |
+| 11/20/2020 | Online |
 
 ## 1. Half day-1(300 Points)
 Time allotted : 4hrs = 1hr in class + 3hrs out of the class.
